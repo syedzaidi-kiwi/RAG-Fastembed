@@ -1,0 +1,1113 @@
+Ch-05
+
+
+
+
+
+
+
+
+
+Pharmaco- (drug) therapy is dynamic and an ever evolving science. It requires understanding of the drug, the disease, the patient and the milieu in which it is undertaken. As such, in addition to knowledge of drug action, mechanisms and pharmacokinetics, several aspects like drug dosage, sources of variability in drug response, pharmacogenetics, influence of disease on drug action, etc. are important for otimum drug therapy.
+DRUG DOSAGE
+‘Dose’ is the appropriate amount of a drug needed to produce a certain degree of response in a given patient.
+Accordingly, dose of a drug has to be qualified in terms of the chosen response, e.g. the analgesic dose of aspirin for headache is 0.3–0.6 g, its antiplatelet dose is 60–150 mg/day, while its antiinflammatory dose for rheumatoid arthritis is 3–5 g per day. Similarly there could be a prophylactic dose, a therapeutic dose or a toxic dose of the same drug.
+The dose of a drug is governed by its inherent potency, i.e. the concentration at which it should be present at the target site, and its pharmacokinetic characteristics. The recommended doses are based on population data and cater to an ‘average’ patient. However, individual patients may not be ‘average’ in respect to a number of pharmacokinetic and pharmacodynamic parameters, emphasizing the need for individualizing drug dose. The strategies adopted for different types of drugs and conditions are:
+
+
+1.Standard dose The same dose is appropriate for most patients—individual variations are minor or the drug has a wide safety margin so that a large enough dose can be given to cover them, e.g. oral contraceptives, penicillin, chloroquine, mebendazole, hydrochlorothiazide.
+2.Regulated dose The drug modifies a finely regulated body function which can be easily measured. The dosage is accurately adjusted by repeated measurement of the affected physiological parameter, e.g. antihypertensives, hypoglycaemics, anticoagulants, diuretics, general anaesthetics. In their case, measurement of plasma drug concentration is not needed.
+3.Target level dose (see p. 41) The response is not easily measurable but has been demonstrated to be obtained at a certain range of drug concentration in plasma. An empirical dose aimed at attaining the target level is given in the beginning and adjustments are made later by actual monitoring of plasma concentrations. When facilities for drug level monitoring are not available, crude adjustments are made by observing the patient at relatively long intervals, e.g. antidepressants, antiepileptics, digoxin, theophylline.
+4.Titrated dose The dose needed to produce maximal therapeutic effect cannot be given because of intolerable adverse effects. Optimal dose is arrived at by titrating it with an acceptable level of adverse effect. Low initial dose and upward titration (in most non-critical situations) or high initial dose and downward titration (in critical situations) can be practised. Often a compromise between submaximal therapeutic effect but tolerable side effects can be struck, e.g. anticancer drugs, corticosteroids, levodopa.
+
+
+Fixed dose combinations (FDCs) of drugs
+A large number of pharmaceutical preparations contain two or more drugs in a fixed dose ratio. Advantages offered by these are:
+1.Convenience and better patient compliance—when all the components present in the FDC are actually needed by the patient and their amounts are appropriate. It may also be cost saving compared to both/all the components administered separately.
+2.Certain drug combinations are synergistic,  e.g. sulfamethoxazole + trimethoprim; levodopa + carbidopa/benserazide; combination oral contraceptives, isoniazid + rifampin. 
+3.The therapeutic effect of two components being same may add up while the side effects being different may not. For this the components of the FDC should act by different mechanisms, e.g. amlodipine + atenolol as antihypertensive.
+4.The side effect of one component may be counteracted by the other, e.g. a thiazide + a potassium sparing diuretic. However, the amount of the latter may not be sufficient in all cases.
+5.Combined formulation ensures that a single drug will not be administered. This is important in the treatment of tuberculosis, HIV-AIDS and falciparum malaria.
+Before prescribing a combination, the physician must consider whether any of the ingredients is unnecessary; if it is, the combination should not be prescribed. It can never be justified that a drug is given to a patient who does not need it in order to provide him another, one that he needs.
+
+
+There are many inbuilt disadvantages of FDCs: 
+1.The patient may not actually need all the drugs present in a combination: he is subjected to additional side effects and expense (often due to ignorance of the physician about the exact composition of the combined formulations).
+2.The dose of most drugs needs to be adjusted and individualised. When a combined formulation is used, this cannot be done without altering the dose of the other component(s). However, few combinations are available at more than one dose ratios, e.g. levodopa (100 mg) + Carbidopa (10 mg or 25 mg), amoxicillin (250 mg or 500 mg) + clavulanic acid (125 mg).
+3.The time course of action of the components may be different: administering them at the same intervals may be inappropriate.
+4.Altered renal or hepatic function of the patient may differently affect the pharmacokinetics of the components.
+5.Adverse effect, when it occurs, cannot be easily ascribed to the particular drug causing it.
+6.Contraindication to one component (allergy, other conditions) contraindicates the whole product.
+7.Confusion of therapeutic aims and false sense of superiority of two drugs over one is fostered, specially in case of antimicrobials whose combinations should be avoided. Corticosteroids should never be combined with any other drug meant for internal use. Drug combinations that are banned in India are listed in Appendix-4.
+Thus, only a handful of FDCs are rational and justified, while far too many are produced and vigorously promoted by the pharmaceutical industry. In fact, the latest (2017) WHO essential medicines list incorporates only 25 FDCs, and the NLEM (2015) of India has only 20 FDCs. In addition to the previously banned FDCs, recently 344 other irrational FDCs have been banned in India.
+
+
+FACTORS MODIFYING DRUG ACTION
+Variation in response to the same dose of a drug between different patients and even in the same patient on different occasions is a rule rather than exception. One or more of the following categories of differences among individuals are responsible for the variations in drug response:
+(1) Individuals differ in pharmacokinetic handling of drugs: attain varying plasma/target site concentration of the drug. This is more marked for drugs disposed by metabolism (e.g. propranolol) than for drugs excreted unchanged (e.g. atenolol).
+(2) Variations in number or state of receptors, coupling proteins or other components of response effectuation.
+(3) Variations in neurogenic/hormonal tone or concentrations of specific constituents, e.g. atropine tachycardia depends on vagal tone, propranolol bradycardia depends on sympathetic tone, captopril hypotension depends on body Na+ status.
+A multitude of host and external factors influence drug response. They fall in two categories viz genetic and nongenetic including all environmental, circumstantial and personal variables. Though individual variation cannot be totally accounted for by these factors, their understanding can guide the choice of appropriate drug and dose for an individual patient. However, final adjustments have to be made by observing the response in a given patient on a given occasion.
+The factors modify drug action either:
+(a)Quantitatively The plasma concentration and/or the action of the drug is increased or decreased. Most of the factors introduce this type of change and can be dealt with by adjustment of drug dosage.
+(b)Qualitatively The type of response is altered, e.g. drug allergy or idiosyncrasy. This is less common but often precludes further use of that drug in the affected patient.
+
+
+The various factors are discussed below—
+1. Body size It influences the concentration of the drug attained at the site of action. The average adult dose refers to individuals of medium built. For exceptionally obese or lean individuals and for children dose may be calculated on body weight (BW) basis:
+
+
+
+
+
+It has been argued that body surface area (BSA) provides a more accurate basis for dose calculation, because total body water, extracellular fluid volume and metabolic activity are better paralleled by BSA.
+
+
+
+
+
+The BSA of an individual can be calculated from Dubois formula:
+
+
+
+
+
+or obtained from chart-form or slide-rule nomograms based on BW and height.
+However, dose recommendations in terms of BSA are available only for anticancer and a handful of other drugs: for the rest BW has been used as the index. Thus, prescribing on BSA basis suffers from lack of data base, is more cumbersome and has not thrived, except in few cases.
+2. Age The dose of a drug for children is often calculated from the adult dose. Some age based formulae for calculating child dose from the adult dose have been framed, but are not in use now. Child dose is better calculated more accurately on BW basis. For many drugs, manufacturers give dosage recommendations on mg/kg basis. Average figures for children are given in the chart below.
+
+
+
+
+Body weight (Kg)*% ofAgeBoysGirlsAdult dose
+
+
+
+
+Newborn
+
+
+3.5
+
+
+3.4
+
+
+12.5
+
+
+
+
+1 month
+
+
+4.8
+
+
+4.5
+
+
+15
+
+
+
+
+3 months
+
+
+6.4
+
+
+5.8
+
+
+18
+
+
+
+
+6 months
+
+
+8.1
+
+
+7.4
+
+
+22
+
+
+
+
+1 year
+
+
+10.5
+
+
+9.7
+
+
+25
+
+
+
+
+3 years
+
+
+14.3
+
+
+13.8
+
+
+33
+
+
+
+
+5 years
+
+
+18.5
+
+
+18.2
+
+
+40
+
+
+
+
+7 years
+
+
+23.1
+
+
+22.9
+
+
+50
+
+
+
+
+9 years
+
+
+28.7
+
+
+29.1
+
+
+60
+
+
+
+
+12 years
+
+
+40.7
+
+
+41.8
+
+
+75
+
+
+
+
+
+
+
+*50th percentile body weight of indian boys and girls as per CDC 2000 guidelines.
+However, infants and children are not small adults. They have important physiological differences from adults. The newborn has low g.f.r. and tubular transport is immature. As such, the t½ of drugs excreted by glomerular filtration (gentamicin) and tubular secretion (penicillin) is prolonged by 3 to 5 times. Glomerular filtration reaches adult rates by 5 month of age and tubular secretion takes about 7 months to mature. Similarly, hepatic drug metabolizing system is inadequate in newborns —chloramphenicol can produce gray baby syndrome (see Ch. 53). Blood-brain barrier is more permeable—drugs attain higher concentration in the CNS (easy entry of unconjugated bilirubin in brain causes kernicterus). These defects are exaggerated in the premature infant. Drug absorption may also be altered in infants because of lower gastric acidity and slower intestinal transit. Transdermal absorption however, is faster because infant skin is thin and more permeable. Rectal absorption is fast and more predictable in infants and young children. Taking advantage of this fact, diazepam solution is given rectally to control febrile seizures in children < 5 years. Therefore, infant doses must be learned as such and not derived from any formula.
+After the first year of life, drug metabolism is often faster than in adults. Accordingly, the t½ of theophylline, phenytoin, carbamazepine is shorter in children than in adults. Also, higher per kg dose is needed in children for drugs which are primarily excreted unchanged by kidney, e.g. daily dose of digoxin is about 8–12 µg/kg compared to adult dose of 3–5 µg/kg.
+
+
+Solid dosage forms and metered dose inhalers are difficult to administer to young children.
+Children are growing and are susceptible to special adverse effects of drugs, e.g. suppression of growth can occur with corticosteroids; androgens may promote early fusion of epiphysis resulting in stunting of stature; tetracyclines get deposited in growing teeth and discolour/deform them. Dystonic reactions to phenothiazines are more common in children.
+Elderly In the elderly, renal function progressively declines (intact nephron loss) so that g.f.r. is ~ 75% at 50 years and ~ 50% at 75 years age compared to young adults. Drug doses have to be reduced, e.g. daily dose of streptomycin is 0.75 g after 50 years and 0.5 g after 70 years of age compared to 1 g for young adults. There is also a reduction in the hepatic microsomal drug metabolizing activity and liver blood flow: oral bioavailability of drugs with high hepatic extraction is generally increased, but the overall effects on drug metabolism are not uniform. Due to lower renal as well as metabolic clearance, the elderly are prone to develop cumulative toxicity while receiving prolonged medication. Other affected aspects of drug handling are:
+•slower absorption due to reduced gut motility as well as blood flow to intestines,
+•lesser plasma protein binding due to lower plasma albumin, 
+•increased or decreased volume of distribution of lipophilic and hydrophilic drugs respectively.
+Aged are relatively intolerant to digitalis. The responsiveness of β adrenergic receptors to both agonists and antagonists is reduced in the elderly and sensitivity to other drugs also may be altered. Due to prostatism in elderly males, even mild anticholinergic activity of the drug can accentuate bladder voiding difficulty. Elderly are also likely to be on multiple drug therapy for hypertension, ischaemic heart disease, diabetes, arthritis, etc. which increases many fold the chances of drug interactions. They are more prone to develop postural instability, giddiness and mental confusion. In general, the incidence of adverse drug reactions is much higher in the elderly.
+
+
+3. Sex Females have smaller body size and require doses that are on the lower side of the range. Subjective effects of drugs may differ in females because of their mental makeup. Maintenance treatment of heart failure with digoxin is reported to be associated with higher mortality among women than among men. A number of antihypertensives (clonidine, methyldopa, β-blockers, diuretics) have potential to interfere with sexual function in males but not in females. Gynaecomastia is a side effect (of ketoconazole, metoclopramide, chlorpromazine, digitalis) that can occur only in men. Ketoconazole causes loss of libido in men but not in women. Obviously androgens are unacceptable to women and estrogens to men. In women consideration must also be given to menstruation, pregnancy and lactation. 
+Drugs given during pregnancy can affect the foetus (see Ch. 6 and Appendix-2). There are marked and progressive physiological changes during pregnancy, especially in the third trimester, which can alter drug disposition.
+(i)Gastrointestinal motility is reduced → delayed absorption of orally administered drug.
+(ii)Plasma and extracellular fluid volume expands—volume of drug distribution may increase.
+(iii)While plasma albumin level falls, that of α1 acid glycoprotein increases—the unbound fraction of acidic drugs increases but that of basic drugs decreases.
+(iv)Renal blood flow increases markedly—polar drugs are eliminated faster.
+(v)Hepatic microsomal enzymes undergo induction—many drugs are metabolized faster.
+Thus, the overall effect on drug disposition is complex and often difficult to predict.
+
+
+4. Species and race There are many examples of differences in responsiveness to drugs among different species; rabbits are resistant to atropine, rats and mice are resistant to digitalis and rat is more sensitive to curare than cat. These differences are important while extrapolating results from experimental animals to man.
+Among human beings some racial differences have been observed, e.g. blacks require higher and mongols require lower concentrations of atropine and ephedrine to dilate their pupil. β-blockers are less effective as antihypertensive in Afro-Caribbeans. Considering the widespread use of chloramphenicol in India and Hong Kong between 1950–1980, relatively few cases of aplastic anaemia have been reported compared to its incidence in the west. Similarly, quiniodochlor related cases of subacute myelooptic neuropathy (SMON) occurred in epidemic proportion in Japan, but there is no confirmed report of its occurrence in India despite extensive use.
+5. Genetics The dose of a drug to produce the same effect may vary by 4–6 fold among different individuals. All key determinants of drug response, viz. transporters, metabolizing enzymes, ion channels, receptors with their couplers and effectors are controlled genetically. Hence, a great deal of individual variability can be traced to the genetic composition of the subject. 
+Pharmacogenetics The study of genetic basis for variability in drug response is called ‘Pharmacogenetics’. It deals with genetic influences on drug action as well as on drug handling by the body. As the genomic technology has advanced and the human genome project has been undertaken, gene libraries and huge data bases (like ‘pharmacogenetics and pharmacogenomics knowledge base’, ‘Human genome variation database’, etc.) have been created aiming at improving precision in drug therapy.
+Pharmacogenomics is the use of genetic information to guide the choice of drug and dose on an individual basis. 
+
+
+A relationship is drawn between how a patient responds to a drug with his genetic makeup. The purpose is to identify individuals who are either more likely or less likely to respond to a drug, as well as those who require altered dose of certain drugs. Attempt is made to define the genetic basis of an individual’s profile of drug response and to predict the best treatment option for him/her. So far, this has been applied largely to patients with known genetic abnormalities, but the goal is ‘personalized medicine’ on a wide scale. However, the basis of a large proportion of genetic variability still remains unexplained.
+A continuous variation with bell-shaped Gaussian frequency distribution is seen in the case of most drugs. In addition, there are some specific genetic defects which lead to discontinuous variation in drug responses, e.g.—
+1.Atypical pseudocholinesterase results in prolonged succinylcholine apnoea.
+2.G-6PD deficiency is responsible for haemolysis with primaquine and other oxidizing drugs. This X-linked monogenic trait is more common in the Mediterranean, African and Southeast Asian races. The haemolysis is largely dose related. Several variants of the G-6PD gene occur in the population resulting in differing severity of haemolysis triggered by different oxidizing drugs. Haemolysis is severe in homozygous deficient individuals of certain genotypes. Important drugs reported to cause haemolysis in G-6PD deficient subjects are listed in the box. 
+
+
+
+
+Drugs with potential* to cause haemolysis in G-6PD deficient individuals
+
+
+
+
+Primaquine
+
+
+Nalidixic acid
+
+
+
+
+Chloroquine
+
+
+Fluoroquinolones
+
+
+
+
+Quinine/Quinidine
+
+
+Chloramphenicol
+
+
+
+
+Proguanil 
+
+
+Nitrofurantoin
+
+
+
+
+Pyrimethamine
+
+
+Furazolidone
+
+
+
+
+Dapsone
+
+
+Menadione
+
+
+
+
+Sulfonamides
+
+
+Methyldopa
+
+
+
+
+Cotrimoxazole
+
+
+Hydralazine
+
+
+
+
+Sulfasalazine
+
+
+Procainamide
+
+
+
+
+Sulfonylureas
+
+
+Probenecid
+
+
+
+
+Thiazide diuretics
+
+
+Colchicine
+
+
+
+
+Aspirin 
+
+
+Methylene blue
+
+
+
+
+
+
+
+* Drugs carrying higher risk are italicized.
+3.The low activity CYP2C9 variants metabolize warfarin at a slow rate and are at higher risk of bleeding.
+4.Thiopurine methyl transferase (TPMT) deficiency increases risk of severe bone marrow toxicity of 6-mercaptopurine and azathioprine.
+5.Irinotecan induced neutropenia and diarrhoea is more in patients with UGT1A1 *28 allele of glucuronyl transferase.
+6.Severe 5-fluorouracil toxicity occurs in patients with dihydropyrimidine dehydrogenase (DPD) deficiency.
+7.Over expression of P-gp results in tumour resistance to many cancer chemotherapeutic drugs, because it pumps out the drug from the tumour cells.
+8.Polymorphism of N-acetyl transferase 2 (NAT2) gene results in rapid and slow acetylator status. Isoniazid neuropathy, procainamide and hydralazine induced lupus occurs mainly in slow acetylators.
+9.Acute intermittent porphyria—precipitated by barbiturates is due to genetic defect in repression of porphyrin synthesis.
+10.CYP2D6 abnormality causes poor metoprolol/debrisoquin metabolizer status. Since several antidepressants and antipsychotics also are substrates of CYP2D6, deficient patients are more likely to experience their toxicity. Codeine fails to produce analgesia in CYP2D6 deficient, because this enzyme generates morphine from codeine.
+
+
+11.Malignant hyperthermia after halothane is due to abnormal Ca2+ release channel (ryanodine receptor) in the sarcoplasmic reticulum of skeletal muscles.
+12.Inability to hydroxylate phenytoin results in toxicity at usual doses.
+13.Resistance to coumarin anticoagulants is due to an abnormal enzyme vitamin  K epoxide reductase (VKOR) that regenerates the reduced form of vit. K. This form has low affinity for the coumarins.
+14.Attack of angle closure glaucoma is precipitated by mydriatics in individuals with narrow iridocorneal angle.
+Genetic variability in drug response could be due to single gene mutation or polygenic.  Genotype to phenotype predictability is much better in monogenic phenotypic traits such as G-6PD, CYP2D6, TPMT, etc., than for multigenic traits, which are clinically less significant. Majority of gene polymorphisms are due to substitution of a single base pair by another. When found in the population at a frequency of >1%, these are called ‘Single neucleotide polymorphisms’ (SNPs). Gene polymorphisms are often encountered at different frequencies among different ethnic/geographical groups.
+Despite accumulation of considerable pharmacogenomic data and the fact that genotyping of the individual needs to be done only once, its practical application in routine patient care is at present limited due to prerequirement of multiple drug specific genotypic screening. Simple spot tests for some, e.g. G-6 PD deficiency are currently in use.
+6. Route of administration Route of administration governs the speed and intensity of drug response (see Ch. 1). Parenteral administration is often resorted to for more rapid, more pronounced and more predictable drug action. A drug may have entirely different uses through different routes, e.g. magnesium sulfate given orally causes purgation, applied on sprained joints it decreases swelling, while intravenously it produces CNS depression and hypotension.
+
+
+7. Environmental factors and time of administration Several environmental factors affect drug responses. Exposure to insecticides, carcinogens, tobacco smoke and consumption of charcoal broiled meat are well known to induce drug metabolism. Type of diet and temporal relation between drug ingestion and meals can alter drug absorption, e.g. food interferes with absorption of ampicillin, but a fatty meal enhances absorption of griseofulvin and lumefantrine. Subjective effects of a drug may be markedly influenced by the setup in which it is taken. Hypnotics taken at night and in quiet, familiar surroundings may work more easily. Statins cause greater inhibition of cholesterol synthesis when taken in the late evening. It has been shown that corticosteroids taken as a single morning dose cause less pituitary-adrenal suppression.
+8. Psychological factor Efficacy of a drug can be affected by the patient’s beliefs, attitudes and expectations. This is particularly applicable to centrally acting drugs, e.g. a nervous and anxious patient requires more general anaesthetic; alcohol generally impairs performance but if punishment (which induces anxiety) is introduced, it may actually improve performance by relieving anxiety.
+Placebo This is an inert substance which is given in the garb of a medicine. It works by psychodynamic rather than pharmacodynamic means and often produces responses equivalent to the active drug. Some individuals are more suggestible and easily respond to a placebo: and are called ‘placebo reactors’. Placebos are used in two situations: 
+1.As a control device in clinical trial of drugs (dummy medication).
+2.To treat a patient who, in the opinion of the physician, does not require an active drug. 
+Placebo is a Latin word meaning ‘I shall please’. A patient responds to the whole therapeutic setting; placebo-effect largely depends on the physician-patient relationship.
+Placebos do induce physiological responses, e.g. they can release endorphins in brain—causing analgesia. Naloxone, an opioid antagonist, blocks placebo analgesia. When an active drug is administered, it produces effects both due to its pharmacodynamic action as well as the psychodynamic effect of the act of medication. Placebo effects can thus supplement pharmacological effects of active medicines. However, placebo effects are highly variable even in the same individual, e.g. a placebo may induce sleep on the first night, but not subsequently. Thus, it has a very limited role in practical therapeutics. Substances commonly used as placebo are lactose tablets/capsules and distilled water injection. Multivitamin preparations are often misused as placebos when no medication is needed.
+
+
+Nocebo It is the converse of placebo, and refers to negative psychodynamic effect evoked by the pessimistic attitude of the patient, or by loss of faith in the medication and/or the physician. Nocebo effect can oppose the therapeutic effect of active medication.
+9. Pathological states Not only drugs modify disease processes, several diseases can influence drug disposition and drug action:
+Gastrointestinal (g.i.) diseases Certain g.i. diseases can alter absorption of orally administered drugs. The changes are complex and drug absorption can  increase or decrease, e.g. in coeliac disease absorption of amoxicillin is decreased but that of cephalexin and cotrimoxazole is increased. Thus, malabsorption syndrome does not necessarily reduce absorption of all drugs. Gastric stasis occurring during migraine attack retards the absorption of ingested drugs. Achlorhydria decreases aspirin absorption by favouring its ionization. NSAIDs can aggravate peptic ulcer disease.
+Liver disease  Liver disease (especially cirrhosis) can influence drug disposition in several ways:
+•Bioavailability of drugs having high first pass metabolism (see Ch. 3) is increased due to loss of hepatocellular function and portocaval shunting.
+•Serum albumin is reduced—protein binding of acidic drugs (diclofenac, warfarin, etc.) is reduced and more drug is present in the free form.
+
+
+•Metabolism and elimination of some drugs (morphine, lidocaine, propranolol) is decreased—their dose should be reduced. Alternative drugs that do not depend on hepatic metabolism for elimination and/or have shorter t½ should be preferred, e.g. oxazepam or lorazepam in place of diazepam; atenolol as β-blocker.
+•Prodrugs needing hepatic metabolism for activation, e.g. bacampicillin are less effective and should be avoided.
+The changes in drug metabolism due to liver disease are complex and there is no simple test (like creatinine clearance for renal disease) to estimate the extent of alteration in drug disposition. Moreover, the kinetics of different drugs is affected to different extents.
+Not only disposition, but action as well of certain drugs may be altered in liver disease, e.g.
+•The sensitivity of brain to depressant action of morphine and barbiturates is markedly increased in cirrhotics—normal doses can produce coma. 
+•Brisk diuresis can precipitate mental changes in patients with impending hepatic encephalopathy, because diuretics cause hypokalemic alkalosis which favours conversion of NH+​4 to NH3. Ammonia enters brain easily and causes mental derangement. 
+•Oral anticoagulants can markedly prolong prothrombin time, because clotting factors are already low.
+•Fluid retaining action of phenylbutazone  (other NSAIDs as well), and lactic acidosis due to metformin are accentuated.
+Hepatotoxic drugs should be avoided in liver disease.
+Kidney disease It markedly affects the pharmacokinetics of many drugs as well as alters the effects of some drugs.
+Clearance of drugs that are primarily excreted unchanged (aminoglycosides, digoxin, phenobarbitone) is reduced parallel to decrease in creatinine clearance (CLcr). Loading dose of such a drug is not altered (unless edema is present), but maintenance doses should be reduced or dose interval prolonged proportionately. A rough guideline is given in the box:
+
+
+
+
+CLcr (patient)Dose rate to be reduced to
+
+
+
+
+50–70 ml/min
+
+
+70%
+
+
+
+
+30–50 ml/min
+
+
+50%
+
+
+
+
+10–30 ml/min
+
+
+30%
+
+
+
+
+5–10 ml/min
+
+
+20%
+
+
+
+
+
+
+
+Dose rate of drugs only partly excreted unchanged in urine also needs reduction, but to lesser extents. If the t½ of the drug is prolonged, attainment of steady-state plasma concentration with maintenance doses is delayed proportionately.
+Plasma proteins, especially albumin, are often low or altered in structure in patients with renal disease—binding of acidic drugs is reduced, but that of basic drugs is not much affected.
+The permeability of blood-brain barrier is increased in renal failure; opiates, barbiturates, phenothiazines, benzodiazepines, etc. produce more CNS depression. Pethidine should be avoided because its metabolite nor-pethidine can accumulate on repeated dosing and cause seizures. The target organ sensitivity may also be increased. Antihypertensive drugs produce greater postural hypotension in patients with renal insufficiency.
+Certain drugs worsen the existing clinical condition in renal failure, e.g. 
+•Tetracyclines have an anti-anabolic effect and accentuate uraemia.
+•NSAIDs cause more fluid retention.
+
+Antimicrobials needing dose reduction in renal failure
+
+
+
+
+Even in mild failure 
+
+
+Only in severe failure
+
+
+
+
+Aminoglycosides
+
+
+Cotrimoxazole
+
+
+
+
+Cephalexin
+
+
+Carbenicillin
+
+
+
+
+Ethambutol
+
+
+Cefotaxime
+
+
+
+
+Vancomycin
+
+
+Norfloxacin
+
+
+
+
+Amphotericin B
+
+
+Ciprofloxacin
+
+
+
+
+Acyclovir
+
+
+Metronidazole
+
+
+
+
+
+
+
+
+•Potentially nephrotoxic drugs, e.g. aminoglycosides, tetracyclines (except  doxycycline), sulfonamides (crystalluria),  vancomycin, nitrofurantoin, cyclosporine, amphotericin B should be avoided.
+Thiazide diuretics tend to reduce g.f.r. They are ineffective in renal failure and can worsen uraemia; furosemide should be used instead. Potassium sparing diuretics are contraindicated because they can cause hyperkalemia → cardiac depression. Repeated doses of pethidine are likely to cause muscle twitching and seizures due to accumulation of its excitatory metabolite norpethidine.
+Urinary antiseptics like nalidixic acid, nitrofurantoin and methenamine mandelate fail to achieve high concentration in urine and are likely to produce systemic toxicity.
+Congestive heart failure It can alter drug kinetics by—
+(i)Decreasing drug absorption from g.i.t. due to mucosal edema and splanchnic vasoconstriction. A significant reduction in procainamide and hydrochlorothiazide absorption has been documented.
+(ii)Altering volume of distribution which can increase for some drugs due to expansion of extracellular fluid volume or decrease for others as a result of decreased tissue perfusion. For example, loading doses of drugs like lidocaine and procainamide should be lowered.
+(iii)Retarding drug elimination as a result of decreased perfusion and congestion of liver, reduced glomerular filtration rate and increased tubular reabsorption; dosing rate of drugs  may need reduction, as for lidocaine, procainamide, theophylline.
+(iv)The decompensated heart is more sensitive to digitalis action.
+Thyroid disease The hypothyroid patients are more sensitive to digoxin, morphine and CNS depressants. Hyperthyroid patients are relatively resistant to inotropic action of digoxin, but more prone to its arrhythmogenic action. The clearance of digoxin is roughly proportional to thyroid function, but this only partially accounts for the observed changes in sensitivity.
+
+
+Other examples of modification of drug response by pathological states are:
+•Antipyretics lower body temperature only when it is raised (fever).
+•Thiazides induce more marked diuresis in edematous patients.
+•Myocardial infarction patients are more prone to adrenaline and digitalis induced cardiac arrhythmias.
+•Myasthenic patients are very sensitive to curare. In them weakness is aggravated by quinine.  
+•Schizophrenics tolerate large doses of phenothiazines. 
+•Head injury patients are prone to go into respiratory failure with normal doses of morphine.
+•Atropine, tricyclic antidepressants, furosemide can cause urinary retention in individuals with prostatic hypertrophy.
+•Hypnotics given to a patient in severe pain may cause mental confusion and delirium.
+•Cotrimoxazole produces a higher incidence of adverse reactions in AIDS patients.
+10. Other drugs Drugs can modify the response to each other by pharmacokinetic or pharmacodynamic interaction between them. Many ways in which drugs can interact have already been considered (see Ch. 2, 3, 4), and a comprehensive account of clinically important drug interactions is presented in Ch. 71.
+11. Cumulation Any drug will cumulate in the body if rate of administration is more than the rate of elimination. However, slowly eliminated drugs are particularly liable to cause cumulative toxicity, e.g. prolonged use of chloroquine causes retinal damage.
+•Full loading dose of digoxin should not be given if patient has received it within the past week.
+•A course of emetine should not be repeated within 6 weeks.
+12. Tolerance It refers to the requirement of higher dose of a drug to produce a given response. Tolerance is a widely occurring adaptive biological phenomenon. Loss of therapeutic efficacy after prolonged/intensive use of a drug (e.g. of sulfonylureas in type 2 diabetes, or of β2 agonists in bronchial asthma), is generally called ‘refractoriness’. Drug tolerance may be:
+
+
+Natural The species/individual is inherently less sensitive to the drug, e.g. rabbits are tolerant to atropine; black races are tolerant to mydriatics. Certain individuals in any population are hyporesponders to certain drugs, e.g. some subjects can consume large quantity of alcohol without getting inebriated; or some hypertensives do not respond to β adrenergic blockers.
+Acquired Acquired tolerance occurs by repeated use of a drug in an individual who was initially responsive. Body is capable of developing tolerance to most drugs, but the phenomenon is very easily recognized in the case of CNS depressants. An uninterrupted presence of the drug in the body favours development of tolerance. However, significant tolerance does not develop to atropine, digoxin, cocaine, sodium nitroprusside, etc. Tolerance need not develop equally to all actions of a drug, consequently therapeutic index of a drug may increase or decrease with prolonged use, e.g.:
+•Tolerance develops to the sedative action of chlorpromazine but not to its antipsychotic action.
+•Tolerance occurs to the sedative action of phenobarbitone but not as much to its antiepileptic action.
+•Tolerance occurs to analgesic and euphoric action of morphine, but not as much to its constipating and miotic actions.
+Cross tolerance It is the development of tolerance to pharmacologically related drugs, e.g. alcoholics are relatively tolerant to barbiturates and general anaesthetics. Closer the two drugs are, more complete is the cross tolerance between them, e.g.—
+There is partial cross tolerance between morphine and barbiturates but complete cross tolerance between morphine and pethidine.
+Mechanisms of tolerance  The mechanisms responsible for development of tolerance are incompletely understood. However, tolerance may be:
+
+
+(i)Pharmacokinetic/drug disposition tolerance—the effective concentration of the drug at the site of action is decreased, mostly due to enhancement of drug elimination on chronic use, e.g. barbiturates and carbamazepine induce their own metabolism, while renal excretion of amphetamine is accelerated after regular intake.
+(ii)Pharmacodynamic/cellular tolerance—drug action is lessened; cells of the target organ become less responsive, e.g. morphine, barbiturates, nitrates. This may be due to desensitization/down regulation of receptors (see p. 62), or weakening of response effectuation.
+Tachyphylaxis (Tachy-fast, phylaxis-protection) It refers to rapid development of tolerance when doses of a drug repeated in quick succession result in marked reduction in response. This is usually seen with indirectly acting drugs, such as ephedrine, tyramine, nicotine. These drugs act by releasing catecholamines in the body, synthesis of which is unable to match the rate of release: stores get depleted. Other mechanisms like slow dissociation of the drug from its receptor, desensitization/internalization or down regulation of receptor, etc. (see p. 62) and/or compensatory homeostatic adaptation.
+Drug resistance It refers to tolerance of microorganisms to inhibitory action of antimicrobials, e.g. Staphylococci to penicillin. This phenomenon is described in Ch. 50).
+Rational use of medicines
+It is widely assumed that use of drugs by qualified doctors of modern medicine would be rational. However, in reality, irrationality abounds in almost every aspect of drug use. Medically inappropriate, ineffective and economically inefficient use of drugs occurs all over the world, more so in the developing countries. 
+As per the WHO — ‘rational use of medicines requires that the patients receive medication appropriate to their clinical needs, in doses that meet their own individual requirements for an adequate period of time, and at the lowest cost to them and to their community’.
+
+
+Rational use of medicines addresses every step in the supply-use chain of drugs, i.e. selection, procurement, storage, prescribing, dispensing, monitoring and feedback. However, only rational prescribing and related aspects are dealt here.
+Rational prescribing
+Rational prescribing is not just the choice of a correct drug for a disease, or mere matching of drugs with diseases, but also the appropriateness of the whole therapeutic set up along with follow up of the outcome. The criteria to evaluate rational prescribing are:
+•Appropriate indication: the reason to prescribe the medicine is based on sound medical considerations.
+•Appropriate drug in efficacy, tolerability, safety, and suitability for the patient.
+•Appropriate dose, route and duration according to specific features of the patient.
+•Appropriate patient: no contraindications exist and the drug is acceptable to the patient; likelihood of adverse effect is minimal and less than the expected benefit.
+•Correct dispensing with appropriate information/instruction to the patient.
+•Adequate monitoring of patient’s adherence to medication, as well as of anticipated beneficial and untoward effects of the medication.
+There is no doubt that knowledge of the prescriber about drugs and disease is the most important determinant of his/her prescribing pattern, but it has been demonstrated time and again that simply improving knowledge has failed to promote rational drug use. A variety of other factors influence prescribing as summarized in the box.
+
+
+
+
+Factors influencing prescribing
+
+
+
+
+•Knowledge of the prescriber.
+
+
+
+
+•Role models: one tends to follow prescribing practices of one’s teachers or senior/popular physicians.
+
+
+
+
+•Patient load: heavy load tends to foster routinized symptom based prescribing.
+
+
+
+
+•Attitude to afford prompt symptomatic relief at all cost.
+
+
+
+
+•Imprecise diagnosis: medication is given to cover all possible causes of the illness.
+
+
+
+
+•Drug promotion and unrealistic claims by manufacturers.
+
+
+
+
+•Unethical inducements (gifts, dinner parties, conference delegation, etc.).
+
+
+
+
+•Patient’s demands: many patients are not satisfied unless medication is prescribed; misconceptions, unrealistic expectations, ‘pill for every ill’ belief.
+
+
+
+
+
+
+
+Irrationalities in prescribing
+It is helpful to know the commonly encountered irrationalities in prescribing so that a conscious effort is made to avoid them.
+•Use of drug when none is needed; e.g. antibiotics for viral fevers and nonspecific diarrhoeas.
+•Compulsive coprescription of vitamins/tonics.
+•Use of drugs not related to the diagnosis, e.g. ampicillin/ciprofloxacin for any fever, proton pump inhibitors for any abdominal symptom.
+•Selection of wrong drug, e.g. tetracycline/ciprofloxacin for pharyngitis, β blocker as antihypertensive for asthmatic patient.
+•Prescribing ineffective/doubtful efficacy drugs, e.g. antioxidants, cough mixtures, memory enhancers, oral serratiopeptidase for injuries/swellings, etc.
+•Incorrect route of administration: injection when the drug can be given orally.
+•Incorrect dose: either underdosing or overdosing; more prevalent in drug prescribing for children.
+•Incorrect duration of treatment, e.g. prolonged postsurgical use of antibiotics or stoppage of antibiotics as soon as relief is obtained, such as in tuberculosis.
+•Unnecessary use of drug combinations, e.g. ciprofloxacin + tinidazole for any case of diarrhoea, ampicillin + cloxacillin for staphylococcal infection, routine use of ibuprofen + paracetamol as analgesic.
+
+
+•Unnecessary use of expensive medicines when cheaper drugs are equally effective; craze for latest drugs, e.g. routine use of newer antibiotics.
+•Unsafe use of drugs, e.g. corticosteroids for fever, anabolic steroids in children, use of a single antitubercular drug.
+•Polypharmacy without regard to drug interactions: each prescription on an average has 3–4 drugs, some may have as many as 10–12 drugs, of which many are combinations.
+Irrational prescribing has a number of adverse consequences for the patient as well as the community. The important ones are:
+
+
+Impact of irrational prescribing
+
+
+
+
+•Delay/inability in affording relief/cure of disease.
+
+
+
+
+•More adverse drug effects.
+
+
+
+
+•Prolongation of hospitalization; loss of man days.
+
+
+
+
+•Increased morbidity and mortality.
+
+
+
+
+•Emergence of microbial resistance.
+
+
+
+
+•Financial loss to the patient/community.
+
+
+
+
+•Loss of patient’s confidence in the doctor.
+
+
+
+
+•Lowering of health standards of patients/community.
+
+
+
+
+•Perpetuation of public health problem.
+
+
+
+
+
+
+
+Rational prescribing is a stepwise process of scientifically analyzing the therapeutic set up based on relevant inputs about the patient as well as the drug, and then taking appropriate decisions. It does not end with handing over the prescription to the patient, but extends to subsequent monitoring, periodic evaluations and modifications as and when needed, till the therapeutic goals are achieved. The important steps are summarized in the box.
+
+
+
+Information/instructions to the patient
+Rational prescribing also includes giving relevant and adequate information to the patient about the drug(s) and disease, as well as necessary instructions to be followed.
+Effects of the drug Which symptom is expected to disappear and when (e.g. antidepressant will take weeks to act); whether disease will be cured or not (e.g. diabetes, parkinsonism can only be ameliorated, but not cured), what happens if the drug is not taken as advised (e.g. tuberculosis will worsen and may prove fatal).
+Side effects There is considerable debate as to how much the patient should be told about the side effects. Detailed descriptions may have a suggestive effect or may scare the patient and dissuade him from taking the drug, while not informing tantamounts to negligence. The side effect, when it occurs, may upset the uninformed patient. Communicating the common side effects without discouraging the patient is a skill to be developed.
+
+
+Instructions How and when to take the drug (special dosage forms like inhalers, transdermal patches, etc. may need demonstration); how long to take the drug; when to come back to the doctor; instructions about diet and exercise if needed; what laboratory tests are needed, e.g. prothrombin time with coumarine anticoagulants, leucocyte count with anticancer drugs.
+Precautions/warnings What precautions to take; what not to do, e.g. driving (with conventional antihistaminics) or drinking (with metronidazole), or standing still (after sublingual glyceryl trinitrate); risk of allergy or any serious reaction, etc.
+In the end it should be ensured that the instructions have been properly understood by the patient. Rational prescribing, thus, is a comprehensive process.
+Expiry date of pharmaceuticals
+It is a legal requirement that all pharmaceutical products must carry the date of manufacture and date of expiry on their label. The period between the two dates is called the ‘life period’ or ‘shelf-life’ of the medicine. Under specified storage conditions, the product is expected to remain stable (retain >95% potency) during this period. In India, the schedule P (Rule 96) of Drugs and Cosmetics Act (1940) specifies the life period (mostly 1–5 years) of medicinal products and the conditions of storage. The expiry of other medicines has to be specified by the manufacturer, but cannot exceed 5 years, unless permitted by the licencing authority on the basis of satisfactory stability proof.
+The shelf-life of a medicine is determined by real time stability studies or by extrapolation from accelerated degradation studies. The expiry date does not mean that the medicine has actually been found to lose potency or become toxic after it, but simply that quality of the medicine is not assured beyond the expiry date, and the manufacturer is not liable if any harm arises from the use of the product. Infact, studies have shown that majority of solid oral dosage forms (tablets/capsules, etc.) stored under ordinary conditions in unopened containers remained stable for 1–5 years (some even up to 25 years) after the expiry date. Liquid formulations (oral and parenteral) are less stable. Suspensions clump by freezing. Injectable solutions may develop precipitates, become cloudy or discoloured by prolonged storage. Adrenaline injection (in ampoules) has been found to lose potency few months after the expiry date of 1 year (it gets oxidized).
+There is hardly any report of toxicity of expired medicines. The degradation product of only one drug (tetracycline) has caused toxicity in man. Outdated tetracycline capsules produced renal tubular damage resembling Fanconi syndrome in the early 1960s. The capsules have now been reformulated to minimize degradation.
+
+
+Loss of potency beyond the ‘life period’ of the formulation depends on the drug as well as the storage conditions. High humidity and temperature accelerate degradation of many drugs. Though, majority of medicines, especially solid oral dosage forms, remain safe and active years after the stated expiry date, their use cannot be legally allowed beyond this date.
+Evidence-Based Medicine
+Extensive scientific investigation of drugs in man and introduction of numerous new drugs over the past few decades is gradually transforming the practice of medicine from ‘experience based’ wherein clinical decisions are made based on the experience (or rather impression) of the physician to ‘evidence-based’ wherein the same are guided by scientifically credible evidence from well designed clinical studies. 
+Evidence-based medicine is the process of systematically finding, evaluating and using contemporary research findings as the basis of clinical decisions.
+Results of well designed multicentric interventional trials are forming the basis of constantly evolving guidelines for disease management. Today’s physician has to be skilled in the new techniques of searching and evaluating the literature on efficacy, safety and appropriateness of a particular therapeutic measure (drug). Therapeutic evaluation of a drug includes:
+•Quantitation of benefit afforded by it.
+•The best way (dosage, duration, patient selection, etc.) to use it.
+•How it compares with other available drugs.
+•Surveillance of adverse effects produced by it.
+Clinical studies are basically of the following three types:
+a.Clinical trials
+b.Cohort studies
+c.Case control studies.
+Clinical trial
+Clinical trial is a prospective ethically designed investigation in human subjects to objectively discover/verify/compare the results of two or more therapeutic measures (drugs).
+Clinical trials are designed to answer one or more precisely framed questions about the value of treating equivalent groups of patients by two or more modalities (drugs, dosage regimens, other interventions). Depending on the objective of the study, clinical trial may be conducted in healthy volunteers or in volunteer patients. Healthy volunteers may be used to determine pharmacokinetic characteristics, tolerability, safety and for certain type of drugs (e.g. hypoglycaemic, hypnotic, diuretic) even efficacy. For majority of drugs (e.g. antiepileptic, antipsychotic, antiinflammatory, antitubercular, etc.) therapeutic efficacy can only be assessed in patients.
+
+
+Ethical considerations All clinical trials must be conducted only after scrutiny and approval by an independent ethics committee as per the ‘Good Clinical Practice’ (GCP) guidelines. In India, the ICMR (2006) has brought out ‘Ethical guidelines, for biomedical research on human participants’. A proper written Informed consent of the patient/trial subject must be obtained. The ethics committee has to ensure that the study does not breach the ethical principles of: 
+Autonomy: Freedom, dignity and confidentiality of the subject; the right to choose whether or not to participate in the trial or to continue with it. 
+Beneficence: Motive to do good to the subject and/or the society at large. 
+Non-maleficence: Not to do harm or put the participant at undue risk/disadvantage. 
+Justice: Observance of fairness, honesty and impartiality in obtaining, analysing and communicating the data.
+Controlled trial The inclusion of a proper comparator (control) group in clinical trials is crucial. The control group, which should be as similar to the test group as possible, receives either a placebo (if ethically permissible) or the existing standard treatment (active control). Separate test and control groups may run simultaneously (parallel group design), or all the subjects may be treated by the two options one after the other (cross over design) so that the same subjects serve as their own controls. Individual variation in response is thus avoided and sample size may be reduced. In the cross over design, some patients are treated first by drug ‘A’ followed by drug ‘B’, while in others the order is reversed. This nullifies the effect (if any) of order of treatment. However, there may still be ‘carry over’ effects. This design is applicable only to certain chronic diseases which remain stable over long periods.
+
+
+When one drug is compared to another drug or to a placebo, the dosage regimen (dose, frequency, duration) of the drug is decided in advance. The trial results are applicable only to this chosen regimen. No conclusions can be drawn about a higher or a lower dose. To determine the most appropriate dose, separate dose-ranging studies (trials) have to be performed. 
+It is well known that both the participants and the investigators of the trial are susceptible to conscious as well as unconscious bias in favour of or against the test drug. The greatest challenge in the conduct of clinical trial is the elimination of bias. The credibility of the trial depends on the measures that are taken to minimize bias. The two basic strategies for minimizing bias are ‘randomization’ and concealment or ‘blinding’. 
+Randomization The subjects are allocated to either group using a preselected random number table or computer programme so that any subject has equal chance of being assigned to the test or the control group. Discretion (and likely bias) of the investigator/subject in treatment allocation is thus avoided. If considered necessary, stratified randomization according to age/sex/disease severity/other patient variable may be adopted.
+Blinding (masking) This refers to concealment of the nature of treatment (test or control) from the subject (single blind) or both the subject as well as the investigator (double blind). For this purpose the two medications have to appear similar in looks, number, weight, taste, etc. and are to be supplied in unlabelled packets marked for each patient. In double blind, the key/code to treatment allocation is kept by a third ‘data management’ party who is not involved in treating or recording observations. The code is broken at the completion of the trial and the results are analysed according to prespecified statistical method. However, all clinical trials need not be blinded. Those in which the nature of treatment is not concealed are called ‘open’ trials.
+Randomized controlled double blind trial (RCT) is the most credible method of obtaining evidence of efficacy, safety or comparative value of treatments.
+Inclusion/exclusion criteria The characteristics of the subject/patient (age, sex, disease/symptom, severity and/or duration of illness, coexistent and past diseases, concurrent/preceeding drug therapy, etc.) who are to be recruited in the trial or excluded from it must be decided in advance. The trial results are applicable only to the population specified by these criteria.
+
+
+End point The primary and secondary (if any) end points (cure, degree of improvement, symptom relief, surrogate marker, avoidance of complication, curtailment of hospitalization, survival, quality of life, etc.) of the trial must be specified in advance. The results are analysed in relation to the specified end points.
+Higher efficacy may not always be the aim of a clinical trial. A trial may be designed to prove ‘non-inferiority’ (of the new drug) to the existing treatment, and possibly afford advantages in terms of tolerability, safety, convenience, cost or applicability to special patient subgroup(s).
+Sample size: Both financial and ethical considerations demand that the number of subjects in the trial be the minimum needed for a valid result. The minimum number of subjects for obtaining a decisive conclusion (test better than control/control better than test/no difference between the two) must be calculated statistically beforehand. Because the trial is conducted on a sample of the whole patient population, there is always a chance that the sample was not representative of the population. Thus, the results cannot be absolutely conclusive.  
+Two types of errors are possible:
+Type I (α) error: a difference is found between the two groups while none exists. Its possibility is called ‘significance’ of the result, e.g. if test drug is found to be better than control at a significance level of 0.05, it means that there is 5% chance that this is not real.
+Type II (β) error: no difference is found while it really exists. The probability of failing to detect an actual difference is expressed by the ‘power’ of the trial. A power of 0.9 means that there is 10% chance of missing a real difference.
+The sample size of the trial depends on the desired level of significance and power. The other input needed for calculation of sample size is the magnitude of difference between the two groups that is expected or is considered clinically significant, e.g. a 10% reduction in pain intensity may not be considered clinically significant, while a 10% reduction in mortality may be worthwhile. Larger sample size is required to detect smaller difference. Also, higher the significance and power level desired, greater is the number of subjects. The variability of response in terms of the primary end point also affects the sample size. Responses that show greater individual variation need larger number of subjects to achieve the desired significance and power levels.
+
+
+Many large scale trials are subjected to interim analysis from time to time as the trial progresses by an independent committee which can order an early termination if a decisive result (positive or negative) is obtained; because it would be unethical to subject some of the remaining patients to a treatment (test or control) which has been found inferior.
+Multicentric trial Many large trials are conducted at more than one centre by as many teams of investigators, sometimes spread over several countries. The advantages are:
+•Larger number of patients can be recruited in a shorter period of time.
+•Results are applicable to a wider population base which may cover several countries/ethnic groups.
+•Regulatory requirements of several countries may be satisfied.
+•Credibility of the trial is enhanced.
+The phase III trials are generally multicentric. 
+Sequential trial
+This design attempts to detect a significant result as soon as it is achieved, minimizing the number of subjects. The trial is conducted on matched pairs of subjects and is scored as ‘A’ treatment better than ‘B’ or ‘B’ better than ‘A’ or no difference. This is plotted continuously as the trial proceeds till the boundries of predetermined level of significant superiority/inferiority/no difference are touched. The trial is then terminated. This design is applicable only to certain types of drugs and diseases for which clinical end points are achieved quickly and paired comparisons are possible. Moreover, it may not always be practicable to recruit matching pairs of trial subjects.
+Meta-analysis 
+
+
+This is an exercise in which data from several similarly conducted randomized controlled clinical trials with the same drug (or class of drugs) examining the same clinical end point(s) is pooled to bring out the overall balance of evidence by enlarging the number of test and control subjects and increasing the significance and power of the conclusions. Because individual trials are often conducted on relatively smaller number of patients, some may fail to detect a significant difference, while others may find it. Discordant results are published which confuse the medical practitioner. There are many criticisms of meta-analysis, such as:
+a.bias in the selection of trials for analysis (selection bias);
+b.unintentional exclusion of negative results which are less likely to be published (publication bias);
+c.nonuniformity of the trials in details of methodology and conduct.
+Nevertheless, meta-analysis is a useful tool to arrive at conclusions that may influence medical practice. For example, meta-analysis of trials has strongly supported the use of β-adrenergic blockers in heart failure and use of statins to reduce risk of coronary artery disease.
+To be reliable, the meta-analysis should observe the following:
+•Comprehensive search of the literature to identify all eligible trials.
+•Use objective criteria in selecting the trials for inclusion.
+•Include only randomized trials of assured quality.
+•Employ proper statistical methods in pooling and treating the data from individual trials.
+Meta-analysis are now frequently published on contemporary therapeutic issues.
+Cohort study
+This is a type of observational study in which no intervention for the sake of the study is done. ‘Cohort’ is a group of individuals having some common features. In the context of drug research, the common feature is that all study subjects have taken a particular drug. Occurrence of events (beneficial or adverse) in users and nonusers of the drug is compared. Prescription event monitoring is a cohort study. The cohort study can be a prospective or a retrospective study. In the prospective design, all patients who receive the study drug are followed up for therapeutic outcomes or adverse effects. A matching group of patients who have not received the drug is identified and followed up to serve as control. Cohort studies are primarily used to discover uncommon adverse effects that may be missed during formal therapeutic trials which involve fewer patients and often exclude certain type of patients who may be susceptible to that adverse effect. Its value for defining therapeutic outcomes is less credible. The limitations of cohort studies are that controls included may not be appropriate, and relatively long period of follow up is needed.
+
+
+
+Grades of strength of evidence
+
+
+
+
+Grade I
+
+
+Systematic reviews/Meta-analysis
+
+
+Most reliable, may form the basis of clinical decisions
+
+
+
+
+Grade II
+
+
+Well powered randomized controlled trial/more than one trials
+
+
+Reliable, but may be supported or refuted by similar studies
+
+
+
+
+Grade III
+
+
+Open label trials/pilot studies/observational (cohort and case-control) studies (prospective or retrospective)
+
+
+Less reliable, need more rigorous testing, may indicate further investigation
+
+
+
+
+Grade IV
+
+
+Case reports/anecdotal reports/clinical experience
+
+
+Least reliable; may serve as pointers to initiate formal studies
+
+
+
+
+
+
+
+
+In the retrospective cohort study, health records of a population are scrutinized for exposure to the study drug and the subsequent beneficial/adverse events. Its value is questionable because many events may have been missed in the records and several unknown factors may have contributed to the findings. However, it may serve as pointer, or to arouse suspicion.
+Case control study
+This type of observational study is used mainly to reveal association of a suspected rare adverse event with the use of a particular drug. Cases of the suspected adverse event (e.g. agranulocytosis) are collected from hospital records or disease registries, etc. A matched control group similar in other respects but not having the adverse event is selected. Drug histories of both groups are traced backwards to compare exposure to the indicated drug (e.g. phenylbutazone) among patients with the adverse event to those without it. The suspicion is strengthened if high association is found. Though case control studies can be performed rather quickly because the number of patients analysed is small compared to the cohort design, they do not prove causality. Moreover, the causative drug and the adverse event have to be suspected first to plan the study, whereas cohort study can reveal unsuspected adverse events. Variable accuracy of retrospective records, non-randomly selected control group, chances of bias and a variety of unknown factors make the case control study a weak instrument for affording convincing evidence.
+
+
+Grading strength of evidence 
+The strength of evidence from the conclusions of various kinds of trials, studies and reports has been graded from strong to weak as presented in the box. 
+New drug development
+In this era of bewildering new drug introduction and rapid attrition of older drugs, the doctor needs to have an overall idea of the manner in which new drugs are developed and marketed. Drug development now is a highly complex, tedious, competitive, costly and commercially risky process. From the synthesis/identification of the molecule to marketing, a new drug takes at least 10 years and costs 500–1000 million US$. As such, invention and development of new drugs is now possible only in the set up of big pharmaceutical houses that alone have the resources, infrastructure and dedicated teams of scientists to carry out the multiple specialized stages of the process. Though the pharmaceutical industry is often regarded cunning, greedy, unscrupulous, deceptive and fleecing the people, there is no denying that it is responsible for most of the progress in therapeutics as well as pharmacological knowledge of today.  
+
+
+
+Stages in new drug development 
+
+
+
+
+Synthesis/isolation of the compound:
+
+
+(1–2 years)
+
+
+
+
+Preclinical studies: screening, evaluation, pharmacokinetic and short-term toxicity testing in animals: 
+
+
+(2–4 years)
+
+
+
+
+Scrutiny and grant of permission for clinical trials:
+
+
+(3–6 months)
+
+
+
+
+Pharmaceutical formulation, standardization of chemical/biological/immuno-assay of the compound: 
+
+
+(0.5–1 year)
+
+
+
+
+Clinical studies: phase I, phase II, phase III trials; long-term animal toxicity testing: 
+
+
+(3–10 years)
+
+
+
+
+Review and grant of marketing permission:
+
+
+(0.5–2 years)
+
+
+
+
+Postmarketing surveillance: 
+
+
+(phase IV studies)
+
+
+
+
+
+
+
+
+The major steps/stages in the development of a new drug are given in the box.
+Approaches to drug discovery/invention
+Exploration of natural sources Plants are the oldest source of medicines. Clues about these have been obtained from traditional systems of medicine prevalent in various parts of the world; Opium (morphine), Ephedra (ephedrine), Cinchona (quinine), curare (tubocurarine), belladonna (atropine), Quinghaosu (artemisinin) are the outstanding examples. Though animal parts have been used as cures since early times, it was physiological experiments performed in the 19th and early 20th century that led to introduction of some animal products into medicine, e.g. adrenaline, thyroxine, insulin, liver extract, antisera, etc. Few minerals (iron/calcium salts, etc.) are the other natural medicinal substances. The discovery of penicillin (1941) opened the flood-gates of a vast source—microorganisms—of a new kind of drugs (antibiotics). The use of microbes for production of vaccines is older than their use to produce antibiotics.
+
+
+Though few drugs are now produced from plants, animals or microbes, these sources of medicines are by no means exhausted. However, they mostly serve as lead compounds.
+Random or targeted chemical synthesis Synthetic chemistry made its debut in the 19th century and is now the largest source of medicines. Randomly synthesized compounds can be tested for a variety of pharmacological activities. Though some useful drugs (barbiturates, chlorpromazine) have been produced serendipitously by this approach, it has very low probability of hitting at the right activity in the right compound; rarely employed now.
+Lead optimization A more practical approach is to synthesize chemical congeners of natural products/synthetic compounds with known pharmacological activity in the hope of producing more selective/superior drugs. Many families of clinically useful drugs have been fathered by a ‘lead compound’. Often only ‘me too’ drugs are produced, but sometimes breakthroughs are achieved, e.g. thiazide diuretics from acetazolamide, tricyclic antidepressants from phenothiazines.
+Study of several congeners of the lead compound can delineate molecular features responsible for a particular property. Application of this structure-activity relationship information has proven useful on many occasions, e.g. selective β2 agonists (salbutamol) and β blockers (propranolol, etc.) have been produced by modifying the structure of isoprenaline, H2 blockers by modifying the side chain of histamine, ethinyl-estradiol by introducing a substitution that resists metabolic degradation, mesoprostol (more stable) by esterifying PGE1.
+More commonly now, as described later in the rational approach, identification of the target biomolecule is the starting point for new drug invention. A lead compound capable of interacting with the target is searched by applying diverse approaches described above and below. The affinity and selectivity of the lead compound for the target is determined. It is then chemically modified to optimise these parameters as well as pharmacokinetic, pharmaceutical, toxicological and other characteristics. More suitable candidate drug(s) may thus emerge for further development. 
+Single enantiomers Many drugs are chiral compounds. Because pharmacological activity depends on three dimensional interaction of drug molecules with their target biomolecules, the enantiomers (R and S forms or d and l isomers) of chiral drugs differ in biological activity, metabolic degradation, etc. Often only one of the enantiomers is active. Single enantiomer drug could be superior to its racemate, because the additional enantiomer may not only be a ‘silent passenger’ but contribute to side effects, toxicity (dextro-dopa is more toxic than levo-dopa), load on metabolism or even antagonize the active enantiomer. Regulatory authorities in many countries, led by US-FDA, have mandated separate investigation of the enantiomers in case the new drug is a chiral molecule. Approval is withheld unless the pure enantiomers are shown to be no better than the racemate. Several drugs, originally introduced as racemates, have now been made available as single enantiomer preparations as well (see box).
+
+
+
+Drugs marketed as single enantiomers
+
+
+
+
+Enantiomer
+
+
+Advantage claimed
+
+
+
+
+(S) atenolol
+
+
+half dose, better tolerated
+
+
+
+
+(S) metoprolol
+
+
+half dose
+
+
+
+
+(S) amlodipine
+
+
+half dose, less peripheral edema
+
+
+
+
+(S) omeprazole     (esomeprazole)
+
+
+better oral bioavailability
+
+
+
+
+(S) pantoprazole
+
+
+more potent
+
+
+
+
+(R) salbutamol
+
+
+more active, (S) may antagonize (R)
+
+
+
+
+(S) citalopram     (escitalopram)
+
+
+lower dose, less side effects
+
+
+
+
+(S) naproxen
+    
+cisatracurium
+
+
+less burden on kidney (but inversion occurs in vivo)
+
+
+
+
+4× more potent, less histamine release 
+
+
+
+
+levofloxacin
+
+
+more active, slower elimination
+
+
+
+
+levocetirizine (R)
+
+
+half dose, only (R) form active
+
+
+
+
+desloratadine
+
+
+half dose
+
+
+
+
+
+
+
+
+Rational approach This depends on sound physiological, biochemical, pathological knowledge and identification of specific target for drug action. Truly new classes of drugs generally follow the identification of a novel target for drug action, such as H+K+ATPase for gastric acid suppression or glycoprotein IIa/IIIb receptor for platelet function inhibition.The drug is aimed at mitigating the derangement caused by the disease, e.g. levodopa was tried in parkinsonism based on the finding that the condition resulted from deficiency of dopamine in the striatum. The purine, pyrimidine, folate antimetabolites were introduced in cancer chemotherapy after elucidation of key role of these metabolites in cell proliferation. Because virus directed reverse transcriptase is unique to retroviruses, its inhibitors have been developed as anti-HIV drugs. This approach is very attractive but requires a lot of basic research.
+Molecular modelling Advances in protein chemistry and computer aided elucidation of three-dimensional structure of key receptors, enzymes, etc. has permitted designing of targeted compounds. Suitable computer programmes are being used to optimise the three-dimensional structure of the candidate drug to fit the identified target site(s) and/or have optimum pharmacokinetics. The designing of selective COX-2 inhibitors was prompted by the comparative configuration of COX-1 and COX-2 isoenzyme molecules. Study of drug binding to mutated receptors and elucidation of configuration of drug-receptor complexes is now guiding production of improved drugs. Attempts are being made to produce individualized drugs according to pharmacogenomic suitability.
+
+
+Combinatorial chemistry Chemical groups are combined in a random manner to yield innumerable compounds and subjected to high-throughput screening on cells, genetically engineered microbes, receptors, enzymes, etc. in robotically controlled automated assay systems. Computerized analysis is used to identify the so called ‘hits.’ These compounds are then subjected to conventional tests. This new approach has vast potentials, but failure rates are high.
+Biotechnology Several drugs are now being produced by recombinant DNA technology, e.g. human growth hormone, human insulin, interferon, etc. Some monoclonal and chimeral antibodies have been introduced as drugs.
+New molecules, especially antibiotics, regulatory peptides, growth factors, cytokines, etc. produced by biotechnological methods can be evaluated as putative drugs. Other experimental approaches in new drug development are antisense oligonucleotides and gene therapy.
+Preclinical studies
+After synthesizing/identifying a prospective compound, it is tested on animals to expose the whole pharmacological profile. Experiments are generally performed on a rodent (mouse, rat, guinea pig, hamster, rabbit) and then on a larger animal (cat, dog, monkey). As the evaluation progresses unfavourable compounds get rejected at each step, so that only a few out of thousands reach the stage when administration to man is considered.
+The following types of tests are performed.
+1.Screening tests These are simple and rapidly performed tests to indicate presence or absence of a particular pharmacodynamic activity that is sought for, e.g. analgesic or hypoglycaemic activity.
+2.Tests on isolated organs, bacterial cultures, etc. These also are preliminary tests to detect specific activity, such as antihistaminic, antisecretory, vasodilator, antibacterial, etc.
+3.Tests on animal models of human disease Such as kindled seizures in rats, spontaneously (genetically) hypertensive rats, experimental tuberculosis in mouse, alloxan induced diabetes in rat or dog, etc.
+4.Confirmatory tests and analogous activities Compounds found active are taken up for detailed study by more elaborate tests which confirm and characterize the activity. Other related activities, e.g. antipyretic and anti-inflammatory activity in an analgesic are tested.
+5.Systemic pharmacology Irrespective of the primary action of the drug, its effects on major organ systems such as nervous, cardiovascular, respiratory, renal, g.i.t are worked out. Mechanism of action, including additional mechanisms, e.g. α adrenergic blockade, calcium channel blockade, nitro-vasodilatation, etc. in a β adrenergic blocker antihypertensive, are elucidated. 
+
+
+6.Quantitative tests The dose-response relationship, maximal effect and comparative potency/efficacy with existing drugs is ascertained.
+7.Pharmacokinetics  The absorption, volume of distribution, metabolism, excretion, pattern of tissue distribution and plasma half-life of the drug are quantified.
+8.Toxicity tests The aim is to determine safety of the compound in at least 2 animal species, one rodent and one nonrodent, e.g. mouse/rat and dog by oral and parenteral routes.
+Acute toxicity: Single escalating doses are given to small groups of animals that are observed for overt effects and mortality for 1–3 days. The dose which kills 50% animals (LD50) is calculated. Organ toxicity is examined by histopathology on all animals.
+Subacute toxicity: Repeated doses are given for 2–12 weeks depending on the duration of intended treatment in man. Doses are selected on the basis of ED50 and LD50. Animals are examined for overt effects, food intake, body weight, haematology, etc. and organ toxicity.
+Chronic toxicity: The drug is given for 6–12 months and effects are studied as in subacute toxicity. This is generally undertaken concurrently with early clinical trials.
+Reproduction and teratogenicity: Effects on spermatogenesis, ovulation, fertility and developing foetus are studied.
+Mutagenicity: Ability of the drug to induce genetic damage is assessed in bacteria (Ames test), mammalian cell cultures and in intact rodents.
+Carcinogenicity: Drug is given for long-term, even the whole life of the animal and they are watched for development of tumours.
+Standardised procedures under ‘Good Laboratory Practices’ (GLP) have been laid down for the conduct of animal experiments, especially toxicity testing.
+Clinical trials
+When a compound deserving trial in man is identified by animal studies, the regulatory authorities are approached who on satisfaction issue an ‘investigational new drug’ (IND) licence. The drug is formulated into a suitable dosage form and clinical trials are conducted in a logical phased manner. To minimize any risk, initially few subjects receive the drug under close supervision. Later, larger numbers are treated with only relevant monitoring.  Standards for the design, ethics, conduct, monitoring, auditing, recording and analyzing data and reporting of clinical trials have been laid down in the form of ‘Good Clinical Practice’ (GCP) guidelines by an International Conference on Harmonization (ICH). National agencies in most countries, including ICMR in India, have also framed ethical guidelines for clinical trials. Adherence to these provides assurance that the data and reported results are credible and accurate, and that the rights, integrity and confidentiality of trial subjects are protected as enunciated in the Helsinki Declaration of the World Medical Association. The requirements and regulations for the conduct of clinical trials on a new drug in India have been laid down in the schedule Y of the Drugs and Cosmetics Rules. 
+
+
+The clinical studies are conventionally divided into 4 phases.
+Phase I: Human pharmacology and safety
+The first human administration of the drug is carried out by qualified clinical pharmacologists/trained physicians in a setting where all vital functions are monitored and emergency/resuscitative facilities are available. Subjects (mostly healthy volunteers, sometimes patients) are exposed to the drug one by one (total 20–80 subjects), starting with the lowest estimated dose (generally 1/100 to 1/10 of the highest dose producing no toxicity in animals) and increasing stepwise to achieve the effective dose. An attempt is made to determine the dose range that may be used in further studies. The emphasis is on safety, tolerability, and to detect any potentially dangerous effects on vital functions, such as precipitous fall/rise in blood pressure or heart rate, arrhythmias, bronchospasm, seizures, kidney/liver damage, etc. Unpleasant side effects are noted and an attempt is made to observe the pharmacodynamic effects in man. The human pharmacokinetic parameters of the drug are measured for the first time. No blinding is done: the study is open label.
+Phase 0: Microdosing study
+This is a new strategy being developed to reduce the cost and time of the drug development process. The rate of rejection of candidate drugs at various stages of clinical development has progressively increased recently, discouraging pharmaceutical companies to venture into the risky business of new drug invention. This has alarmed the FDA (USA) and the European Medicines Agency to encourage novel cost-cutting approaches in drug development. One such tool is the microdosing human study undertaken before phase-1 trial, and is also called phase ‘0’ study. 
+Many candidate drugs fail during clinical trials due to sub-optimal human pharmacokinetics. Very low doses, generally about 1/100th of the estimated human dose, or a maximum of 100 µg total dose of candidate drug, are administered to healthy volunteers and pharmacokinetics is worked out using highly sophisticated instrumentation, such as Accelerator mass spectrometry (AMS) with radiolabelled drug, or LC-Tandem mass spectrometry (LC-MS-MS) to measure ultra low drug levels. These subpharmacological doses are not expected to produce any therapeutic or toxic effects, but yield human pharmacokinetic information. These studies may obviate the need for animal pharmacokinetic studies and can be undertaken before extensive animal toxicity tests. Thus, elaborate animal studies and costly phase 1 human trials could be avoided for candidate drugs which would have later failed due to unsuitable human pharmacokinetics. Moreover, the pharmacokinetic 0 phase data could be useful in more precise selection of doses for phase 1 study. 
+
+
+The major objection against phase ‘0’ study is that the microdose pharmacokinetics may be quite different from that at pharmacological doses, since body may handle such divergent doses in different ways. The phase 0 studies have not yet been technically fully developed or adequately evaluated. They are neither established nor mandatory. However, they are promising, and most regulatory authorities are willing to allow and consider them. 
+Phase II: Therapeutic exploration and dose ranging
+This is conducted by physicians who are trained as clinical investigators, and involve 100–500 patients selected according to specific inclusion and exclusion criteria. The primary aim is establishment of therapeutic efficacy, dose range and ceiling effect in a controlled setting. Tolerability and pharmacokinetics are studied as extension of phase I. The study is mostly controlled and randomized, and may be blinded or open label. It is generally carried out at 2–4 centres. The candidate drug may get dropped at this stage if the desired level of clinical efficacy is not obtained.
+Phase III: Therapeutic confirmation/comparison
+Generally these are randomized double blind comparative trials conducted on a larger patient population (500–3000) by several physicians (usually specialists in treating the target disease) at many centres. The aim is to establish the value of the drug in relation to existing therapy. Safety and tolerability are assessed on a wider scale, while pharmacokinetic studies may be conducted on some of the participants to enlarge the population base of pharmacokinetic data. Indications are finalized and guidelines for therapeutic use are formulated. A ‘new drug application’ (NDA) is submitted to the licencing authority (like FDA), who if convinced give marketing permission. Restricted marketing permission for use only in hospitals with specific monitoring facilities, or only by specially trained physicians may be granted in case of toxic drugs which are found useful in serious or otherwise incurable diseases. 
+
+
+Phase IV: Postmarketing surveillance/data gathering studies
+After the drug has been marketed for general use, practicing physicians are identified through whom data are collected on a structured proforma about the efficacy, acceptability and adverse effects of the drug in the real field situation (similar to prescription event monitoring). Patients treated in the normal course form the study population: numbers therefore are much larger. Uncommon/idiosyncratic adverse effects, or those that occur only after long-term use and unsuspected drug interactions are detected at this stage. Patterns of drug utilization and additional indications may emerge from the surveillance data.
+Further therapeutic trials involving special groups like children, elderly, pregnant/lactating women, patients with renal/hepatic disease, etc. (which are generally excluded during clinical trials) may be undertaken at this stage. Modified release dosage forms, additional routes of administration, fixed dose drug combinations, etc. may be explored.
+As such, most drugs continue their development even after marketing.

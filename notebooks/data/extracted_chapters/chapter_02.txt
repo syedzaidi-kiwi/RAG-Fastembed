@@ -1,0 +1,399 @@
+Ch-01
+
+
+
+
+
+
+
+
+
+INTRODUCTION
+Pharmacology
+Pharmacology is the science of drugs (Greek: Pharmacon—drug; logos—discourse in). In a broad sense, it deals with interaction of exogenously administered chemical molecules with living systems, and any single chemical substance which can produce a biological response is a ‘drug’. Pharmacology encompasses all aspects of knowledge about drugs, but most importantly those that are relevant to effective and safe use of drugs for medicinal purposes. 
+For thousands of years most drugs were crude natural products of unknown composition and limited efficacy. Only the overt effects of these substances on the body were rather imprecisely known, but how the same were produced was entirely unknown. Animal experiments, primarily aimed at understanding physiological processes, were started in the 18th century. These were pioneered by F. Magendie and Claude Bernard, who also adapted them to study effects of certain drugs. Pharmacology as an experimental science was ushered by Rudolf Buchheim who founded the first institute of pharmacology in 1847 in Germany. In the later part of the 19th century, Oswald Schmiedeberg, regarded as the ‘father of pharmacology’, together with his many disciples like J Langley, T Frazer, P Ehrlich, AJ Clark, JJ Abel propounded some of the fundamental concepts in pharmacology. Since then drugs have been purified, chemically characterized and a vast variety of highly potent and selective new drugs have been developed. The mechanism of action including molecular target of many drugs has been elucidated. This has been possible due to prolific growth of pharmacology which forms the backbone of rational therapeutics. 
+
+
+The two main divisions of pharmacology are pharmacodynamics and pharmacokinetics.
+Pharmacodynamics (Greek: dynamis—power) —What the drug does to the body.
+This includes physiological and biochemical effects of drugs and their mechanism of action at organ system/subcellular/macromolecular levels, e.g.—Adrenaline → interaction with adrenoceptors → G-protein mediated stimulation of cell membrane bound adenylyl cyclase → increased intracellular cyclic 3´,5´AMP → cardiac stimulation, hepatic glycogenolysis and hyperglycaemia, etc.
+Pharmacokinetics (Greek: Kinesis—movement)—What the body does to the drug.
+This refers to movement of the drug in and alteration of the drug by the body; includes absorption, distribution, binding/localization/storage, biotransformation and excretion of the drug, e.g. paracetamol is rapidly and almost completely absorbed orally attaining peak blood levels at 30–60 min; 25% bound to plasma proteins, widely and almost uniformly distributed in the body (volume of distribution ~ 1L/kg); extensively metabolized in the liver, primarily by glucuronide and sulfate conjugation into inactive metabolites which are excreted in urine; has a plasma half life (t½) of 2–3 hours and a clearance value of 5 ml/kg/min.
+
+
+Drug (French: Drogue—a dry herb) It is the single active chemical entity present in a medicine that is used for diagnosis, prevention, treatment/cure of a disease. 
+This disease oriented definition of drug does not include contraceptives or use of drugs for improvement of health. The WHO (1966) has given a more comprehensive definition—“Drug is any substance or product that is used or is intended to be used to modify or explore physiological systems or pathological states for the benefit of the recipient.”
+The term ‘drugs’ is being also used to mean addictive/abused/illicit substances. However, this restricted and derogatory sense usage is unfortunate degradation of a time honoured term, and ‘drug’ should refer to a substance that has some health promoting/therapeutic/diagnostic application. Nevertheless, to avoid any misinterpretation, the term ‘medicine’ is being employed to designate such a substance in place of the term ‘drug’.
+Some other important aspects of pharmacology are:
+Pharmacotherapeutics It is the application of pharmacological information together with knowledge of the disease for its prevention, mitigation or cure. Selection of the most appropriate drug, dosage and duration of treatment taking into account the stage of disease and the specific features of a patient are a part of pharmacotherapeutics.
+Clinical pharmacology It is the scientific study of drugs (both old and new) in man. It includes pharmacodynamic and pharmacokinetic investigation in healthy volunteers as well as in patients. Evaluation of efficacy and safety of drugs and comparative trials with other forms of treatment; surveillance of patterns of drug use, adverse effects, etc. are also part of clinical pharmacology.
+
+
+The aim of clinical pharmacology is to generate data for optimum use of drugs and the practice of ‘evidence based medicine’.
+Chemotherapy It is the treatment of systemic infection/malignancy with specific drugs that have selective toxicity for the infecting organism/malignant cell with no/minimal effects on the host cells.
+Drugs in general, can thus be divided into:
+Pharmacodynamic agents These are designed to have pharmacodynamic effects in the recipient.
+Chemotherapeutic agents These are designed to inhibit/kill invading parasites/malignant cell, but have no/minimal pharmacodynamic effects in the recipient.
+Pharmacy It is the art and science of compounding and dispensing drugs or preparing suitable dosage forms for administration of drugs to man or animals. It includes collection, identification, purification, isolation, synthesis, standardization and quality control of medicinal substances. The large scale manufacture of drugs is called Pharmaceutics, which is primarily a technological science.
+Toxicology It is the study of poisonous effect of drugs and other chemicals (household, environmental pollutant, industrial, agricultural, homicidal) with emphasis on detection, prevention and treatment of poisonings. It also includes the study of adverse effects of drugs, since the same substance can be a drug or a poison, depending on the dose.
+nature of drugs
+All drugs are chemical entities with simple or complex molecules. While majority are organic compounds, some are purely inorganic, like lithium carbonate, ferrous sulfate, magnesium hydroxide, etc. Organic drugs may be weakly acidic (aspirin, penicillin) or weakly basic (morphine, chloroquine) or nonelectrolytes (alcohol, diethyl-ether). Most drugs are normally solids, e.g. paracetamol, propranolol, furosemide, ampicillin, etc., but some such as ethanol, glyceryl trinitrate, propofol, castor oil are liquids, and few like nitrous oxide are gaseous.
+
+
+The molecular weight of majority of drugs falls in the range of 100-1000 D, because molecules smaller than 100 D do not generally have sufficiently specific features in terms of shape, size, configuration, chirality, distribution of charges, etc. to selectively bind to only one/few closely related target biomolecules, to the exclusion of others. On the other hand, larger molecules than 1000 D do not readily pass through membranes/barriers in the body to reach the target sites in various tissues/cells. However, few drugs are as small as lithium ion (7D), and some like heparin (10-20 KD), gonadotropins (>30 KD), enzymes, proteins, antibodies (>50 KD) are much bigger. Bulky molecule drugs have to be administered parenterally.
+Drugs are generally perceived to be chemical substances foreign to the body (Xenobiotics). However, many endogenous chemicals like hormones, autacoids, metabolites and nutrients are also used as drugs. Chemical congeners of these metabolites/signal molecules are an important class of drugs which act by modifying the synthesis, storage, degradation or action of these metabolites/signal molecules.
+sources of drugs
+Drugs are obtained from a variety of sources:
+1.Plants Many plants contain biologically active substances and are the oldest source of drugs. Clues about medicinal plants were obtained from traditional systems of medicine prevalent in various parts of the world; e.g. use of opium, belladonna, ephedra, cinchona, curare, foxglove, sarpagandha, qinghaosu has been learnt from Egyptian, Greek, Aztec, Ayurvedic, chinese and other systems of medicine. Chemically the active ingredients of plants fall in several categories:
+
+
+a.Alkaloids: These are alkaline nitrogenous bases having potent activity, and are the most important category of vegetable origin drugs. Prominent examples are: morphine, atropine, ephedrine, nicotine, ergotamine, reserpine, quinine, vincristine, etc. They are mostly used as their water soluble hydrochloride/ sulfate salts.
+b.Glycosides: These compounds consist of a heterocyclic nonsugar moiety (aglycone) linked to a sugar moiety through ether linkage. Cardiac glycosides (digoxin, ouabain) are the best known glycosidic drugs. The active principle of senna and similar plant purgatives are anthraquinone glycosides. Aminoglycosides (gentamicin, etc.) are antibiotics obtained from microorganisms, and have an aminosugar in place of a sugar moiety.
+c.Oils: These are viscous, inflammable liquids, insoluble in water. Fixed (nonvolatile) oils are calorie yielding triglycerides of higher fatty acids; mostly used for food and as emollients, e.g. groundnut oil, coconut oil, sesame oil, etc. Castor oil is a stimulant purgative. Essential (volatile) oils, mostly obtained from flowers or leaves by steam distillation are aromatic (fragrant) terpene hydrocarbons that have no food value. They are used as flavouring agents, carminatives, counterirritants and astringents; examples are eucalyptus oil, pepermint oil, nilgiri oil, etc. Clove oil is used to allay dental pain. Menthol, thymol, camphor are volatile oils that are solids at room temperature. 
+Mineral oils are not plant products, but obtained from petroleum; liquid paraffin is a lubricant laxative, soft and hard paraffin are used as emollient and as ointment bases.
+Other plant products like tanins are astringent; gums are demulcents and act as suspending agents in liquid dosage forms. Glycerine is a viscous, sweet liquid used as vehicle for gum/throat paint. Resins and balsams are used as antiseptic and in cough mixtures. The antimalarial drug artemisinin is a sesquiterpene endoperoxide obtained from a Chinese plant.
+
+
+2.Animals Though animal parts have been used as cures since early times, it was exploration of activity of organ extracts in the late 19th and early 20th century that led to introduction of animal products into medicine, e.g. adrenaline, thyroxine, insulin, liver extract (vit. B12). Antisera and few vaccines are also produced from animals.
+3.Microbes Most antibiotics are obtained from fungi, actinomycetes and bacteria, e.g. penicillin, gentamicin, tetracycline, erythromycin, polymyxin B, actinomycin D (anticancer). Some enzymes, e.g. diastase from a fungus and streptokinase from streptococci have a microbial source. Vaccines are produced by the use of microbes.
+4.Minerals Few minerals, e.g. iron salts, calcium salts, lithium carbonate, magnesium/aluminium hydroxide, iodine are used as medicinal substances.
+5.Synthetic chemistry Synthetic chemistry made its debut in the 19th century, and is now the largest source of medicines. Synthetic drugs have the advantage of purity and uniformity of the product. They can be manufactured in any quantity as per need, in contrast to drugs from natural sources whose availability may be limited. Not only diverse congeners of naturally obtained drugs (atropine substitutes, adrenergic b2 agonists, synthetic glucocorticoids/progestins/cephalosporins, etc.) have been introduced to achieve greater selectivity of action or even novel type of activity, but many entirely synthetic families of drugs, e.g. benzodiazepines, thiazides, benzimidazoles, fluoroquinolones, etc. have been produced. Many drugs are being synthesized to target specific biomolecules, e.g. ACE inhibitors, glycoprotein IIb/IIIa receptor antagonists, HIV-reverse transcriptase inhibitors, etc. Synthetic drugs that are chiral can also be produced as single active enantiomer products, which may be therapeutically superior.
+
+
+6.Biotechnology Several drugs, especially peptides and proteins are now produced by recombinant DNA technology, e.g. human growth hormone, human insulin, altaplase, interferon, etc. Monoclonal antibodies, regulator peptides, erythropoietin and other growth factors are the newer drugs of biotechnological origin. protein therapeutics is rapidly expanding, because specifically designed and customized proteins can now be produced.
+Drug nomenclature
+A drug generally has three categories of names:
+(a)Chemical name It describes the substance chemically, e.g. 1-(Isopropylamino)-3-(1-naphthyloxy) propan-2-ol for propranolol. This is cumbersome and not suitable for use in prescribing. A code name, e.g. RO 15-1788 (later named flumazenil) may be assigned by the manufacturer for convenience and simplicity before an approved name is coined.
+(b)Non-proprietary name It is the name accepted by a competent scientific body/authority, e.g. the United States Adopted Name (USAN) by the USAN council. Similarly, there is the British Approved name (BAN) of a drug. The non-proprietary names of newer drugs are kept uniform by an agreement to use the Recommended International Nonproprietary Name (rINN) in all member countries of the WHO. The BAN of older drugs as well has now been modified to be commensurate with rINN. However, many older drugs still have more than one non-proprietary names, e.g. ‘meperidine’ and ‘pethidine’ or ‘lidocaine’ and ‘lignocaine’ for the same drugs. Until the drug is included in a pharmacopoeia, the nonproprietary name may also be called the approved name. After its appearance in the official publication, it becomes the official name.
+In common parlance, the term generic name is used in place of nonproprietary name. Etymologically this is incorrect: ‘generic’ should be applied to the chemical or pharmacological group (or genus) of the compound, e.g. phenothiazines, tricyclic antidepressants, aminoglycoside antibiotics, etc. However, this misnomer is widely accepted and used even in official parlance.
+
+
+(c)Proprietary (Brand) name It is the name assigned by the manufacturer(s) and is his property or trade mark. One drug may have multiple proprietary names, e.g. AMCARD, AMLOGARD, AMLOCOR, AMLONG, AMLOPIN, AMLOVAS, STAMLO for amlodipine from different manufacturers. Brand names are designed to be catchy, short, easy to remember and often suggestive, e.g. LOPRESOR suggesting drug for lowering blood pressure. Brand names generally differ in different countries, e.g. timolol maleate eye drops are marketed as TIMOPTIC in USA but as GLUCOMOL in India. Even the same manufacturer may market the same drug under different brand names in different countries. In addition, combined formulations have their own multiple brand names. This is responsible for much confusion in drug nomenclature.
+There are many arguments for using the nonproprietary name in prescribing: uniformity, convenience, economy and better comprehension (propranolol, sotalol, timolol, pindolol, metoprolol, acebutolol, atenolol are all β blockers, but their brand names have no such similarity). Drugs marketed under nonproprietary name (called generic products) are much cheaper than their branded counterparts, partly because the manufacturer invests a lot of money in promoting the brand name. However, when a drug is prescribed by the generic name, the chemist is free to dispense the generic product from any manufacturer, but not so when the drug is prescribed by a brand name. Thus, when it is important to ensure consistency of the product in terms of quality and bioavailability, etc. and especially when official control over quality of manufactured products is not rigorous, it is better to prescribe by the dependable brand name.
+
+
+drug COMPENDIA
+These are compilations of information on drugs in the form of monographs; without going into the theoretical concepts, mechanisms of action and other aspects which help in understanding the subject. Pharmacopoeias and Formularies are broughtout by the Government in a country, hold legal status and are called official compendia. In addition, some non-official compendia are published by professional bodies, which are supplementary and dependable sources of information about drugs.
+Pharmacopoeias They contain description of chemical structure, molecular weight, physical and chemical characteristics, solubility, identification and assay methods, standards of purity, storage conditions and dosage forms of officially approved drugs in a country. They are useful to drug manufacturers and regulatory authorities, but not to doctors, most of whom never see a pharmacopoeia. Examples are Indian (IP), British (BP), European (Eur P), United States (USP) pharmacopoeias.
+Formularies Generally produced in easily carried booklet form, they list indications, dose, dosage forms, contraindications, precautions, adverse effects and storage of selected drugs that are available for medicinal use in a country. Drugs are categorized by their therapeutic class. Some rational fixed-dose drug combinations are included. A brief commentary on the drug class and clinical conditions in which they are used generally precedes specifics of individual drugs. Brief guidelines for treatment of selected conditions are provided. While British National Formulary (BNF) also lists brand names with costs, the National Formulary of India (NFI) does not include these. Most formularies have informative appendices as well. Formularies can be considerably helpful to prescribers. 
+Martindale: The Complete Drug Reference (Extrapharmacopoeia) Published every 2–3 years by the Royal Pharmaceutical Society of Great Britain, this non-official compendium is an exhaustive and updated compilation of unbiased information on medicines used/registered all over the world. It includes new launches and contains pharmaceutical, pharmacological as well as therapeutic information on drugs, which can serve as a reliable reference book. 
+
+
+Physicians Desk Reference (PDR) and Drug: Facts and Comparisons (both from USA), etc. are other useful non-official compendia. 
+Essential medicines (drugS) concept
+The WHO has defined Essential Medicines (drugs) as “those that satisfy the priority healthcare needs of the population.” They are selected with due regard to public health relevance, evidence on efficacy and safety, and comparative cost effectiveness. Essential medicines are intended to be available within the context of functioning health systems at all times and in adequate amounts, in appropriate dosage forms, with assured quality and adequate information, and at a price the individual and the community can afford.
+It has been realized that only a handful of medicines out of the multitude available can meet the health care needs of majority of the people in any country, and that many well tested and cheaper medicines are equally (or more) efficacious and safe as their newer more expensive congeners. For optimum utilization of resources, governments (especially in developing countries) should concentrate on these medicines by identifying them as Essential medicines. The WHO has laid down criteria to guide selection of an essential medicine.*
+(a) Adequate data on its efficacy and safety should be available from clinical studies.
+(b) It should be available in a form in which quality, including bioavailability, and stability on storage can be assured.
+(c) Its choice should depend upon pattern of prevalent diseases; availability of facilities and trained personnel; financial resources; genetic, demographic and environmental factors.
+
+
+(d) In case of two or more similar medicines, choice should be made on the basis of their relative efficacy, safety, quality, price and availability. Cost-benefit ratio should be a major consideration.
+(e) Choice may also be influenced by comparative pharmacokinetic properties and local facilities for manufacture and storage.
+(f) Most essential medicines should be single compounds. Fixed ratio combination products should be included only when dosage of each ingredient meets the requirements of a defined population group, and when the combination has a proven advantage in therapeutic effect, safety, adherence or in decreasing the emergence of drug resistance.
+(g) Selection of essential medicines should be a continuous process which should take into account the changing priorities for public health action, epidemiological conditions as well as availability of better medicines/formulations and progress in pharmacological knowledge.
+(h)Recently, it has been emphasized to select essential medicines based on rationally developed treatment guidelines.
+To guide the member countries, the WHO brought out its first Model List of Essential Drugs along with their dosage forms and strengths in 1977 which could be adopted after suitable modifications according to local needs. This has been revised from time to time and the current is the 20th list (2017)$ which has 433 medicines, including 25 fixed dose drug combinations (FDCs). India produced its National Essential Drugs List in 1996, and has revised it in 2011, and now in 2015 with the title “National List of Essential Medicines”.£ The latest list includes 376 medicines, of which 20 are FDCs. These medicines have been marked into 3 categories for being available at primary, secondary and tertiary levels of health care facility. 
+Adoption of the essential medicines list for procurement and supply of medicines, especially in the public sector healthcare system, has resulted in improved availability of medicines, cost saving and more rational use of drugs.
+
+
+*The use of Essential Drugs (including the 8th model list of essential drugs); WHO Technical report series 850, 1995, Geneva.
+$www.who.int>20th—essential med-list (pub. 6 Jun 2017).
+£National list of Essential Medicines (2015) [http//www.cdsco.nic.in]
+
+
+Prescription and non-prescription drugs
+As per drug rules, majority of drugs including all antibiotics must be sold in retail only against a prescription issued to a patient by a registered medical practitioner. These are called ‘prescription drugs’, and in India they have been placed in the schedule H of the Drugs and Cosmetic Rules (1945) as amended from time to time. However, few drugs like simple analgesics (paracetamol aspirin), antacids, laxatives (senna, lactulose), vitamins, ferrous salts, etc. are considered relatively harmless, and can be procured without a prescription. These are ‘non-prescription’ or ‘over-the-counter’ (OTC) drugs; can be sold even by grocery stores.
+Orphan Drugs These are drugs or biological products for diagnosis/treatment/ prevention of a rare disease or condition, or a more common disease (endemic only in resource poor countries or areas) for which there is no reasonable expectation that the cost of developing and marketing it will be recovered from the sales of that drug. As per Orphan Drug Amendment (1983) Act of USA, a rare disease/condition is one that affects less than 0.2 million people in the USA. Though these drugs may be life saving for some patients, they are commercially difficult to obtain as a medicinal product. Governments in developed countries offer tax benefits and other incentives to pharmaceutical companies for developing and marketing orphan drugs. Orphan drug status has been awarded to many drugs in the USA, Europe and some other countries. Few examples of drugs granted ‘Orphan Drug’ status are listed in the box.
+
+
+Abridged list of Orphan drugs
+
+
+
+
+Azacitidine
+
+
+Icatibant
+
+
+
+
+Bevacizumab
+
+
+Iloprost
+
+
+
+
+Bortezomib
+
+
+Nilotinib
+
+
+
+
+Busulfan
+
+
+Paromomycin
+
+
+
+
+Carboprost
+
+
+Rifaximin
+
+
+
+
+Clofazimine
+
+
+Rituximab
+
+
+
+
+Colchicine
+
+
+Sodium stibogluconate
+
+
+
+
+Eltrombopag
+
+
+Sodium thiosulfate
+
+
+
+
+Fomivirsen
+
+
+ThioTEPA
+
+
+
+
+
+
+
+Dosage forms of drugs
+Dosage form is a product suitable for administration of a drug to a patient. Every active ingredient (drug) has to be formulated by adding other substances (excipients, diluents, preservatives, vehicles, etc.) according to a specific recipe and packaged into a specific ‘dosage form’ such as tablet, elixir, ointment, injection vial, etc. which is then administered to the subject. The dosage form provides body to the drug, demarkates single doses, protects the active ingredient(s), and makes it suitable for administration in various ways. The important dosage forms are briefly described below.
+
+
+Solid dosage forms
+1.Powders The drug is in a dry and finely pulverised state. If the drug is for oral administration, each dose has to be wrapped separately or packed in sachets; therefore this dosage form is inconvenient and unpopular except when the quantity is several grams, e.g. oral rehydration salts. Powders for topical application (dusting powders) are supplied as bulk powders in metallic or plastic containers with holes for sprinkling. Effervescent powders contain granulated sod. bicarbonate and citric or tartaric acid. They react when dissolved in water to liberate CO2 causing bubbling.
+2.Tablets The drug is powdered or granulated, mixed with binding agents, and other excipients, and compressed/moulded into discoid, oblong or other shapes suitable for swallowing. The tablet may be plain or sugar coated or film coated. Other specialized types of tablets are:
+Chewable tablets—can be chewed and swallowed, ingredients must be pleasent tasting.
+Dispersible tablets—the tablet is dropped in a small quantity of water, wherein it disperses quickly; the solution is then gulped.
+Sublingual tablets—put under the tongue, the drug is rapidly absorbed from the mouth.
+Enteric coated tablet—the tablet is coated with a material that does not dissolve in the acidic medium of the stomach; the tablet disintegrates only on reaching the duodenum.
+Sustained/Extended release tablets—These contain drug particles which are coated to dissolve at different rates. The active ingredient is made available for absorption over a longer period of time. The duration of action of short acting (2-6 hours) drugs can be extended to 12 hours or more.
+
+
+Controlled release tablets—A semipermeable membrane controls the release of the drug – prolonging its duration of action.
+3.Pills These are archaic dosage forms in which the drug powder is mixed with honey/syrup to make a sticky mass. This is then rolled into spherical/oval bodies meant to be swallowed. The term is often loosely applied to tablets as well.
+4.Capsules These are water soluble cylindrical containers made of gelatin which are filled with powdered or liquid medicament. The container dissolves on swallowing so that the drug is released in the stomach. Soft gelatine capsules dissolve very rapidly and generally contain liquid medicament. Enteric coated capsules are designed to dissolve only on reaching the ileum. Spansules are extended release capsules which are packed with granules of the drug having different coatings to dissolve over a range of time periods.
+5.Lozenges These are tablet-like bodies of various shapes containing the drug along with a suitable gum, sweetening and flavouring agents. They are to be retained in the mouth and allowed to dissolve slowly, providing the drug for local action in the mouth and throat.
+6.Suppositories These are conical bullet- shaped dosage forms for insertion into the anal canal, in which the drug is mixed with a mouldable firm base that melts at body temperature and releases the contained drug. Oval or suitably shaped bodies for vaginal insertion are called ‘pessaries’, while elongated pencil-like cones meant for insertion into male or female urethra are called bougies.
+Liquid dosage forms
+1.Aqueous solutions They contain the drug dissolved in water, and may be meant for oral, topical or parenteral administration. Oral drug solutions often contain sweetening and flavouring agents. Preservatives have to be mostly added because shelf-life of watery solutions is short.
+
+
+2.Suspensions are dispersion of insoluble drugs in water with the help of a suspending agent. Emulsions are uniform mixtures of two immiscible liquids (mostly oil and water) in which droplets of one (dispersed phase) are suspended in the other (continuous phase) with the help of an amphiphilic emulsifying agent. Milk is a naturally occurring emulsion. Both suspensions and emulsions tend to settle down on keeping; should be shaken thoroughly before use.
+3.Elixirs are hydro-alcoholic solutions of drugs, usually sweetened with syrup and flavoured by fruit extracts. Syrups have higher concentration of sugar and are thicker in consistency. Drugs that deteriorate in aqueous medium can be dispensed as ‘dry syrups’ which is reconstituted by adding water and shaking. The reconstituted syrup must be used within a few days. Linctus is a viscous syrupy liquid meant to be licked slowly for soothing the throat. It generally has menthol to impart cooling sensation, and an antitussive.
+4.Drops These are relatively more concentrated solutions of medicaments meant for oral ingestion or external application to eye, nose or ear canal. Oral drops are the preferred dosage form for infants and young children. Eye/nasal drops should be isotonic. Eye drops need sterilization. Drops are supplied in vials with a nozzle or alongwith a dropper for accurate dosing.
+5.Lotions These are solutions, suspensions or emulsions meant for external application to the skin without rubbing. They generally have soothing, cooling, protective or emollient property and are better suited than creams or ointments for hairy skin. Liniments are similar preparations which generally contain counterirritants, and are to be rubbed on the skin to relieve pain and cause rubefaction.
+
+
+6.Injections These are sterile solutions or suspensions in aqueous or oily medium for subcutaneous or intramuscular administration. Only aqueous solutions (not suspensions) are suitable for intravenous (i.v.) injection, because particles in suspension and oils injected i.v. can cause embolism. Injections are supplied in sealed glass ampoules or air tight rubber capped vials. Ampoules are broken just before injection, and usually contain a single dose. Drug from the vial is sucked in a syringe by piercing the rubber cap. Vials may be single or multi-dose. Drugs which are unstable in solution are supplied as dry powder vials. Sterile solvent is injected in the vial just before it is to be administered, and the dissolved/suspended drug is then sucked out into the syringe. Some drugs like insulin are also supplied in prefilled syringes and pen injectors. Large volume i.v. infusions are marketed in glass/polypropylene bottles.
+Semisolid dosage forms
+1.Ointments These are greasy semisolid preparations meant for external application to the skin, eye, nasal mucosa, ear or anal canal. The drug is incorporated in an oily base, such as soft or hard paraffin, wool fat, bee’s wax, etc. Ointments are not suitable for oozing surfaces, because they are more occlusive and donot allow evaporation of water. Rather they are good for dry, chronic lesions. Creams are similar to ointment but the base is a water in oil emulsion. The medicament is better absorbed into the skin from creams than from ointments, and creams are cosmetically more acceptable than ointments.
+2.Pastes These are nongreasy preparations of thick consistency containing hydrophilic adhesive powders such as starch, prepared chalk, aluminium/magnesium hydroxide, zinc oxide, carboxy methylcellulose, etc. which swell by absorbing water. Pastes may contain viscous nonoily liquids like glycerol or propylene glycol. Pastes can be applied to inflamed or excoriated skin, oozing surfaces and mucous membranes. Toothpastes are items of personal hygiene, and medicated toothpastes are extensively used in dentistry.
+
+
+3.Gels The medicament is incorporated in a viscous colloidal solution of gelatin or similar material and is usually dispensed in collapsible tubes. They are meant for external application to the skin or mucosa and provide longer duration contact, but are nongreasy and washable with water. Gels are suitable for application to hairy skin, and are commonly applied to oral ulcers because they are better retained than aqueous solutions.
+Inhalations
+Drugs which are gases or volatile liquids can be administered by inhalation carried into air or oxygen with the help of a mouth piece, face mask, hood or endotracheal tube. Nonvolatile liquids and fine particle solids can be aerosolized using a metered dose inhaler, jet nebulizer, rotahaler or spinhaler for inhalation through the mouth. Pressurized metered dose inhalers (PMDIs) are hand-held devices which use a propellant, mostly hydrofluoroalkane (HFA), and deliver a specified dose of the drug in aerosol form per actuation. Jet nebulizers produce a mist of the drug solution generated by pressurized air or oxygen. Rotahaler is also a portable device in which a capsule (rotacap) containing very fine powder of the drug is punctured during actuation and the released particles are aerosolized by the inspiratory airflow of the patient. A propellant can also be used in some spin halers. Efficacy of the aerosolized drug depends on the particle size: 1–5 mm diameter particles deposit on the bronchioles and effectively deliver the drug. Larger particles settle on the oropharynx, while <1 mm particles donot settle anywhere and are exhaled out.
+ROUTES OF DRUG ADMINISTRATION
+Most drugs can be administered by a variety of routes. The choice of appropriate route in a given situation depends both on drug as well as patient related factors. Mostly common sense considerations, feasibility and convenience dictate the route to be used.
+
+
+Routes can be broadly divided into those for (a) Local action and (b) Systemic action.
+
+
+Factors governing choice of route
+
+
+
+
+1.
+
+
+Physical and chemical properties of the drug (solid/liquid/gas; solubility, stability, pH, irritancy).
+
+
+
+
+2.
+
+
+Site of desired action—localized and approachable or generalized and not approachable.
+
+
+
+
+3.
+
+
+Rate and extent of absorption of the drug from different routes.
+
+
+
+
+4.
+
+
+Effect of digestive juices and first pass metabolism on the drug.
+
+
+
+
+5.
+
+
+Rapidity with which the response is desired (routine treatment or emergency).
+
+
+
+
+6.
+
+
+Accuracy of dosage required (i.v. and inhalational can provide fine tuning).
+
+
+
+
+7.
+
+
+Condition of the patient (unconscious, vomiting).
+
+
+
+
+
+
+
+LOCAL ROUTES
+These routes can only be used for localized lesions at accessible sites and for drugs whose systemic absorption from these sites is minimal or absent. Thus, high concentrations are attained at the desired site without exposing the rest of the body. Systemic side effects or toxicity are consequently absent or minimal. For drugs (in suitable dosage forms) that are absorbed from these sites/routes, the same can serve as systemic route of administration, e.g. glyceryl trinitrate (GTN) applied on the skin as ointment or transdermal patch for angina pectoris. The local routes are:
+1.Topical This refers to external application of the drug to the surface for localized action. It is often more convenient as well as reassuring to the patient. Drugs can be efficiently delivered to the localized lesions on skin, oropharyngeal/ nasal mucosa, eyes, ear canal, anal canal or vagina in the form of lotion, ointment, cream, powder, rinse, paints, drops, spray, lozengens, suppositories or pesseries. Nonabsorbable drugs given orally for action on g.i. mucosa (sucralfate, vancomycin), inhalation of drugs for action on bronchi (salbutamol, cromolyn sodium) and irrigating solutions/jellys (povidone iodine, lidocaine) applied to urethra are other forms of topical medication.
+
+
+2.Deeper tissues Certain deep areas can be approached by using a syringe and needle, but the drug should be in such a form that systemic absorption is slow, e.g. intra-articular injection (hydrocortisone acetate in knee joint), infiltration around a nerve or intrathecal injection (lidocaine), retrobulbar injection (hydrocortisone acetate behind the eyeball).
+3.Arterial supply Close intra-arterial injection is used for contrast media in angiography; anticancer drugs can be infused in femoral or brachial artery to localise the effect for limb malignancies.
+SYSTEMIC ROUTES
+The drug administered through systemic routes is intended to be absorbed into the blood stream and distributed all over, including the site of action, through circulation (see Fig. 1.1).
+1.Oral
+Oral ingestion is the oldest and commonest mode of drug administration. It is safer, more convenient, does not need assistance, noninvasive, often painless, the medicament need not be sterile and so is cheaper. Both solid dosage forms (powders, tablets, capsules, spansules, dragees, moulded tablets, gastrointestinal therapeutic systems—GITs) and liquid dosage forms (elixirs, syrups, emulsions, mixtures) can be given orally.
+
+
+
+Limitations of oral route of administration
+
+
+
+
+•Action of drugs is slower and thus not suitable for emergencies.
+
+
+
+
+•Unpalatable drugs (chloramphenicol) are difficult to administer; drug may be filled in capsules to circumvent this.
+
+
+
+
+•May cause nausea and vomiting.
+
+
+
+
+•Cannot be used for uncooperative/unconscious/vomiting patient.
+
+
+
+
+•Absorption of the drug may be variable and erratic; certain drugs are not absorbed (streptomycin).
+
+
+
+
+•Others are destroyed by digestive juices (penicillin G, insulin) or in liver (GTN, testosterone, lidocaine).
+
+
+
+
+
+
+
+
+
+
+
+
+Fig. 1.1: Vascular pathway of drugs absorbed from various systemic routes of administration and sites of first pass metabolism
+Note: Total drug absorbed orally is subjected to first pass metabolism in intestinal wall and liver, while approximately half of that absorbed from rectum passes through liver. Drug entering from any systemic route is exposed to first pass metabolism in lungs, but its extent is minor for most drugs.
+
+
+2.Sublingual (s.l.) or buccal
+The tablet or pellet containing the drug is placed under the tongue or crushed in the mouth and spread over the buccal mucosa. Only lipid soluble and non-irritating drugs can be so administered. Absorption is relatively rapid—action can be produced in minutes. Though it is somewhat inconvenient, one can spit the drug after the desired effect has been obtained. The chief advantage is that liver is bypassed and drugs with high first pass metabolism can be absorbed directly into systemic circulation. Drugs given sublingually are—GTN, buprenorphine, desamino-oxytocin.
+3.Rectal
+Certain irritant and unpleasant drugs can be put into rectum as suppositories or retention enema for systemic effect. This route can also be used when the patient is having recurrent vomiting or is unconscious. However, it is rather inconvenient and embarrassing; absorption is slower, irregular and often unpredictable, though diazepam solution and paracetamol suppository are rapidly and dependably absorbed from the rectum in children. Drug absorbed into external haemorrhoidal veins (about 50%) bypasses liver, but not that absorbed into internal haemorrhoidal veins. Rectal inflammation can result from irritant drugs. Diazepam, indomethacin, paracetamol, ergotamine and few other drugs are some times given rectally.
+4.Cutaneous
+Highly lipid soluble drugs can be applied over the skin for slow and prolonged absorption. The liver is also bypassed. The drug can be incorporated in an ointment and applied over specified area of skin. Absorption of the drug can be enhanced by rubbing the preparation, by using an oily base and by an occlusive dressing.
+Transdermal therapeutic systems (TTS) These are devices in the form of adhesive patches of various shapes and sizes (5–20 cm2) which deliver the contained drug at a constant rate into systemic circulation via the stratum corneum (Fig. 1.2). The drug (in solution or bound to a polymer) is held in a reservoir between an occlusive backing film and a rate controlling micropore membrane, the under surface of which is smeared with an adhesive impregnated with priming dose of the drug. The adhesive layer is protected by another film that is to be peeled off just before application. The drug is delivered at the skin surface by diffusion for percutaneous absorption into circulation. The micropore membrane is such that rate of drug delivery to skin surface is less than the slowest rate of absorption from the skin. This offsets any variation in the rate of absorption according to the properties of different sites. As such, the drug is delivered at a constant and predictable rate irrespective of site of application. Usually chest, abdomen, upper arm, lower back, buttock or mastoid region are utilized.
+
+
+Transdermal patches of GTN, fentanyl, nicotine and estradiol are available in India, while those of isosorbide dinitrate, hyoscine, and clonidine are marketed elsewhere. For different drugs, TTS have been designed to last for 1–3 days. Though more expensive, they provide smooth plasma concentrations of the drug without fluctuations; minimize interindividual variations (drug is subjected to little first pass metabolism) and side effects. They are also more convenient—many patients prefer transdermal patches to oral tablets of the same drug; patient compliance is better. Local irritation and erythema occurs in some subjects, but is generally mild; can be minimized by changing the site of application each time by rotation. Discontinuation has been necessary in only 2–7% cases. 
+
+
+
+
+
+Fig. 1.2: Illustration of a transdermal drug delivery system
+
+
+5.Inhalation
+Volatile liquids and gases are given by inhalation for systemic action, e.g. general anaesthetics. Absorption takes place from the vast surface of alveoli—action is very rapid. When administration is discontinued the drug diffuses back and is rapidly eliminated in expired air. Thus, controlled administration is possible with moment to moment adjustment. Irritant vapours (ether) cause inflammation of respiratory tract and increase secretion.
+6.Nasal
+The mucous membrane of the nose can readily absorb many drugs; digestive juices and liver are bypassed. However, only certain drugs like GnRH agonists, calcitonin and desmopressin applied as a spray or nebulized solution have been used by this route. This route is being tried for some other peptide drugs like insulin, as well as to bypass the blood-brain barrier.
+7.Parenteral
+(Par—beyond, enteral—intestinal)
+Conventionally, parenteral refers to administration by injection which takes the drug directly into the tissue fluid or blood without having to cross the enteral mucosa. The limitations of oral administration are circumvented.
+Drug action is faster and surer (valuable in emergencies). Gastric irritation and vomiting are not provoked. Parenteral routes can be employed even in unconscious, uncooperative or vomiting patient. There are no chances of interference by food or digestive juices. Liver is bypassed.
+Disadvantages of parenteral routes are—the preparation has to be sterilized and is costlier, the technique is invasive and painful, assistance of another person is mostly needed (though self injection is possible, e.g. insulin by diabetics), there are chances of local tissue injury and, in general, parenteral route is more risky than oral. The important parenteral routes are:
+
+
+(i) Subcutaneous (s.c.) The drug is deposited in the loose subcutaneous tissue which is richly supplied by nerves (irritant drugs cannot be injected) but is less vascular (absorption is slower than intramuscular). Only small volumes can be injected s.c. Self-injection is possible because deep penetration is not needed. This route should be avoided in shock patients who are vasoconstricted—absorption will be delayed. Repository (depot) preparations that are aqueous suspensions can be injected for prolonged action. Some special forms of this route are:
+(a) Dermojet In this method needle is not used; a high velocity jet of drug solution is projected from a microfine orifice using a gun like implement. The solution passes through the superficial layers and gets deposited in the subcutaneous tissue. It is essentially painless and suited for mass inoculations.
+(b) Pellet implantation The drug in the form of a solid pellet is introduced with a trochar and cannula. This provides sustained release of the drug over weeks and months, e.g. DOCA, testosterone.
+(c)Sialistic (nonbiodegradable) and biodegradable implants Crystalline drug is packed in tubes or capsules made of suitable materials and implanted under the skin. Slow and uniform leaching of the drug occurs over months providing constant blood levels. The nonbiodegradable implant has to be removed later on but not the biodegradable one. This has been tried for hormones and contraceptives (e.g. NORPLANT).
+(ii) Intramuscular (i.m.) The drug is injected in one of the large skeletal muscles—deltoid, triceps, gluteus maximus, rectus femoris, etc. Muscle is less richly supplied with sensory nerves (mild irritants can be injected) and is more vascular (absorption of drugs in aqueous solution is faster). It is less painful, but self injection is often impracticable because deep penetration is needed. Depot preparations (oily solutions, aqueous suspensions) can be injected by this route. Intramuscular injections should be avoided in anticoagulant treated patients, because it can produce local haematoma.
+
+
+(iii) Intravenous (i.v.) The drug is injected as a bolus (Greek: bolos–lump) or infused slowly over hours in one of the superficial veins. The drug reaches directly into the blood stream and effects are produced immediately (great value in emergency). The intima of veins is insensitive and drug gets diluted with blood, therefore, even highly irritant drugs can be injected i.v., but hazards are—thrombophlebitis of the injected vein and necrosis of adjoining tissues if extravasation occurs. These complications can be minimized by diluting the drug or injecting it into a running i.v. line. Only aqueous solutions (not suspensions, because drug particles can cause embolism) are to be injected i.v. and there are no depot preparations for this route. Chances of causing air embolism is another risk. The dose of the drug required is smallest (bioavailability is 100%) and even large volumes can be infused. One big advantage with this route is—in case response is accurately measurable (e.g. BP) and the drug short acting (e.g. sodium nitroprusside), titration of the dose with the response is possible. However, this is the most risky route—vital organs like heart, brain, etc. get exposed to high concentrations of the drug.
+
+
+(iv) Intradermal injection The drug is injected into the skin raising a bleb (e.g. BCG vaccine, sensitivity testing) or scarring/multiple puncture of the epidermis through a drop of the drug is done. This route is employed for specific purposes only.

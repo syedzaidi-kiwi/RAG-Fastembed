@@ -1,0 +1,993 @@
+Ch-3
+
+
+
+
+
+
+
+
+
+BIOTRANSFORMATION (Metabolism)
+Biotransformation means chemical alteration of the drug in the body. It is needed to render nonpolar (lipid-soluble) compounds polar (lipid-insoluble) so that they are not reabsorbed in the renal tubules and are excreted. In the absence of metabolism, body will not be able to get rid of lipophylic substances, and they will become very long acting. Most hydrophilic drugs, e.g. streptomycin, neostigmine, pancuronium, etc. are little biotransformed and are largely excreted unchanged. Mechanisms which metabolize drugs (essentially foreign substances or Xenobiotics) have developed to protect the body from ingested toxins and other environmental chemicals.
+The primary site for drug metabolism is liver; others are—kidney, intestine, lungs and plasma. Biotransformation of drugs may lead to the following.
+(i) Inactivation Most drugs and their active metabolites are rendered inactive or less active, e.g. ibuprofen, paracetamol, lidocaine, chloramphenicol, propranolol and its active metabolite 4-hydroxypropranolol. Thus, biotransformation provides an alternative method of terminating drug action to excretion.
+(ii) Active metabolite from an active drug Many drugs have been found to be partially converted to one or more active metabolite; the effects observed are the sumtotal of that due to the parent drug and its active metabolite(s) (see box).
+
+
+(iii) Activation of inactive drug Few drugs are inactive as such and need conversion in the body to one or more active metabolites. Such a drug is called a prodrug (see box). The prodrug may offer advantages over the active form in being more stable, having better bioavailability or other desirable pharmacokinetic properties or less side effects and toxicity. Some prodrugs are activated selectively at the site of action.
+
+
+Active drugActive metabolite
+
+
+
+
+Morphine
+
+
+—
+
+
+Morphine-6-glucuronide
+
+
+
+
+Cefotaxime
+
+
+—
+
+
+Desacetyl cefotaxime
+
+
+
+
+Allopurinol
+
+
+—
+
+
+Alloxanthine
+
+
+
+
+Procainamide
+
+
+—
+
+
+N-acetyl procainamide  
+
+
+
+
+Primidone
+
+
+—
+
+
+Phenobarbitone, phenylethylmalonamide
+
+
+
+
+Diazepam
+
+
+—
+
+
+Desmethyl-diazepam, oxazepam
+
+
+
+
+Digitoxin
+
+
+—
+
+
+Digoxin
+
+
+
+
+Imipramine
+
+
+—
+
+
+Desipramine
+
+
+
+
+Amitriptyline
+
+
+—
+
+
+Nortriptyline
+
+
+
+
+Codeine
+
+
+—
+
+
+Morphine
+
+
+
+
+Spironolactone
+
+
+—
+
+
+Canrenone
+
+
+
+
+Losartan
+
+
+—
+
+
+E 3174 
+
+
+
+
+
+
+
+Biotransformation reactions can be classified into:
+(a) Nonsynthetic/Phase I/Functionalization reactions: a functional group (–OH, –COOH, –CHO, –NH2, –SH) is generated or exposed—metabolite may be active or inactive.
+(b) Synthetic/Conjugation/ Phase II reactions: an endogenous radical is conjugated to the drug—metabolite is mostly inactive; except few drugs, e.g. glucuronide conjugate of morphine and sulfate conjugate of minoxidil are active. Certain drugs already have functional groups and are directly conjugated, while others undergo a phase I reaction first followed by a phase II reaction (see Fig. 3.1).
+
+
+
+
+ProdrugActive form
+
+
+
+
+Levodopa
+
+
+—
+
+
+Dopamine
+
+
+
+
+Enalapril
+
+
+—
+
+
+Enalaprilat
+
+
+
+
+a-Methyldopa
+
+
+—
+
+
+a-methylnorepinephrine
+
+
+
+
+Dipivefrine
+
+
+—
+
+
+Epinephrine
+
+
+
+
+Proguanil
+
+
+—
+
+
+Cycloguanil
+
+
+
+
+Prednisone
+
+
+—
+
+
+Prednisolone
+
+
+
+
+Clopidogrel
+
+
+—
+
+
+Thiol metabolite
+
+
+
+
+Bacampicillin
+
+
+—
+
+
+Ampicillin
+
+
+
+
+Sulfasalazine
+
+
+—
+
+
+5-Aminosalicylic acid
+
+
+
+
+Cyclophos-
+phamide
+
+
+—
+
+
+Aldophosphamide,
+phosphoramide mustard, acrolein
+
+
+
+
+Fluorouracil
+
+
+—
+
+
+Fluorouridine monophosphate
+
+
+
+
+Mercaptopurine
+
+
+—
+
+
+Methylmercaptopurine ribonucleotide
+
+
+
+
+Acyclovir
+
+
+—
+
+
+Acyclovir triphosphate
+
+
+
+
+
+
+
+Nonsynthetic reactions
+(i) Oxidation This reaction involves addition of oxygen/negatively charged radical or removal of hydrogen/positively charged radical. Oxidations are the most important drug metabolizing reactions. Various oxidation reactions are:
+hydroxylation; oxygenation at C, N or S atoms; N or O-dealkylation, oxidative deamination, etc.
+In many cases the initial insertion of oxygen atom into the drug molecule produces short lived highly reactive quinone/epoxide/superoxide intermediates which then convert to more stable compounds.
+Oxidative reactions are mostly carried out by a group of monooxygenases in the liver, which in the final step involve a cytochrome P-450 haemoprotein, NADPH, cytochrome P-450 reductase and molecular O2. More than 100 cytochrome P-450 (CYP) isoenzymes differing in their affinity for various substrates (drugs), have been identified. The CYP isoenzymes important for drug metabolism in humans, along with their clinically relevant substrate drugs, inhibitors and inducers are listed in Table 3.1
+
+
+Depending upon the extent of amino acid sequence homology, the cytochrome P-450 (CYP) isoenzymes are grouped into families designated by numerals (1, 2, 3.....), each having several sub-families designated by capital letters (A, B, C.....), while individual isoenzymes are again alloted numerals (1, 2, 3....). In human beings, only a few members of three isoenzyme families (CYP 1, 2 and 3) carryout metabolism of most of the drugs, and many drugs such as tolbutamide, barbiturates, phenytoin, paracetamol are substrates for more than one isoform. The CYP isoenzymes important in man are:
+CYP3A4/5 Carryout biotransformation of largest number (nearly 50%) of drugs. In addition to liver, these isoforms are expressed in intestine (responsible for first pass metabolism at this site) and kidney as well. Inhibition of this isoenzyme by erythromycin, clarithromycin, ketoconazole, itraconazole is responsible for the important drug interaction with terfenadine, astemizole and cisapride (see p. 181) which are its substrates. Verapamil, ritonavir and a constituent of grape fruit juice are other important inhibitors.
+CYP2D6 This is the next most important CYP isoform which metabolizes nearly 20% drugs including tricyclic antidepressants, selective serotonin reuptake inhibitors, many neuroleptics, antiarrhythmics, codeine, debrisoquine, metoprolol. Inhibition of this enzyme by quinidine results in failure of conversion of codeine to morphine → analgesic effect of codeine is lost. Human subjects can be grouped into ‘extensive’ or ‘poor’ metabolizers of metoprolol and debrisoquin. The poor metabolizers have an altered CYP2D6 enzyme and exhibit low capacity to hydroxylate many drugs. An ultrarapid metabolizer genotype of CYP2D6 has also been identified.
+CYP2C8/9 Important in the biotransformation of >15 commonly used drugs including phenytoin, carbamazepine, warfarin which are narrow safety margin drugs.
+CYP2C19 Metabolizes > 12 frequently used drugs including omeprazole, lansoprazole, phenytoin, diazepam. Omeprazole and fluconazole are its inhibitors.
+CYP1A1/2 Though this subfamily participates in the metabolism of only few drugs like theophylline, caffeine, paracetamol, carbamazepine, it is more important for activation of procarcinogens. Polycyclic hydrocarbons, cigarette smoke and charbroiled meat are its potent inducers.
+CYP2E1 It catalyses oxidation of alcohol, holothane, and formation of minor metabolites of few drugs, notably the hepatotoxic N-acetyl benzoquinoneimine from paracetamol; chronic alcoholism induces this isoenzyme.
+The relative amount of different cytochrome P-450s differs among species and among individuals of the same species. These differences largely account for the marked interspecies and interindividual differences in rate of metabolism of drugs. 
+
+
+
+
+
+
+Table 3.1: Major drug metabolizing CYP450 isoenzymes in humans with their important substrate drugs, inhibitors and inducers
+
+
+
+
+CYP-450 isoenzyme
+
+
+Drugs metabolized
+
+
+Inhibitors
+
+
+Inducers
+
+
+
+
+CYP3A4
+CYP3A5
+
+
+Terfenadine, Astemizole
+Cisapride, Losartan
+Carbamazepine, Hydrocortisone
+Paracetamol, Diazepam
+Buspirone, Mifepristone
+Ritonavir, saquinavir
+Simvastatin, Quinidine
+Verapamil, Lidocaine
+Dapsone, Nevirapine
+
+
+Erythromycin
+Clarithromycin
+Ketoconazole
+Itraconazole
+Verapamil
+Ritonavir
+Fluoxetine
+Grape fruit juice
+
+
+Barbiturates
+Phenytoin
+Carbamazepine
+Rifampin
+Glucocorticoids
+Nevirapine
+
+
+
+
+CYP2D6
+
+
+Metoprolol, Debrisoquine
+Nebivolol, Amitryptyline
+Clomipramine, Fluoxetine
+Paroxetine, Venlafaxine
+Haloperidol, Clozapine
+Risperidone, Codeine
+Propafenone, Flecainide
+
+
+Qunidine
+Fluoxetine
+Paroxetine
+
+
+Phenobarbitone
+Rifampin
+
+
+
+
+CYP2C8
+CYP2C9
+
+
+Phenytoin, Carbamazepine
+Warfarin, Tolbutamide
+Repaglinide, Pioglitazone
+Diclofenac, Ibuprofem
+Losartan
+
+
+Fluvoxamine
+Fluconazole
+Gemfibrozil
+Trimethoprim
+
+
+Phenobarbitone
+Carbamazepine
+Rifampin
+
+
+
+
+CYP2C19
+
+
+Omeprazole, Lansoprazole
+Amitriptyline, Citalopram
+Phenytoin, Diazepam
+Propranolol, Clopidogrel
+
+
+Omeprazole
+Fluconazole
+
+
+Carbamazepine
+Rifampin
+
+
+
+
+CYP1A1
+CYP1A2
+
+
+Theophylline, Caffeine
+Paracetamol, Warfarin
+Carbamazepine
+
+
+Fluvoxamine
+Fluoxetine
+
+
+Polycyclic hydrocarbons
+Cigarette smoke
+Charbroiled meat
+Rifampin
+Carbamazepine
+
+
+
+
+CYP2E1
+
+
+Alcohol, Halothane
+Paracetamol*
+
+
+Disulfiram
+Fomepizole
+
+
+Chronic alcoholism
+Isoniazid
+
+
+
+
+CYP2B6
+
+
+Efavirenz, Nevirapine
+Cyclophosphamide, Methadone
+Sertraline, Clopidogrel
+
+
+Paroxetine
+Sertraline
+Clopidogrel
+
+
+phenobarbitone
+Cyclophosphamide
+
+
+
+
+
+* Generates toxic metabolite n-acetyl-p-benzoquinoneimine (NABQI)
+
+
+Barbiturates, phenothiazines, imipramine, propranolol, ibuprofen, paracetamol, steroids, phenytoin, benzodiazepines, theophylline and many other drugs are oxidized in this way by CYP450. In addition few drugs like cimetidine, ranitidine, clozapine are oxidized at their N, P or S atoms by a group of flavin-monooxygenases that are also located on hepatic endoplasmic reticulum, but are distinct from CYP enzymes. these enzymes are not susceptible to induction or inhibition by other drugs, and thus are not involved in drug interactions. Some other drugs, e.g. adrenaline, alcohol, mercaptopurine are oxidized by mitochondrial or cytoplasmic enzymes.
+
+
+(ii) Reduction This reaction is the converse of oxidation and involves cytochrome P-450 enzymes working in the opposite direction. Alcohols, aldehydes, quinones are reduced. Drugs primarily reduced are chloralhydrate, chloramphenicol, halothane, warfarin.
+
+
+(iii) Hydrolysis This is cleavage of drug molecule by taking up a molecule of water.
+ esterase
+Ester + H2O  Acid + Alcohol
+Similarly, amides and polypeptides are hydrolysed by amidases and peptidases. In addition, there are epoxide hydrolases which detoxify epoxide metabolites of some drugs generated by CYP oxygenases. Hydrolysis occurs in liver, intestines, plasma and other tissues. Examples of hydrolysed drugs are choline esters, procaine, lidocaine, procainamide, aspirin, indomethacin, carbamazepine-epoxide, pethidine, oxytocin.
+(iv) Cyclization This is formation of ring structure from a straight chain compound, e.g. cycloguanil from proguanil.
+(v) Decyclization This implies opening up of ring structure of the cyclic drug molecule, such as barbiturates, phenytoin. This is generally a minor pathway.
+Synthetic reactions
+These reactions involve conjugation of the drug or its phase I metabolite with an endogenous substrate, usually derived from carbohydrate or amino acid, to form a polar highly ionized organic acid, which is easily excreted in urine or bile. Conjugation reactions have high energy requirement and are generally faster than phase I reactions.
+(i) Glucuronide conjugation This is the most important synthetic reaction carriedout by a group of UDP-glucuronosyl transferases (UGTs). Compounds with a hydroxyl or carboxylic acid group are easily conjugated with glucuronic acid which is derived from glucose. Examples are—chloramphenicol, aspirin, paracetamol, diazepam, lorazepam, morphine, metronidazole. Not only drugs but endogenous substrates like bilirubin, steroidal hormones and thyroxine utilize this pathway. Glucuronidation increases the molecular weight of the drug which favours its excretion in bile. Drug glucuronides excreted in bile can be hydrolysed by bacteria in the gut—the liberated drug is reabsorbed and undergoes the same fate. This enterohepatic cycling (see Fig. 3.2) of the drug prolongs its action, e.g. phenolphthalein, oral contraceptives.
+
+
+(ii) Acetylation Compounds having amino or hydrazine residues are conjugated with the help of acetyl coenzyme-A, e.g. sulfonamides, isoniazid, PAS, dapsone, hydralazine, clonazepam, procainamide. Multiple genes control the N-acetyl transferases (NATs), and rate of acetylation shows genetic polymorphism (slow and fast acetylators).
+(iii) Methylation The amines and phenols can be methylated by methyl transferases (MT); methionine and cysteine acting as methyl donors, e.g. adrenaline, histamine, nicotinic acid, methyldopa, captopril, mercaptopurine.
+(iv) Sulfate conjugation The phenolic compounds and steroids are sulfated by sulfotransferases (SULTs), e.g. chloramphenicol, methyldopa, adrenal and sex steroids.
+(v) Glycine conjugation Salicylates, nicotinic acid and other drugs having carboxylic acid group are conjugated with glycine, but this is not a major pathway of metabolism.
+(vi) Glutathione conjugation This is carried out by glutathione-S-transferase (GST) forming a mercapturate. It is normally a minor pathway. However, it serves to inactivate highly reactive quinone or epoxide intermediates formed during metabolism of certain drugs, e.g. paracetamol. When large amount of such intermediates are formed (in poisoning or after enzyme induction), glutathione supply falls short—toxic adducts are formed with tissue constituents resulting in hepatic, renal and other tissue damage.
+(vii) Ribonucleoside/nucleotide synthesis This pathway is important for the activation of many purine and pyrimidine antimetabolites used in cancer chemotherapy.
+
+
+
+
+
+
+Most drugs are metabolized by multiple pathways, simultaneously or sequentially as illustrated in Fig. 3.1. Rates of reaction by different pathways often vary considerably. A variety of metabolites (some more, some less) of a drug may be produced. Stereoisomers of a drug may be metabolized differently and at different rates, e.g. S-warfarin rapidly undergoes ring oxidation, while R-warfarin is slowly degraded by sidechain reduction.
+Only a few drugs are metabolized by enzymes of intermediary metabolism, e.g. alcohol by dehydrogenase, allopurinol by xanthine oxidase, succinylcholine and procaine by plasma cholinesterase, adrenaline by monoamine oxidase. Majority of drugs are acted on by relatively nonspecific enzymes which are directed to types of molecules rather than to specific drugs. The same enzyme can metabolize many drugs. The drug metabolising enzymes are divided into two types:
+Microsomal enzymes These are located on smooth endoplasmic reticulum (a system of microtubules inside the cell), primarily in liver, also in kidney, intestinal mucosa and lungs. The monooxygenases, cytochrome P450, UGTs, epoxide hydrolases, etc. are microsomal enzymes.
+They catalyse most of the oxidations, reductions, hydrolysis and glucuronide conjugation. Microsomal enzymes are inducible by drugs, certain dietary constituents, and other agencies.
+Nonmicrosomal enzymes These are present in the cytoplasm and mitochondria of hepatic cells as well as in other tissues including plasma. The esterases, amidases, some flavoprotein oxidases and most conjugases are nonmicrosomal. Reactions catalysed are:
+
+
+Some oxidations and reductions, many hydrolytic reactions and all conjugations except glucuronidation.
+The nonmicrosomal enzymes are not inducible but many show genetic polymorphism (acetyl transferase, pseudocholinesterase) similar to the microsomal enzymes.
+Both microsomal and nonmicrosomal enzymes are deficient in the newborn, especially premature, making them more susceptible to many drugs, e.g. chloramphenicol, opioids. This deficit is made up in the first few months, more quickly in case of oxidation and other phase I reactions than in case of glucuronide and other conjugations which take 3 or more months to reach adult levels.
+The amount and kind of drug metabolizing enzymes is controlled genetically and is also altered by diet, environmental factors. Thus, marked interspecies and interindividual differences are seen, e.g. cats are deficient in UGTs while dogs are deficient in NATs. Upto 6-fold difference in the rate of metabolism of a drug among normal human adults may be observed. This is one of the major causes of individual variation in drug response.
+Hofmann elimination This refers to inactivation of the drug in the body fluids by spontaneous molecular rearrangement without the agency of any enzyme, e.g. atracurium.
+Inhibition of Drug Metabolism
+Azole antifungal drugs, macrolide antibiotics and some other drugs bind to the heme iron in CYP450 and inhibit the metabolism of many drugs, as well as some endogenous substances like steroids, bilirubin. One drug can competitively inhibit the metabolism of another if it utilizes the same enzyme or cofactors. However, such interactions are not as common as one would expect, because often different drugs are substrates for different CYP-450 isoenzymes. It is thus important to know the CYP isoenzyme(s) that carry out the metabolism of a particular drug. A drug may be the substrate as well as inhibitor of the same Cyp isoenzyme. In case the drug inhibits its own metabolism, the oral bioavailability is likely to increase (for high first pass metabolism drugs), while systemic clearance is likely to decrease, prolonging plasma half life. On chronic dosing, the oral bioavailability of verapamil is nearly doubled and t½ is prolonged, because it inhibits its own metabolism. A drug may also inhibit one isoenzyme while being itself a substrate of another isoenzyme, e.g. quinidine is metabolized mainly by CYP3A4 but inhibits CYP2D6. Moreover, majority of drugs, at therapeutic concentrations, are metabolized by non-saturation kinetics, i.e. the enzyme is present in excess. Clinically significant inhibition of drug metabolism occurs in case of drugs having affinity for the same isoenzyme, specially if they are metabolized by saturation kinetics or if kinetics changes from first order to zero order over the therapeutic range (capacity limited metabolism). The ‘boosted’ HIV-protease inhibitor (PI) strategy utilizes the potent CYP3A4 inhibitory action of low dose ritonavir to lower the dose of other PIs like atazanavir, lopinavir, saquinavir given concurrently. Obviously, inhibition of drug metabolism occurs in a dose related manner and can precipitate toxicity of the object drug (whose metabolism has been inhibited).
+
+
+Because enzyme inhibition occurs by direct effect on the enzyme, it has a fast time course (within hours) compared to enzyme induction (see below).
+
+
+Metabolism of drugs with high hepatic extraction is dependent on liver blood flow (blood flow limited metabolism). Propranolol reduces rate of lidocaine metabolism by decreasing hepatic blood flow. Some other drugs whose rate of metabolism is limited by hepatic blood flow are morphine, propranolol, verapamil and imipramine.
+Microsomal Enzyme Induction
+Many drugs, insecticides and carcinogens interact with DNA and increase the synthesis of microsomal enzyme protein, especially cytochrome P-450 and UGTs. As a result the rate of metabolism of inducing drug itself (autoinduction) and/or some other coadministered drugs is accelerated. 
+Different inducers are relatively selective for certain cytochrome P-450 isoenzyme families, e.g.:
+•Anticonvulsants (phenobarbitone, phenytoin, carbamazepine), rifampin, glucocorticoids induce CYP3A isoenzymes.
+•Phenobarbitone and rifampin also induce CYP2D6 and CYP2C8/9.
+•Carbamazepine and rifampin, in addition, induce CYP2C19 and CYP1A1/2.
+•Isoniazid and chronic alcohol consumption induce CYP2E1.
+•Polycyclic hydrocarbons like 3-methylcholanthrene and benzopyrene found in cigarette smoke, charcoalbroiled meat, omeprazole and industrial pollutants induce CYP1A isoenzymes.
+•Other enzyme inducers are: chronic alcoholism, nevirapine, griseofulvin, DDT.
+Since different CYP isoenzymes are involved in the metabolism of different drugs, every inducer increases biotransformation of certain drugs but not that of others. However, phenobarbitone like inducers of CYP3A and CYP2D6 affect the metabolism of a large number of drugs, because these isoenzymes act on many drugs. On the other hand induction by polycyclic hydrocarbons is limited to few drugs (like theophylline, warfarin) because CYP1A isoenzyme metabolizes only few drugs.
+
+
+
+Drugs that inhibit drug metabolizing enzymes
+
+
+
+
+Allopurinol
+
+
+Amiodarone
+
+
+
+
+Omeprazole
+
+
+Propoxyphene
+
+
+
+
+Erythromycin
+
+
+Isoniazid
+
+
+
+
+Clarithromycin
+
+
+Cimetidine
+
+
+
+
+Chloramphenicol
+
+
+Quinidine
+
+
+
+
+Ketoconazole
+
+
+Disulfiram
+
+
+
+
+Itraconazole
+
+
+Diltiazem
+
+
+
+
+Metronidazole
+
+
+Verapamil
+
+
+
+
+Ciprofloxacin
+
+
+MAO inhibitors
+
+
+
+
+Fluoxetine (and
+other SSRIs)
+
+
+Ritonavir (and other 
+HIV protease inhibitors)
+
+
+
+
+
+
+
+
+Induction involves microsomal enzymes in liver as well as other organs and increases the rate of metabolism by 2–4 fold. Induction takes 4–14 days to reach its peak and is maintained till the inducing agent is being given. Thereafter the enzymes return to their original value over 1–3 weeks.
+Consequences of microsomal enzyme induction
+1. Decreased intensity and/or duration of action of drugs that are inactivated by metabolism, e.g. failure of contraception with oral contraceptives and loss of anti-HIV action of nevirapine due to rifampin coadministration.
+2. Increased intensity of action of drugs that are activated by metabolism. Acute paracetamol toxicity is due to one of its metabolites—toxicity occurs at lower doses in patients receiving enzyme inducers.
+3. Tolerance—if the drug induces its own metabolism (autoinduction), e.g. carbamazepine, rifampin; nevirapine dose needs to be doubled after 2 weeks.
+4. Some endogenous substrates (steroids, bilirubin) are also metabolized faster.
+5. Precipitation of acute intermittent porphyria: enzyme induction increases porphyrin synthesis by derepressing δ-aminolevulinic acid synthetase.
+6. Intermittent use of an inducer may interfere with adjustment of dose of another drug prescribed on regular basis, e.g. oral anticoagulants, oral hypoglycaemics, antiepileptics, antihypertensives.
+7. Interference with chronic toxicity testing in animals.
+Drugs whose metabolism is significantly affected by enzyme induction are—phenytoin, carbamazepine, antidepressants, warfarin, tolbutamide, oral contraceptives, chloramphenicol, doxycycline, theophylline, griseofulvin, nevirapine.
+
+
+Possible uses of enzyme induction
+1. Congenital nonhaemolytic jaundice: It is due to deficient glucuronidation of bilirubin; phenobarbitone hastens clearance of jaundice.
+2. Cushing’s syndrome: phenytoin may reduce the manifestations by enhancing degradation of adrenal steroids which are produced in excess.
+3. Chronic poisonings: by faster metabolism of the accumulated poisonous substance.
+4. Liver disease.
+First-pass (Presystemic) Metabolism
+This refers to metabolism of a drug during its passage from the site of absorption into the systemic circulation. All orally administered drugs are exposed to drug metabolizing enzymes in the intestinal wall and liver (where they first reach through the portal vein). Presystemic metabolism in the gut and liver can be avoided by administering the drug through sublingual, transdermal or parenteral routes. However, limited presystemic metabolism can occur in the skin (transdermally administered drug) and in lungs (for drug reaching venous blood through any route). The extent of first pass metabolism differs for different drugs (Table 3.2) and is an important determinant of oral bioavailability.
+A drug can also be excreted as such into bile. The hepatic extraction ratio () of a drug is the fraction of the absorbed drug prevented by the liver from reaching systemic circulation. Both presystemic metabolism as well as direct excretion into bile determine , which is given by the equation:
+
+ERLiver
+
+
+ERLiver
+
+
+
+
+
+
+Accordingly the systemic bioavailability (F) of an orally administered drug will be:
+F = fractional absorption × (I–ER)..(2)
+When a drug with high first pass metabolism is given orally at higher dose to achieve therapeutic blood levels, the plasma concentration of its metabolites will be much higher compared to those resulting from parenteral dosing of the drug for the same therapeutic level. If the metabolites contribute to the adverse effects of the drug, oral dosing will be less safe than parenteral.
+
+
+
+
+
+
+Attributes of drugs with high first pass metabolism:
+(a) Oral dose is considerably higher than sublingual or parenteral dose.
+(b) There is marked individual variation in the oral dose due to differences in the extent of first pass metabolism.
+(c) Oral bioavailability is apparently increased in patients with severe liver disease.
+(d) Oral bioavailability of a drug is increased if another drug competing with it in first pass metabolism is given concurrently, e.g. chlorpromazine and propranolol.
+EXCRETION
+Excretion is the passage out of systemically absorbed drug. Drugs and their metabolites are excreted in:
+1.Urine Drug excretion in urine occurs via the kidney. It is the most important channel of excretion for majority of drugs (see below).
+2.Faeces Apart from the unabsorbed fraction, most of the drug present in faeces is derived from bile. Liver actively transports into bile organic acids (especially drug glucuronides by OATP and MRP2), organic bases (by OCT), other lipophilic drugs (by P-gp) and steroids by distinct nonspecific active transport mechanisms. Relatively larger molecules (MW > 300) are preferentially eliminated in the bile. Most of the free drug in the gut, including that released by deconjugation of glucuronides by enteric bacteria is reabsorbed (enterohepatic cycling) and ultimate excretion occurs in urine (Fig. 3.2). Only the remaining is excreted in the faeces. Enterohepatic cycling contributes to longer stay of the drug in the body. Drugs that attain high concentrations in bile include erythromycin, ampicillin, rifampin, tetracycline, oral contraceptives, vecuronium, phenolphthalein. 
+
+
+Certain drugs are excreted directly in colon, e.g. anthracene purgatives, heavy metals.
+3.Exhaled air Gases and volatile liquids (general anaesthetics, alcohol) are eliminated by lungs, irrespective of their lipid solubility. Alveolar transfer of the gas/vapour depends on its partial pressure in the blood. Lungs also serve to trap and extrude any particulate matter that enters circulation. 
+4.Saliva and sweat These are of minor importance for drug excretion. Lithium, pot. iodide, rifampin and heavy metals are present in these secretions in significant amounts. Most of the saliva along with the drug in it, is swallowed and meets the same fate as orally taken drug.
+5.Milk The excretion of drug in milk is not important for the mother, but the suckling infant inadvertently receives the drug. Most drugs enter breast milk by passive diffusion. As such, more lipid soluble and less protein bound drugs cross better. Milk has a lower pH (7.0) than plasma, basic drugs are somewhat more concentrated in it. However, the total amount of drug reaching the infant through breast feeding is generally small and majority of drugs can be given to lactating mothers without ill effects on the infant. Nevertheless, it is advisable to administer any drug to a lactating woman only when essential. Drugs that are safe, as well as those contraindicated during breast feeding or need special caution are given in Appendix-3 at the end of the book.
+
+
+
+
+
+
+RENAL EXCRETION
+The kidney is responsible for excreting all water soluble substances. The amount of drug or its metabolites ultimately present in urine is the sum total of glomerular filtration, tubular reabsorption and tubular secretion (Fig. 3.3).
+
+
+
+
+
+
+Net renal excretion
+
+
+=
+
+
+(Glomerular filtration + tubular secretion) – tubular reabsorption
+
+
+
+
+
+Glomerular filtration Glomerular capillaries have pores larger than usual; all nonprotein bound drug (whether lipid-soluble or insoluble) presented to the glomerulus is filtered. Thus, glomerular filtration of a drug depends on its plasma protein binding and renal blood flow. Glomerular filtration rate (g.f.r.), normally ~ 120 ml/min, declines progressively after the age of 50, and is low in renal failure. Glomerular filtration of drugs declines in parallel.
+Tubular reabsorption This occurs by passive diffusion and depends on the lipid solubility and ionization of the drug at the existing urinary pH. Lipid-soluble drugs filtered at the glomerulus back diffuse in the tubules because 99% of glomerular filtrate is reabsorbed, but nonlipid-soluble and highly ionized drugs are unable to do so. Thus, rate of excretion of such drugs, e.g. aminoglycoside antibiotics, quaternary ammonium compounds parallels g.f.r. (or creatinine clearance). Changes in urinary pH affect tubular reabsorption of drugs that are partially ionized—
+
+
+
+
+
+
+•Weak bases ionize more and are less reabsorbed in acidic urine.
+•Weak acids ionize more and are less reabsorbed in alkaline urine.
+This principle is utilized for facilitating elimination of the drug in poisoning, i.e. urine is alkalinized in barbiturate and salicylate poisoning. Though elimination of weak bases (morphine, amphetamine) can be enhanced by acidifying urine, this is not practiced clinically, because acidosis can induce rhabdomyolysis, cardiotoxicity and actually worsen outcome. The effect of changes in urinary pH on drug excretion is greatest for those having pKa values between 5 to 8, because only in their case pH dependent passive reabsorption is significant.
+
+
+Tubular secretion This is the active transfer of organic acids and bases by two separate classes of relatively nonspecific transporters (OAT and OCT) which operate in the proximal tubules. In addition, efflux transporters P-gp and MRP2 are located in the luminal membrane of proximal tubular cells. If renal clearance of a drug is greater than 120 mL/min (g.f.r.), additional tubular secretion can be assumed to be occurring.
+Active transport of the drug across tubules reduces concentration of its free form in the tubular vessels and promotes dissociation of protein bound drug, which then becomes available for secretion (Fig. 3.3). Thus, protein binding, which is a hindrance for glomerular filtration of the drug, is not so (may even be facilitatory) to excretion by tubular secretion.
+(a) Organic acid transport (through OATP) operates for penicillin, probenecid, uric acid, salicylates, indomethacin, sulfinpyrazone, nitrofurantoin, methotrexate, drug glucuronides and sulfates, etc.
+(b) Organic base transport  (through OCT) operates for thiazides, amiloride, triamterene, furosemide, quinine, procainamide, choline, cimetidine, etc.
+Inherently both transport processes are bidirectional, i.e. they can transport their substrates from blood to tubular fluid and vice versa. However, for drugs and their metabolites (exogenous substances) secretion into the tubular lumen predominates, whereas an endogenous substrate like uric acid is predominantly reabsorbed.
+Drugs utilizing the same active transport compete with each other. Probenecid is an organic acid which has high affinity for the tubular OATP. It blocks the active transport of both penicillin and uric acid, but whereas the net excretion of the former is decreased, that of the latter is increased. This is because penicillin is primarily secreted while uric acid is primarily reabsorbed. Many drug interactions occur due to competition for tubular secretion, e.g.
+
+
+(i) Aspirin blocks uricosuric action of probenecid and sulfinpyrazone and decrease tubular secretion of methotrexate.
+(ii) Probenecid decreases the concentration of nitrofurantoin in urine, increases the duration of action of penicillin/ampicillin and impairs secretion of methotrexate.
+(iii) Sulfinpyrazone inhibits excretion of tolbutamide.
+(iv) Quinidine decreases renal and biliary clearance of digoxin by inhibiting efflux carrier P-gp.
+Tubular transport mechanisms are not well developed at birth. As a result, duration of action of many drugs, e.g. penicillin, cephalosporins, aspirin is longer in neonates. These systems mature during infancy. Renal function again progressively declines after the age of 50 years; renal clearance of most drugs is substantially lower in the elderly (>75 yr).
+KINETICS OF ELIMINATION
+The knowledge of kinetics of elimination of a drug provides the basis for, as well as serves to devise rational dosage regimens and to modify them according to individual needs. There are three fundamental pharmacokinetic parameters, viz. bioavailability (F), volume of distribution (V) and clearance (CL) which must be understood. The first two have already been considered.
+Drug elimination is the sumtotal of metabolic inactivation and excretion. As depicted in Fig. 2.1, drug is eliminated only from the central compartment (blood) which is in equilibrium with peripheral compartments including the site of action. Depending upon the ability of the body to eliminate a drug, a certain fraction of the central compartment may be considered to be totally ‘cleared’ of that drug in a given period of time to account for elimination over that period.
+
+
+Clearance (CL) The clearance of a drug is the theoretical volume of plasma from which the drug is completely removed in unit time (analogy creatinine clearance; Fig. 3.4). It can be calculated as:
+  CL = Rate of elimination/C...(3)
+where C is the plasma concentration.
+For majority of drugs the processes involved in elimination are not saturated over the clinically obtained concentrations, they follow:
+First order kinetics The rate of elimination is directly proportional to the drug concentration, CL remains constant; or a constant fraction of the drug present in the body is eliminated in unit time. This applies to majority of drugs which do not saturate the elimination processes (transporters, enzymes, blood flow, etc.) over the therapeutic concentration range. However, if the dose is high enough, elimination pathways of all drugs will get saturated. 
+Few drugs normally saturate eliminating mechanisms and are handled by—
+Zero order kinetics The rate of elimination remains constant irrespective of drug concentration, CL decreases with increase in concentration; or a constant amount of the drug is eliminated in unit time, e.g. ethyl alcohol. This is also called capacity limited elimination or Michaelis-Menten elimination.
+
+
+
+
+
+The elimination of some drugs approaches saturation over the therapeutic range, kinetics changes from first order to zero order at higher doses. As a result plasma concentration increases disproportionately with increase in dose (see Fig. 3.6), as occurs in case of phenytoin, tolbutamide, theophylline, warfarin. Since the dose rate-plasma concentration plot in this case is curved, it is also called ‘nonlinear elimination’.
+Blood flow dependent elimination For few drugs the eliminating capacity of an organ of elimination (kidney, liver) far exceeds the amount of drug normally presented to it by blood circulation. The elimination of such a drug becomes blood flow dependent. These highly extracted drugs are almost completely eliminated in a single passage through the organ of elimination.
+Plasma half-life The Plasma half-life (t½) of a drug is the time taken for its plasma concentration to be reduced to half of its original value.
+Taking the simplest case of a drug which has rapid one compartment distribution and first order elimination, and is given i.v. a semilog plasma concentration-time plot as shown in Fig. 3.5 is obtained. The plot has two slopes.
+•initial rapidly declining (α) phase—due to distribution.
+•later less declined (β) phase—due to elimination.
+At least two half-lives (distribution t½ and elimination t½) can be calculated from the two slopes. The elimination half life derived from the β slope is simply called the ‘half life’ of the drug.
+Most drugs infact have multicompartment distribution and multiexponential decay of plasma concentration-time plot. Half-lives calculated from the terminal slopes (when plasma concentrations are very low) are exceptionally long, probably due to release of the drug from slow equilibrating tissues, enterohepatic circulation, etc. Only the t½ calculated over the steady-state plasma concentration range is clinically relevant. It is this t½ which is commonly mentioned.
+Since first order kinetics is an exponential process, mathematically, the elimination t½ is
+
+
+ln2
+t½ = ——...(4)
+k
+Where ln2 is the natural logarithm of 2 (or 0.693) and k is the elimination rate constant of the drug, i.e. the fraction of the total amount of drug in the body which is removed per unit time. For example, if 2 g of the drug is present in the body and 0.1 g is eliminated every hour, then 
+
+
+k = 0.1/2 = 0.05 or 5% per hour. 
+It is calculated as:
+
+
+
+
+
+As such, half-life is a derived parameter from two variables V and CL, both of which may change independently. It, therefore, is not an exact index of drug elimination. Nevertheless, it is a simple and useful guide to the sojourn of the drug in the body, i.e. after
+ 1 t½–50% drug is eliminated.
+ 2 t½–75% (50 + 25) drug is eliminated.
+
+
+
+
+
+ 3 t½–87.5% (50 + 25 + 12.5) drug is   eliminated.
+ 4 t½–93.75% (50 + 25 + 12.5 + 6.25) drug is eliminated.
+Thus, nearly complete drug elimination occurs in 4–5 half lives.
+For drugs eliminated by—
+First order kinetics—t½ remains constant because V and CL do not change with dose.
+Zero order kinetics—t½ gets prolonged with dose because CL progressively decreases as dose is increased. In fact, the concept of t½ is meaningless for such drugs, because, it is not a fixed value.
+
+
+Half life of some representative drugs
+
+
+
+
+Aspirin
+
+
+4 hr
+
+
+Digoxin
+
+
+40 hr
+
+
+
+
+Penicillin-G
+
+
+30 min
+
+
+Digitoxin
+
+
+7 days
+
+
+
+
+Doxycycline
+
+
+20 hr
+
+
+Phenobarbitone
+
+
+90 hr
+
+
+
+
+
+
+
+Repeated drug administration
+When a drug is repeated at relatively short intervals, it accumulates in the body until elimination balances input and a steady state plasma concentration (Cpss) is attained—
+
+
+
+
+
+From this equation it is implied that doubling the dose rate would double the average Cpss and so on. Further, if the therapeutic plasma concentration of the drug has been worked out and its CL is known, the dose rate needed to achieve the target Cpss can be determined—
+dose rate = target Cpss × CL...(8)
+After oral administration, often only a fraction (F) of the dose reaches systemic circulation in the active form. In such a case—
+
+
+
+
+
+The dose rate-Cpss relationship is linear only in case of drugs eliminated by first order kinetics. For drugs (e.g. phenytoin) which follow Michaelis Menten kinetics, elimination changes from first order to zero order kinetics over the therapeutic range. Increase in their dose beyond saturation levels causes an increase in Cpss which is out of proportion to the change in dose rate (Fig. 3.6). In their case:
+
+
+   (Vmax) (C)
+Rate of drug elimination = ———— ...(10)
+   Km + C
+where C is the plasma concentration of the drug, Vmax is the maximum rate of drug elimination, and Km is the plasma concentration at which elimination rate is half maximal.
+Plateau principle
+When constant dose of a drug is repeated before the expiry of 4 t½, it would achieve higher peak concentration, because some remnant of the previous dose will be present in the body. This continues with every dose until progressively increasing rate of elimination (which increases with increase in concentration) balances the amount administered over the dose interval. Subsequently plasma concentration plateaus and fluctuates about an average steady-state level. This is known as the plateau principle of drug accumulation. Steady-state is reached in 4–5 half lives unless dose interval is very much longer than t½ (Fig. 3.7).
+
+
+
+
+
+
+The amplitude of fluctuations in plasma concentration at steady-state depends on the dose interval relative to the t½, i.e. the difference between the maximum and minimum levels is less if smaller doses are repeated more frequently (dose rate remaining constant). Dose intervals are generally a compromise between what amplitude of fluctuations is clinically acceptable (because of loss of efficacy at troughs and side effects at peaks) and what frequency of dosing is convenient. However, if the dose rate is changed, a new average Cpss is attained over the next 4–5 half lives. When the drug is administered orally (absorption takes some time), average Cpss is approximately 1/3 of the way between the minimal and maximal levels in a dose interval.
+Target level strategy For drugs whose effects are not easily quantifiable and safety margin is not big, e.g. anticonvulsants, antidepressants, lithium, antiarrhythmics, theophylline, some antimicrobials, etc. or those given to prevent an event, it is best to aim at achieving a certain plasma concentration which has been defined to be in the therapeutic range; such data are now available for most drugs of this type.
+
+
+Drugs with short t½ (upto 2–3 hr) administered at conventional intervals (6–12 hr) achieve the target levels only intermittently and fluctuations in plasma concentration are marked. In case of many drugs (penicillin, ampicillin, chloramphenicol, erythromycin, propranolol) this however is therapeutically acceptable.
+For drugs with longer t½ a dose that is sufficient to attain the target concentration after single administration, if repeated will accumulate according to plateau principle and produce toxicity later on. On the other hand, if the dosing is such as to attain target level at steady state, the therapeutic effect will be delayed by about 4 half lives (this may be clinically unacceptable). Such drugs are often administered by initial loading and subsequent maintenance doses.
+Loading dose This is a single or few quickly repeated doses given in the beginning to attain target concentration rapidly. It may be calculated as—
+
+
+
+
+
+
+
+
+Thus, loading dose is governed only by V and not by CL or t½.
+Maintenance dose This dose is one that is to be repeated at specified intervals after the attainment of target Cpss so as to maintain the same by balancing elimination. The maintenance dose rate is computed by equation (9) and is governed by CL (or t½) of the drug. If facilities for measurement of drug concentration are available, attainment of target level in a patient can be verified subsequently and dose rate adjusted if required.
+Such two phase dosing provides rapid therapeutic effect with long term safety; frequently applied to digoxin, chloroquine, long-acting sulfonamides, doxycycline, amiodarone, etc. However, if there is no urgency, maintenance doses can be given from the beginning. The concept of loading and maintenance dose is valid also for short t½ drugs and i.v. administration in critically ill patients, e.g. lidocaine (t½ 1.5 hr) used for cardiac arrhythmias is given as an i.v. bolus dose followed by slow i.v. infusion or intermittent fractional dosing.
+
+
+Monitoring of plasma concentration of drugs It is clear from the above considerations that the Cpss of a drug attained in a given patient depends on its F, V and CL in that patient. Because each of these parameters varies considerably among individuals, the actual Cpss in a patient may be 1/3 to 3 times that calculated on the basis of population data. Measurement of plasma drug concentration can give an estimate of the pharmacokinetic variables in that patient and the magnitude of deviation from the ‘average patient’, so that appropriate adjustments in the dosage regimen can be made.
+In case of drugs obeying first order kinetics:
+
+
+
+
+
+Therapeutic drug monitoring (TDM) is particularly useful in the following situations:
+1.Drugs with low safety margin, e.g. —digoxin, anticonvulsants, antiarrhythmics, theophylline, aminoglycoside antibiotics, lithium, tricyclic antidepressants.
+2.If individual variations are large, e.g.—antidepressants, lithium.
+3.Potentially toxic drugs used in the presence of renal failure, e.g. —aminoglycoside antibiotics, vancomycin.
+4.In case of poisoning.
+5.In case of failure of response without any apparent reason, e.g. —antimicrobials.
+6.To check patient compliance, e.g. —psychopharmacological agents.
+Selection of the correct interval between drug administration and drawing of blood sample for TDM is critical, and depends on the purpose of TDM as well as the nature of the drug.
+
+
+a.When the purpose is dose adjustment: In case of drugs which need to act continuously (relatively long-acting drugs), it is prudent to measure the trough steady-state blood levels, i.e. just prior to the next dose, because this is governed by both V and CL. On the other hand, for short-acting drugs which achieve therapeutic levels only intermittently (e.g. ampicillin, gentamicin), sampling is done in the immediate post-absorptive phase (usually after 1–2 hours of oral/i.m. dosing) to reflect the peak levels.
+b.In case of poisoning: Blood for drug level estimation should be taken at the earliest to confirm the poisoning and to assess its seriousness. It should then be repeated at intervals to estimate the drug clearance in the affected patient, and the need to hasten elimination (e.g. by haemodialysis).
+c.For checking compliance to medication: Even random blood sampling can be informative.
+Monitoring of plasma concentration is of no value for
+1.Drugs whose response is easily measurable, e.g.— antihypertensives, hypoglycaemics, diuretics, oral anticoagulants, inhalational general anaesthetics.
+2.Drugs activated in the body, e.g.—levodopa.
+3.‘Hit and run drugs’ (whose effect lasts much longer than the drug itself), e.g.—reserpine, guanethidine, MAO inhibitors, omeprazole.
+4.Drugs with irreversible action, e.g.—organophosphate anticholinesterases, phenoxybenzamine.
+PROLONGATION OF DRUG ACTION
+It is sometimes advantageous to modify a drug in such a way that it acts for a longer period. By doing so:
+(i) Frequency of administration is reduced—more convenient.
+(ii) Improved patient compliance—a single morning dose is less likely to be forgotten/omitted than a 6 or 8 hourly regimen; a monthly or quarterly administered contraceptive over one that has to be taken daily.
+(iii) Large fluctuations in plasma concentration are avoided—side effects related to high peak plasma level just after a dose (e.g. nifedipine) would be minimized; better round-the-clock control of blood sugar level, etc.
+
+
+(iv) Drug effect could be maintained overnight without disturbing sleep, e.g. antiasthmatics, anticonvulsants, etc.
+However, all drugs do not need to be made long acting, e.g. those used for brief therapeutic effect (sleep-inducing hypnotic, headache remedy) or those with inherently long duration of action (doxycycline, omeprazole, digoxin, amlodipine). Drugs with t½ < 4 hr are suitable for controlled release formulations, while there is no need of such formulations for drugs with t½ >12 hr. Methods utilized for prolonging drug action are summarised below. Some of these have already been described.
+1. By prolonging absorption from site of administration
+(a) Oral Sustained release tablets, spansule capsules, etc.; drug particles are coated with resins, plastic materials or other substances which temporally disperse release of the active ingredient in the g.i.t. Another technique (controlled release tablet/capsule; Fig. 3.8) utilizes a semipermeable membrane to control the release of drug from the dosage form. Such preparations prolong the action by 4 to 8 hours and no more, because in that time drug particles reach the colon. Also, the drug release pattern and consequently the attained blood levels of the drug may be more variable than the regular tablet of the same drug.
+
+
+(b) Parenteral The s.c. and i.m. injection of drug in insoluble form (benzathine penicillin, lente insulin) or as oily solution (depot progestins); pellet implantation, sialistic and biodegradable implants can provide for its absorption over a couple of days to several months or even years. Inclusion of a vasoconstrictor with the drug also delays absorption (adrenaline with local anaesthetics).
+(c) Transdermal drug delivery systems The drug impregnated in adhesive patches, strips or as ointment applied on skin is utilized in some cases to prolong drug action, e.g. GTN (see p. 12).
+2. By increasing plasma protein binding 
+Drug congeners have been prepared which are highly bound to plasma protein and are slowly released in the free active form, e.g. sulfadoxine.
+3. By retarding rate of metabolism Small chemical modification can markedly affect the rate of metabolism without affecting the biological action, e.g. addition of ethinyl group to estradiol (ethinyl estradiol) makes it longer acting and suitable for use as oral contraceptive. Inhibition of specific enzyme by one drug can prolong the action of another drug, e.g. allopurinol inhibits the degradation of 6-mercaptopurine, ritonavir boosts the levels of atazanavir/lopinavir/saquinavir, cilastatin protects imipenem from degradation in kidney.
+4. By retarding renal excretion The tubular secretion of drug being an active process, can be suppressed by a competing substance, e.g. probenecid prolongs duration of action of penicillin, ampicillin and amoxicillin.
+Targeted drug delivery devices
+Some new devices have been invented (and many are under development) to localise and prolong the delivery of the contained drug to a specific target organ. The ones already in use are: 
+1. Liposomes These are unilamellar or bilamellar nano-vesicles (60–80 nM) produced by sonication of lecithin or other biodegradable phospholipids. Since liposomes injected i.v. are selectively taken up by reticuloendothelial cells, especially liver and spleen, and some malignant cells, the drug incorporated in them gets selectively delivered to these cells. Liposomal amphotericin B is being used in Kala azar and some serious cases of systemic mycosis. Antibody tagging of liposomes is being tried as a means to target other specific tissues. 
+
+
+
+
+
+2. Drug releasing implants The implant is coated with the drug using special techniques and then placed in the target organ to provide prolonged delivery of minute quantities of the drug by slow release. Progestin impregnated intrauterine contraceptive device (IUCD) affords protection for upto 5 years. It is also being tried for other gynaecological problems. Antithrombotic drug coated stents (devices placed in the thrombosed coronary artery after balloon angioplasty to keep it patent) are in use to prevent restenosis and failure of angioplasty.

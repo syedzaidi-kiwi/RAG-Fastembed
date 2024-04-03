@@ -1,0 +1,457 @@
+Ch-02
+
+
+
+
+
+
+
+
+
+Pharmacokinetics is the quantitative study of drug movement in, through and out of the body. The overall scheme of pharmacokinetic processes is depicted in Fig. 2.1. The intensity of response is related to concentration of the drug at the site of action, which in turn is dependent on its pharmacokinetic properties. Pharmacokinetic considerations, therefore, determine the route(s) of administration, dose, latency of onset, time of peak action, duration of action and frequency of administration of a drug.
+
+
+All pharmacokinetic processes involve transport of the drug across biological membranes.
+Biological membrane This is a bilayer (about 100 Å thick) of phospholipid and cholesterol molecules, the polar groups (glyceryl phosphate attached to ethanolamine/choline or hydroxyl group of cholesterol) of these are oriented at the two surfaces and the nonpolar hydrocarbon chains are embedded in the matrix to form a continuous sheet. This imparts high electrical resistance and relative impermeability to the membrane. Extrinsic and intrinsic protein molecules are adsorbed on the lipid bilayer (Fig. 2.2). Glycoproteins or glycolipids are formed on the surface by attachment to polymeric sugars, aminosugars   or sialic acids. The specific lipid and protein composition of different membranes differs according to the cell or the organelle type. The proteins are able to freely float through the membrane: associate and organize or vice versa. Some of the intrinsic ones, which extend through the full thickness of the membrane, surround fine aqueous pores. Paracellular spaces or channels also exist between certain epithelial/endothelial cells. Other adsorbed proteins have enzymatic, carrier, receptor or signal transduction properties. Lipid molecules also are capable of lateral movement. Thus, biological membranes are highly dynamic structures.
+
+
+
+
+
+
+
+
+
+
+
+
+Drugs are transported across the membranes by:
+(a) Passive diffusion and filtration
+(b) Specialized transport
+Passive diffusion
+The drug diffuses across the membrane in the direction of its concentration gradient (high to low), the membrane playing no active role in the process. This is the most important mechanism for majority of drugs; drugs are foreign substances  (xenobiotics), and specialized mechanisms are developed by the body primarily for normal metabolites.
+
+
+Lipid soluble drugs diffuse by dissolving in the lipoidal matrix of the membrane (Fig. 2.3), the rate of transport being proportional to the lipid : water partition coefficient of the drug. A more lipid-soluble drug attains higher concentration in the membrane and diffuses quickly. Also, greater the difference in the concentration of the drug on the two sides of the membrane, faster is its diffusion.
+Influence of pH Most drugs are weak electrolytes, i.e. their ionization is pH dependent (contrast strong electrolytes that are nearly completely ionized at acidic as well as alkaline pH). The ionization of a weak acid HA is given by the equation:
+
+
+
+
+
+pKa is the negative logarithm of acidic dissociation constant of the weak electrolyte. If the concentration of ionized drug [A¯ ] is equal to concentration of unionized drug [HA], then
+
+
+
+
+
+since log 1 is 0, under this condition 
+pH = pKa...(2)
+Thus, pKa is numerically equal to the pH at which the drug is 50% ionized.
+If pH is increased by 1 scale, then—
+log [A¯ ]/[HA] = 1  or  [A¯ ]/[HA] = 10
+Similarly, if pH is reduced by 1 scale, then—
+[A¯ ]/[HA] = 1/10
+Thus, weakly acidic drugs, which form salts with cations, e.g. sod. phenobarbitone, sod. sulfadiazine, pot. penicillin-V, etc. ionize more at alkaline pH and 1 scale change in pH causes 10 fold change in ionization.
+Weakly basic drugs, which form salts with anions, e.g. atropine sulfate, ephedrine HCl, chloroquine phosphate, etc. conversely ionize more at acidic pH. Ions being lipid insoluble, do not diffuse and a pH difference across a membrane can cause differential distribution of weakly acidic and weakly basic drugs on the two sides (Fig. 2.4).
+
+Implications of this consideration are:
+(a) Acidic drugs, e.g. aspirin (pKa 3.5) are largely unionized at acid gastric pH and are absorbed from stomach, while bases, e.g. atropine (pKa 10) are largely ionized and are absorbed only when they reach the intestines.
+
+
+(b) The unionized form of acidic drugs which crosses the surface membrane of gastric mucosal cell, reverts to the ionized form within the cell (pH 7.0) and then only slowly passes to the extracellular fluid. This is called ion trapping, i.e. a weak electrolyte crossing a membrane to encounter a pH from which it is not able to escape easily. This may contribute to gastric mucosal cell damage caused by aspirin.
+(c) Basic drugs attain higher concentration intracellularly (pH 7.0 vs 7.4 of plasma).
+(d) Acidic drugs are ionized more in alkaline urine—do not back diffuse in the kidney tubules and are excreted faster. Accordingly, basic drugs are excreted faster if urine is acidified.
+Lipid-soluble nonelectrolytes (e.g. ethanol, diethyl-ether) readily cross biological membranes and their transport is pH independent.
+Filtration
+Filtration is passage of drugs through aqueous pores in the membrane or through paracellular spaces. This can be accelerated if hydrodynamic flow of the solvent is occurring under hydrostatic or osmotic pressure gradient, e.g. across most capillaries including glomeruli. Lipid-insoluble drugs cross biological membranes by filtration if their molecular size is smaller than the diameter of the pores (Fig. 2.3). Majority of cells (intestinal mucosa, RBC, etc.) have very small pores (4 Å) and drugs with MW > 100 or 200 are not able to penetrate. However, capillaries (except those in brain) have large paracellular spaces (40 Å) and most drugs (even albumin) can filter through these (Fig. 2.8). As such, diffusion of drugs across capillaries is dependent on rate of blood flow through them rather than on lipid solubility of the drug or pH of the medium.
+Specialized transport
+This can be carrier mediated or by vesicular transport (endocytosis, exocytosis).
+Carrier transport
+
+
+
+
+
+
+All cell membranes express a host of transmembrane proteins which serve as carriers or transporters for physiologically important ions, nutrients, metabolites, transmitters, etc. across the membrane. At some sites, certain transporters also translocate xenobiotics, including drugs and their metabolites. In contrast to channels, which open for a finite time and allow passage of specific ions, transporters combine transiently with their substrate (ion or organic compound)—undergo a conformational change carrying the substrate to the other side of the membrane where the substrate dissociates and the transporter returns back to its original state (Fig. 2.5). Carrier transport is specific for the substrate (or the type of substrate, e.g. an organic anion), saturable, competitively inhibited by analogues which utilize the same transporter, and is much slower than the flux through channels. Depending on requirement of energy, carrier transport is of two types:
+
+
+a. Facilitated diffusion The transporter, belonging to the super-family of solute carrier (SLC) transporters, operates passively without needing energy and translocates the substrate in the direction of its electrochemical gradient, i.e. from higher to lower concentration (Fig. 2.5A). It merely facilitates permeation of a poorly diffusible substrate, e.g. the entry of glucose into muscle and fat cells by the glucose transporter GLUT 4.
+
+
+b. Active transport It requires energy, is inhibited by metabolic poisons, and transports the solute against its electrochemical gradient (low to high), resulting in selective accumulation of the substance on one side of the membrane. Drugs related to normal metabolites can utilize the transport processes meant for these, e.g. levodopa and methyl dopa are actively absorbed from the gut by the aromatic amino acid transporter. In addition, the body has developed some relatively nonselective transporters, like P-glycoprotein (P-gp), to deal with xenobiotics. Active transport can be primary or secondary depending on the source of the driving force.
+i. Primary active transport Energy is obtained directly by the hydrolysis of ATP (Fig. 2.5B). The transporters belong to the superfamily of ATP binding cassettee (ABC) transporters whose intracellular loops have ATPase activity. They mediate only efflux of the solute from the cytoplasm, either to extracellular fluid or into an intracellular organelli (endoplasmic reticulum, mitochondria, etc.)
+Encoded by the multidrug resistance 1 (MDR1) gene, P-gp is the most well known primary active transporter expressed in the intestinal mucosa, renal tubules, bile canaliculi, choroidal epithelium, astrocyte foot processes around brain capillaries (the blood-brain barrier), testicular and placental microvessels, which pumps out many drugs/metabolites and thus limits their intestinal absorption, penetration into brain, testes and foetal tissues as well as promotes biliary and renal elimination. Many xenobiotics which induce or inhibit P-gp also have a similar effect on the drug metabolizing isoenzyme CYP3A4, indicating their synergistic role in detoxification of xenobiotics.
+Other primary active transporters of pharmacological significance are multidrug resistance associated protein 2 (MRP 2) and breast cancer resistance protein (BCRP).
+ii. Secondary active transport In this type of active transport effected by another set of SLC transporters, the energy to pump one solute is derived from the downhill movement of another solute (mostly Na+). When the concentration gradients are such that both the solutes move in the same direction (Fig. 2.5C), it is called symport or cotransport, but when they move in opposite directions (Fig. 2.5D), it is termed antiport or exchange transport. Metabolic energy (from hydrolysis of ATP) is spent in maintaining high transmembrane electrochemical gradient of the second solute (generally Na+). The SLC transporters mediate both uptake and efflux of drugs and metabolites. 
+
+
+The organic anion transporting polypeptide (OATP) and organic cation transporter (OCT), highly expressed in liver canaliculi and renal tubules, are secondary active transporters important in the metabolism and excretion of drugs and metabolites (especially glucuronides). The Na+,Cl– dependent neurotransmitter transporters for norepinephrine, serotonin and dopamine (NET, SERT and DAT) are active SLC transporters that are targets for action of drugs like tricyclic antidepressants, selective serotonin reuptake inhibitors (SSRIs), cocaine, etc. Similarly, the Vesicular monoamine transporter (VMAT-2) of adrenergic and serotonergic storage vesicles transports catecholamines and 5-HT into the vesicles by exchanging with H+ions, and is inhibited by reserpine. The absorption of glucose in intestines and renal tubules is through secondary active transport by sodium-glucose transporters (SGLT1 and SGLT2).
+As indicated earlier, carrier transport (both facilitated diffusion and active transport) is saturable and follows the Michaelis-Menten kinetics. The maximal rate of transport is dependent on the density of the transporter in a particular membrane, and its rate constant (Km), i.e. the substrate concentration at which rate of transport is half maximal, is governed by its affinity for the substrate. Genetic polymorphism can alter both the density and affinity of the transporter protein for different substrates and thus affect the pharmacokinetics of drugs. Moreover, tissue specific drug distribution can occur due to the presence of specific transporters in certain cells.
+Vesicular transport (endocytosis, exocytosis)
+Certain substances with very large or impermeable molecules are transported inside the cell (endocytosis) or extruded from it (exocytosis) by enclosing their particles into tiny vesicles. A binding protein located on the membrane complexes with the substance and initiates vesicle formation (Fig. 2.6). The vesicle then detaches from the membrane and may remain stored within the cell, or it may release the substance in the cytoplasm, or it may move to the opposite membrane fuse with it to release the substance across the cell (exocytosis).  
+
+
+
+
+
+
+Vesicular transport is applicable to proteins and other big molecules, and contributes little to transport of most drugs, barring few like vit B12 which is absorbed from the gut after binding to intrinsic factor (a protein). Most hormones (insulin, etc.) and neurotransmitters, like noradrenaline, are secreted/released from the cell/nerve ending by exocytosis. Activation of the secretory cell/nerve ending prompts fusion of the storage vesicle to the surface membrane followed by extrusion of its contents into the extracellular space.
+
+
+ABSORPTION
+Absorption is movement of the drug from its site of administration into the circulation. Not only the fraction of the administered dose that gets absorbed, but also the rate of absorption is important. Except when given i.v., the drug has to cross biological membranes; absorption is governed by the above described principles. Other factors affecting absorption are:
+
+
+Aqueous solubility Drugs given in solid form must dissolve in the aqueous biophase before they are absorbed. For poorly water soluble drugs (aspirin, griseofulvin) rate of dissolution governs rate of absorption. Ketoconazole dissolves at low pH: gastric acid is needed for its absorption. Obviously, a drug given as watery solution is absorbed faster than when the same is given in solid form or as oily solution.
+Concentration Passive diffusion depends on concentration gradient; drug given as concentrated solution is absorbed faster than from dilute solution.
+Area of absorbing surface Larger is the surface area, faster is the absorption.
+Vascularity of the absorbing surface Blood circulation removes the drug from the site of absorption and maintains the concentration gradient across the absorbing surface. Increased blood flow hastens drug absorption just as wind hastens drying of clothes.
+Route of administration This affects drug absorption, because each route has its own peculiarities.
+Oral
+The effective barrier to orally administered drugs is the epithelial lining of the gastrointestinal tract, which is lipoidal. Nonionized lipid soluble drugs, e.g. ethanol are readily absorbed from stomach as well as intestine at rates proportional to their lipid : water partition coefficient. Acidic drugs, e.g. salicylates, barbiturates, etc. are predominantly unionized in the acid gastric juice and are absorbed from stomach, while basic drugs, e.g. morphine, quinine, etc. are largely ionized and are absorbed only on reaching the duodenum. However, even for acidic drugs absorption from stomach is slower, because the mucosa is thick, covered with mucus and the surface area is small. Absorbing surface area is much larger in the small intestine due to villi. Thus, faster gastric emptying accelerates drug absorption in general. Dissolution is a surface phenomenon, therefore, particle size of the drug in solid dosage form governs rate of dissolution and in turn rate of absorption.
+
+
+Presence of food dilutes the drug and retards absorption. Further, certain drugs form poorly absorbed complexes with food constituents, e.g. tetracyclines with calcium present in milk; moreover food delays gastric emptying. Thus, most drugs are absorbed better if taken in empty stomach. However, there are some exceptions, e.g. fatty food greatly enhances lumefantrine absorption. Highly ionized drugs, e.g. gentamicin, neostigmine are poorly absorbed when given orally.
+Certain drugs are degraded in the gastrointestinal tract, e.g. penicillin G by acid, insulin by peptidases, and are ineffective orally. Enteric coated tablets (having acid resistant coating) and sustained release preparations (drug particles coated with slowly dissolving material) can be used to overcome acid lability, gastric irritancy and brief duration of action.
+The oral absorption of certain drugs is low because a fraction of the absorbed drug is extruded back into the intestinal lumen by the efflux transporter P-gp located in the gut epithelium. The low oral bioavailability of digoxin and cyclosporine is partly accounted by this mechanism. Inhibitors of P-gp like quinidine, verapamil, erythromycin, etc. enhance, while P-gp inducers like rifampin and phenobarbitone reduce the oral bioavailability of these drugs.
+Absorption of a drug can be affected by other concurrently ingested drugs. This may be a luminal effect: formation of insoluble complexes, e.g. tetracyclines and iron preparations with calcium salts and antacids, phenytoin with sucralfate. Such interaction can be minimized by administering the two drugs at 2–3 hr intervals. Alteration of gut flora by antibiotics may disrupt the enterohepatic cycling of oral contraceptives and digoxin. Drugs can also alter absorption by gut wall effects: altering motility (anticholinergics, tricyclic antidepressants, opioids retard motility while metoclopramide enhances it) or causing mucosal damage (neomycin, methotrexate, vinblastine).
+
+
+Subcutaneous and Intramuscular
+By these routes the drug is deposited directly in the vicinity of the capillaries. Lipid soluble drugs pass readily across the whole surface of the capillary endothelium. Capillaries having large paracellular spaces do not obstruct absorption of even large lipid insoluble molecules or ions (Fig. 2.9A). Very large molecules are absorbed through lymphatics. Thus, many drugs not absorbed orally are absorbed parenterally. Absorption from s.c. site is slower than that from i.m. site, but both are generally faster and more consistent/ predictable than oral absorption. Application of heat and muscular exercise accelerate drug absorption by increasing blood flow, while vasoconstrictors, e.g. adrenaline injected with the drug (local anaesthetic) retard absorption. Incorporation of hyaluronidase facilitates drug absorption from s.c. injection by promoting spread. Many depot preparations, e.g. benzathine penicillin, protamine zinc insulin, depot progestins, etc. can be given by these routes.
+Topical sites (skin, cornea, mucous membranes)
+Systemic absorption after topical application depends primarily on lipid solubility of drugs. However, only few drugs significantly penetrate intact skin. Hyoscine, fentanyl, GTN, nicotine, testosterone, and estradiol (see p. 12) have been used in this manner. Corticosteroids applied over extensive areas of skin can produce systemic effects and pituitary-adrenal suppression. Absorption can be promoted by rubbing the drug incorporated in an olegenous base or by use of occlusive dressing which increases hydration of the skin. Organophosphate insecticides coming in contact with skin can produce systemic toxicity. Abraded surfaces readily absorb drugs, e.g. tannic acid applied over burnt skin has produced hepatic necrosis.
+
+
+Cornea is permeable to lipid soluble, unionized physostigmine but not to highly ionized neostigmine. Drugs applied as eye drops may get absorbed through the nasolacrimal duct, e.g. timolol eye drops can produce bradycardia and precipitate asthma. Mucous membranes of mouth, rectum, vagina absorb lipophilic drugs: estrogen cream applied vaginally has produced gynaecomastia in the male partner.
+Bioavailability
+Bioavailability refers to the rate and extent of absorption of a drug from a dosage form administered by any route, as determined by its concentration-time curve in blood or by its excretion in urine (Fig. 2.7). It is a measure of the fraction (F ) of administered dose of a drug that reaches the systemic circulation in the unchanged form. Bioavailability of drug injected i.v. is 100%, but is frequently lower after oral ingestion because—
+
+
+
+
+
+(a) the drug may be incompletely absorbed.
+(b) the absorbed drug may undergo first pass metabolism in the intestinal wall/liver or be excreted in bile.
+Incomplete bioavailability after s.c. or i.m. injection is less common, but may occur due to local binding of the drug.
+Bioequivalence Oral formulations of a drug from different manufacturers or different batches from the same manufacturer may have the same amount of the drug (chemically equivalent) but may not yield the same blood levels—biologically inequivalent.  Two preparations of a drug are considered bioequivalent when the rate and extent of bioavailability of the active drug from them is not significantly different under suitable test conditions. 
+Before a drug administered orally in solid dosage form can be absorbed, it must break into individual particles of the active drug (disintegration). Tablets and capsules contain a number of other materials—diluents, stabilizing agents, binders, lubricants, etc. The nature of these as well as details of the manufacture process, e.g. force used in compressing the tablet, may affect disintegration. The released drug must then dissolve in the aqueous gastrointestinal contents. The rate of dissolution is governed by the inherent solubility, particle size, crystal form and other physical properties of the drug. Differences in bioavailability may arise due to variations in disintegration and dissolution rates.
+Differences in bioavailability are seen mostly with poorly soluble and slowly absorbed drugs. Reduction in particle size increases the rate of absorption of aspirin (microfine tablets). The amount of griseofulvin and spironolactone in the tablet can be reduced to half if the drug particle is microfined. There is no need to reduce the particle size of freely water soluble drugs, e.g. paracetamol.
+
+
+Bioavailability variation assumes practical significance for drugs with low safety margin (digoxin) or where dosage needs precise control (oral hypoglycaemics, oral anticoagulants). It may also be responsible for success or failure of an antimicrobial regimen.
+However, in the case of a large number of drugs bioavailability differences are negligible and the risks of changing from branded to generic product or to another brand of the same drug have often been exaggerated.
+DISTRIBUTION
+Once a drug has gained access to the blood stream, it gets distributed to other tissues that initially had no drug, concentration gradient being in the direction of plasma to tissues. The extent of distribution of a drug and its pattern of tissue distribution depends on its: 
+•lipid solubility
+•ionization at physiological pH (a function of its pKa)
+•extent of binding to plasma and tissue proteins
+•presence of tissue-specific transporters  
+•differences in regional blood flow. 
+Movement of drug proceeds until an equilibrium is established between unbound drug in the plasma and the tissue fluids. Subsequently, there is a parallel decline in both due to elimination.
+Apparent volume of distribution (V) Presuming that the body behaves as a single homogeneous compartment with volume V into which the drug gets immediately and uniformly distributed
+
+
+
+
+
+Since in the example shown in Fig. 2.8, the drug does not actually distribute into 20 L of body water, with the exclusion of the rest of it, this is only an apparent volume of distribution which can be defined as “the volume that would accommodate all the drug in the body, if the concentration throughout was the same as in plasma”. Thus, it describes amount of the drug present in the body as a multiple of that contained in a unit volume of plasma. Considered together with drug clearance, this is a very useful pharmacokinetic concept.
+
+
+
+
+
+
+
+Factors governing volume of drug distribution
+
+
+
+
+•Lipid: water partition coefficient of the drug
+
+
+
+
+•pKa value of the drug
+
+
+
+
+•Degree of plasma protein binding
+
+
+
+
+•Affinity for different tissues
+
+
+
+
+•Fat: lean body mass ratio, which can vary with age, sex, obesity, etc.
+
+
+
+
+•Diseases like CHF, uremia, cirrhosis
+
+
+
+
+
+
+
+
+Lipid-insoluble drugs do not enter cells—V approximates extracellular fluid volume, e.g. streptomycin, gentamicin 0.25 L/kg.
+Distribution is not only a matter of dilution, but also binding and sequestration. Drugs extensively bound to plasma proteins are largely restricted to the vascular compartment and have low values of V, e.g. diclofenac and warfarin (99% bound) V = 0.15 L/kg.
+A large value of V indicates that larger quantity of drug is present in extravascular tissue. Drugs sequestrated in other tissues may have, V much more than total body water or even body mass, e.g. digoxin 6 L/kg, propranolol 4 L/kg, morphine 3.5 L/kg, because most of the drug is present in other tissues, and plasma concentration is low. Therefore, in case of poisoning, drugs with large volumes of distribution are not easily removed by haemodialysis.
+
+
+Pathological states, e.g. congestive heart failure, uraemia, cirrhosis of liver, etc. can alter the V of many drugs by altering distribution of body water, permeability of membranes, binding proteins or by accumulation of metabolites that displace the drug from binding sites.
+More precise multiple compartment models for drug distribution have been worked out, but the single compartment model, described above, is simple and fairly accurate for many drugs.
+Redistribution Highly lipid-soluble drugs get initially distributed to organs with high blood flow, i.e. brain, heart, kidney, etc. Later, less vascular but more bulky tissues (muscle, fat) take up the drug—plasma concentration falls and the drug is withdrawn from the highly perfused sites. If the site of action of the drug was in one of the highly perfused organs, redistribution results in termination of drug action. Greater the lipid solubility of the drug, faster is its redistribution. Anaesthetic action of thiopentone sod. injected i.v. is terminated in few minutes due to redistribution. A relatively short hypnotic action lasting 6–8 hours is exerted by oral diazepam or nitrazepam due to redistribution despite their elimination t½ of > 30 hr. However, when the same drug is given repeatedly or continuously over long periods, the low perfusion high capacity sites get progressively filled up and the drug becomes longer acting.
+Penetration into brain and CSF  The capillary endothelial cells in brain have tight junctions and lack large paracellular spaces. Further, an investment of neural tissue (Fig. 2.9B) covers the capillaries. Together they constitute the so called blood-brain barrier (BBB). A similar blood-CSF barrier is located in the choroid plexus: capillaries are lined by choroidal epithelium having tight junctions. Both these barriers are lipoidal and limit the entry of nonlipid-soluble drugs, e.g. streptomycin, neostigmine, etc. Only lipid-soluble drugs, therefore, are able to penetrate and have action on the central nervous system. In addition, efflux transporters like P-gp and anion transporter (OATP) present in brain and choroidal vessels extrude many drugs that enter brain by other processes and serve to augment the protective barrier against potentially harmful xenobiotics. Dopamine does not enter brain but its precursor levodopa does; as such, the latter is used in parkinsonism. Inflammation of meninges or brain increases permeability of these barriers. It has been proposed that some drugs accumulate in the brain by utilizing the transporters for endogenous substances.
+
+
+
+
+
+
+There is also an enzymatic BBB: Monoamine oxidase (MAO), cholinesterase and some other enzymes are present in the capillary walls or in the cells lining them. They do not allow catecholamines, 5-HT, acetylcholine, etc. to enter brain in the active form.
+The BBB is deficient at the CTZ in the medulla oblongata (even lipid-insoluble drugs are emetic) and at certain periventricular sites—(anterior hypothalamus). 
+
+
+Exit of drugs from the CSF and brain, however, is not dependent on lipid-solubility and is rather unrestricted. This is due to bulk flow of CSF (alongwith the drug dissolved in it) back into blood through the arachnoid villi. Further, nonspecific organic anion and cation transport processes (similar to those in renal tubule) operate at the choroid plexus.
+Passage across placenta Placental membranes are lipoidal and allow free passage of lipophilic drugs, while restricting hydrophilic drugs. The placental efflux P-gp and other transporters like BCRP, MRP3 also serve to limit foetal exposure to maternally administered drugs. Placenta is a site for drug metabolism as well, which may lower/modify exposure of the foetus to the administered drug. However, restricted amounts of nonlipid-soluble drugs, when present in high concentration or for long periods in maternal circulation, gain access to the foetus. Some influx transporters also operate at the placenta. Thus, it is an incomplete barrier and almost any drug taken by the mother can affect the foetus or the newborn (drug taken just before delivery, e.g. morphine).
+
+
+Plasma protein binding 
+Most drugs possess physicochemical affinity for plasma proteins and get reversibly bound to these. Acidic drugs generally bind to plasma albumin and basic drugs to α1 acid glycoprotein. Binding to albumin (which is more abundant) is quantitatively more important. Extent of binding depends on the individual compound; no generalization for a pharmacological or chemical class can be made (even small chemical change can markedly alter protein binding), for example the binding percentage of some benzodiazepines is:
+Flurazepam10%Alprazolam70%
+Lorazepam90%Diazepam99%
+Increasing concentrations of the drug can progressively saturate the binding sites: fractional binding may be lower when large amounts of the drug are given. The generally expressed percentage binding refers to the usual therapeutic plasma concentrations of a drug. The clinically significant implications of plasma protein binding are:
+(i) Highly plasma protein bound drugs are largely restricted to the vascular compartment  because protein bound drug does not cross membranes (except through large paracellular spaces, such as in capillaries). They tend to have smaller volumes of distribution.
+
+
+Drugs highly bound to plasma protein
+
+
+
+
+To albumin
+
+
+To α1-acid glycoprotein
+
+
+
+
+Barbiturates
+
+
+β-blockers
+
+
+
+
+Benzodiazepines
+
+
+Bupivacaine
+
+
+
+
+NSAIDs
+
+
+Lidocaine
+
+
+
+
+Valproic acid
+
+
+Disopyramide
+
+
+
+
+Phenytoin
+
+
+Imipramine
+
+
+
+
+Penicillins
+
+
+Methadone
+
+
+
+
+Sulfonamides
+
+
+Prazosin
+
+
+
+
+Tetracyclines
+
+
+Quinidine
+
+
+
+
+Tolbutamide
+
+
+Verapamil
+
+
+
+
+Warfarin
+
+
+
+
+
+
+
+
+
+(ii) The bound fraction is not available for action. However, it is in equilibrium with the free drug in plasma and dissociates when the concentration of the latter is reduced due to elimination. Plasma protein binding thus tantamounts to temporary storage of the drug.
+
+
+(iii) High degree of protein binding generally makes the drug long acting, because bound fraction is not available for metabolism or excretion, unless it is actively extracted by liver or by kidney tubules. Glomerular filtration does not reduce the concentration of the free form in the efferent vessels, because water is also filtered. Active tubular secretion, however, removes the drug without the attendant solvent → concentration of free drug falls → bound drug dissociates and is eliminated resulting in a higher renal clearance value of the drug than the total renal blood flow (see Fig. 3.3). The same is true of active transport of highly extracted drugs in liver. Plasma protein binding in this situation acts as a carrier mechanism and hastens drug elimination, e.g. excretion of penicillin (elimination t½ is 30 min); metabolism of lidocaine. Highly protein bound drugs are not removed by haemodialysis and need special techniques for treatment of poisoning.
+(iv) The generally expressed plasma concentrations of the drug refer to bound as well as free drug. Degree of protein binding should be taken into account while relating these to concentrations of the drug that are active in vitro, e.g. MIC of an antimicrobial.
+(v) One drug can bind to many sites on the albumin molecule. Conversely, more than one drug can bind to the same site. This can give rise to displacement interactions among drugs bound to the same site(s). The drug bound with higher affinity will displace that bound with lower affinity and tend to increase the concentration of its free form. This, however, is often transient because the displaced drug will diffuse into the tissues as well as get metabolized or excreted: the new steady-state free drug concentration is only marginally higher unless the displacement extends to tissue binding or there is concurrent inhibition of metabolism and/or excretion reducing drug clearance. The overall impact of many displacement interactions is minimal; except when the interaction is more complex. Moreover, two highly bound drugs do not necessarily displace each other—their binding sites may not overlap, e.g. probenecid and indomethacin are highly bound to albumin but do not displace each other. Similarly, acidic drugs do not generally displace basic drugs and vice versa. 
+
+
+
+Drugs concentrated in tissues
+
+
+
+
+Skeletal muscle, heart
+
+
+—
+
+
+digoxin, emetine (bound to muscle proteins).
+
+
+
+
+Liver
+
+
+—
+
+
+chloroquine, tetracyclines, emetine, digoxin.
+
+
+
+
+Kidney
+
+
+—
+
+
+digoxin, chloroquine, emetine.
+
+
+
+
+Thyroid
+
+
+—
+
+
+iodine.
+
+
+
+
+Brain
+
+
+—
+
+
+chlorpromazine, acetazolamide, isoniazid.
+
+
+
+
+Retina
+
+
+—
+
+
+chloroquine (bound to nucleoproteins).
+
+
+
+
+Iris
+
+
+—
+
+
+ephedrine, atropine (bound to melanin).
+
+
+
+
+Bone and teeth
+
+
+—
+
+
+tetracyclines, heavy metals (bound to mucopolysaccharides of 
+connective tissue), bisphosphonates (bound to hydroxyapatite).
+
+
+
+
+Adipose tissue
+
+
+—
+
+
+thiopentone, ether, minocycline, phenoxybenzamine, DDT 
+dissolve in neutral fat due to high lipid-solubility; remain 
+stored due to poor blood supply of fat.
+
+
+
+
+
+
+
+
+(vi) In hypoalbuminemia, binding may be reduced and high concentrations of free drug may be attained, e.g. phenytoin and furosemide. Other diseases may also alter drug binding, e.g.  phenytoin and pethidine binding is reduced in uraemia; propranolol binding is increased in pregnant women and in patients with inflammatory disease (acute phase reactant α1 acid-glycoprotein increases).
+
+
+Tissue storage Drugs may also accumulate in specific organs by active transport or get bound to specific tissue constituents (see box).
+Drugs sequestrated in various tissues are unequally distributed, tend to have larger volume of distribution and longer duration of action. Some may exert local toxicity due to high concentration, e.g. tetracyclines on bone and teeth, chloroquine on retina, streptomycin on vestibular apparatus, emetine on heart and skeletal muscle. Drugs may also selectively bind to specific intracellular organelle, e.g. tetracycline to mitochondria, chloroquine to nuclei.

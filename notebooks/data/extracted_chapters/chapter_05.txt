@@ -1,0 +1,1123 @@
+Ch-04
+
+
+
+
+
+
+
+
+
+Pharmacodynamics is the study of drug effects. It starts with describing what the drugs do, and goes on to explain how they do it. Thus, it attempts to elucidate the complete action-effect sequence and the dose-effect relationship. Modification of the action of one drug by another drug is also an aspect of pharmacodynamics.
+PRINCIPLES OF DRUG ACTION
+Drugs (except those gene based) do not impart new functions to any system, organ or cell; they only alter the pace of ongoing activity. However, this alone can have profound medicinal as well as toxicological impact. The basic types of drug action can be broadly classed as:
+1. Stimulation It refers to selective enhancement of the level of activity of specialized cells, e.g. adrenaline stimulates heart, pilocarpine stimulates salivary glands. However, excessive stimulation is often followed by depression of that function, e.g. high dose of picrotoxin, a central nervous system (CNS) stimulant, produces convulsions followed by coma and respiratory depression.
+2. Depression It means selective diminution of activity of specialized cells, e.g. barbiturates depress CNS, quinidine depresses heart, omeprazole depresses gastric acid secretion. Certain drugs stimulate one type of cells but depress the other, e.g. acetylcholine stimulates intestinal smooth muscle but depresses SA node in heart. Thus, most drugs cannot be simply classed as stimulants or depressants.
+3. Irritation This connotes a nonselective, often noxious effect and is particularly applied to less specialized cells (epithelium, connective tissue). Strong irritation results in inflammation, corrosion, necrosis and morphological damage. This may result in diminution or loss of function.
+
+
+4. Replacement This refers to the use of natural metabolites, hormones or their congeners in deficiency states, e.g. levodopa in parkinsonism, insulin in diabetes mellitus, iron in anaemia.
+5. Cytotoxic action Selective cytotoxic action on invading parasites or cancer cells, attenuating them without significantly affecting the host cells is utilized for cure/palliation of infections and neoplasms, e.g. penicillin, chloroquine, zidovudine, cyclophosphamide, etc.
+MECHANISM OF DRUG ACTION
+Only a handful of drugs act by virtue of their simple physical or chemical property; examples are:
+•Bulk laxatives (ispaghula)—physical mass
+•Dimethicone, petroleum jelly—physical form, opacity
+•Paraamino benzoic acid—absorption of UV rays
+•Activated charcoal—adsorptive property
+•Mannitol, mag. sulfate—osmotic activity
+•131I and other radioisotopes—radioactivity
+•Antacids—neutralization of gastric HCl
+•Pot. permanganate—oxidizing property
+•Chelating agents (EDTA, dimercaprol)—chelation of heavy metals.
+•Cholestyramine—sequestration of bile acids and cholesterol in the gut
+•Mesna—Scavenging of vasicotoxic reactive metabolites of cyclophosphamide 
+Majority of drugs produce their effects by interacting with a discrete target biomolecules, which usually are proteins. Such mechanism confers selectivity of action to the drug. Functional proteins that are targets of drug action can be grouped into four major categories, viz. enzymes, ion channels, transporters and receptors (see Fig. 4.1). However, a few drugs do act on other proteins (e.g. colchicine, vinca alkaloids, taxanes bind to the structural protein tubulin) or on nucleic acids (alkylating agents).
+
+
+
+
+I. ENZYMES
+Almost all biological reactions are carried out under catalytic influence of enzymes; hence, enzymes are a very important target of drug action. Drugs can either increase or decrease the rate of enzymatically mediated reactions. However, in physiological systems enzyme activities are often optimally set. Thus, stimulation of enzymes by drugs, that are truly foreign substances, is unusual. Enzyme stimulation is relevant to some natural metabolites only, e.g.  pyridoxine acts as a cofactor and increases decarboxylase activity. Several enzymes are stimulated through receptors and second messengers, e.g. adrenaline stimulates hepatic glycogen phosphorylase through β receptors and cyclic AMP. Stimulation of an enzyme increases its affinity for the substrate so that rate constant (kM) of the reaction is lowered (Fig. 4.2).
+Apparent increase in enzyme activity can also occur by enzyme induction, i.e. synthesis of more enzyme protein. This cannot be called stimulation because the km does not change. Many drugs induce microsomal enzymes (see p. 33).
+
+
+
+
+
+
+
+
+
+EnzymeEndogenous  substrateCompetitive inhibitor
+
+
+
+
+Cholinesterase
+
+
+Acetylcholine    
+
+
+Physostigmine, Neostigmine
+
+
+
+
+Monoamine-oxidase A (MAO-A)
+
+
+Catecholamines
+
+
+Moclobemide
+
+
+
+
+Dopa decarboxylase 
+
+
+Levodopa
+
+
+Carbidopa, Benserazide
+
+
+
+
+Xanthine oxidase
+
+
+Hypoxanthine
+
+
+Allopurinol
+
+
+
+
+Angiotensin converting  enzyme (ACE)
+
+
+Angiotensin-1 
+
+
+Captopril
+
+
+
+
+5α-Reductase
+
+
+Testosterone
+
+
+Finasteride
+
+
+
+
+Aromatase
+
+
+Testosterone, Androstenedione 
+
+
+Letrozole, Anastrozole
+
+
+
+
+Bacterial folate synthase
+
+
+Para-amino benzoic acid (PABA) 
+
+
+Sulfadiazine
+
+
+
+
+
+
+
+
+Enzyme inhibition 
+Some chemicals (heavy metal salts, strong acids and alkalies, formaldehyde, phenol, etc.) denature proteins and inhibit all enzymes nonselectively. They have limited medicinal value restricted to external application only. However, selective inhibition of a particular enzyme is a common mode of drug action. Such inhibition is either competitive or noncompetitive.
+(i) Competitive (equilibrium type) The drug  being structurally similar competes with the normal substrate for the catalytic binding site of the enzyme so that the product is not formed or a nonfunctional product is formed (Fig. 4.1A), and a new equilibrium is achieved in the presence of the drug. Such inhibitors increase the kM but the Vmax remains unchanged (Fig. 4.2), i.e. higher concentration of the substrate is required to achieve ½ maximal reaction velocity, but if substrate concentration is sufficiently increased, it can displace the inhibitor and the same maximal reaction velocity can be attained. Examples are given in the box above.
+A nonequilibrium type of enzyme inhibition can also occur with drugs which react with the same catalytic site of the enzyme but either form strong covalent bonds or have such high affinity for the enzyme that the normal substrate is not able to displace the inhibitor, e.g.
+
+
+•Organophosphates react covalently with the esteretic site of the enzyme cholinesterase.
+•Methotrexate has 50,000 times higher affinity for dihydrofolate reductase than the normal substrate DHFA.
+In these situations, kM is increased and Vmax is reduced.
+(ii) Noncompetitive The inhibitor reacts with an adjacent site and not with the catalytic site, but alters the enzyme in such a way that it loses its catalytic property. Thus, kM is unchanged but Vmax is reduced. Examples are given in the box.
+
+
+Noncompetitive inhibitorEnzyme
+
+
+
+
+Acetazolamide
+
+
+—
+
+
+Carbonic anhydrase
+
+
+
+
+Aspirin, indomethacin
+
+
+—
+
+
+Cyclooxygenase
+
+
+
+
+Disulfiram
+
+
+—
+
+
+Aldehyde  dehydrogenase
+
+
+
+
+Omeprazole
+
+
+—
+
+
+H+ K+ ATPase
+
+
+
+
+Digoxin
+
+
+—
+
+
+Na+ K+ ATPase
+
+
+
+
+Theophylline
+
+
+—
+
+
+Phosphodiesterase
+
+
+
+
+Propylthiouracil
+
+
+—
+
+
+Peroxidase in thyroid
+
+
+
+
+Lovastatin
+
+
+—
+
+
+HMG-CoA reductase
+
+
+
+
+Sildenafil
+
+
+—
+
+
+Phosphodiesterase-5 
+
+
+
+
+
+
+
+II. ION CHANNELS
+Proteins which act as ion selective channels participate in transmembrane signaling and regulate intracellular ionic composition. This makes them a common target of drug action (Fig. 4.1B). Drugs can affect ion channels, some of which actually are receptors, because they are operated by specific signal molecules either directly and are called ligand gated channels (e.g. nicotinic receptor, see Fig. 4.4) or through G-proteins and are termed G-protein regulated channels (e.g. cardiac β1 adrenergic receptor activated Ca2+  channel, see Table 4.1). Drugs can also act on voltage operated and stretch sensitive channels by directly binding to the channel and affecting ion movement through it, e.g. local anaesthetics which  obstruct voltage sensitive Na+ channels (see Ch. 26). In addition, certain drugs modulate opening and closing of the channels, e.g.:
+
+
+•Quinidine blocks myocardial Na+ channels.
+•Dofetilide and amiodarone block myocardial delayed rectifier K+ channel.
+•Nifedipine blocks L-type of voltage sensitive Ca2+ channel.
+•Nicorandil opens ATP-sensitive K+ channels.
+•Sulfonylurea hypoglycaemics inhibit pan-creatic ATP-sensitive K+ channels (see Fig. 19.6).
+•Amiloride inhibits renal epithelial Na+ channels (see Fig. 42.3).
+•Phenytoin modulates (prolongs the inactivated state of) voltage sensitive neuronal Na+ channel (Fig. 30.1).
+•Ethosuximide inhibits T-type of Ca2+ channels in thalamic neurones.
+III. TRANSPORTERS
+Several substrates are translocated across membranes by binding to specific transporters (carriers) which either facilitate diffusion in the direction of the concentration gradient or pump the metabolite/ion against the concentration gradient using metabolic energy (see p. 18–19; Fig. 2.5). Many drugs produce their action by directly interacting with the solute carrier (SLC) class of transporter proteins to inhibit the ongoing physiological transport of the metabolite/ion (Fig. 4.1C). Examples are:
+•Desipramine and cocaine block neuronal reuptake of noradrenaline by interacting with norepinephrine transporter (NET) as depicted in Fig. 9.4.
+
+
+•Fluoxetine (and other SSRIs) inhibit neuronal reuptake of 5-HT by interacting with serotonin transporter (SERT), Fig. 33.1.
+•Amphetamines selectively block dopamine reuptake in brain neurons by dopamine transporter (DAT).
+•Reserpine blocks the vesicular reuptake of noradrenaline and 5-HT by the vesicular mono-amine transporter (VMAT-2), see Fig. 9.4.
+•Hemicholinium blocks choline uptake into cholinergic neurones and depletes acetylcholine (see Fig. 7.1).
+•The anticonvulsant tiagabine acts by inhibiting reuptake of GABA into brain neurones by GABA transporter GAT1 (see Fig. 30.1).
+•Furosemide inhibits the Na+K+2Cl¯ cotransporter in the ascending limb of loop of Henle (see Fig. 42.1).
+•Hydrochlorothiazide inhibits the Na+Cl¯  symporter in the early distal tubule (see Fig. 42.2).
+•Probenecid inhibits active transport of organic acids (uric acid, penicillin) in renal tubules by interacting with organic anion transporter (OAT).
+IV. RECEPTORS
+The largest number of drugs do not bind directly to the effectors, viz. enzymes, channels, transporters, structural proteins, template biomolecules, etc. but act through specific regulatory macromolecules which control the above listed effectors. These regulatory macromolecules or the sites on them which associate with and interact with the drug are called ‘receptors’.
+Receptor: It is defined as a macromolecule or binding site located on the surface or inside the effector cell that serves to recognize the signal molecule/drug and initiate the response to it, but itself has no other function.
+Though, in a broad sense all types of target biomolecules, including the effectors (enzymes, channels, transporters, etc.) with which a drug can bind to produce its action have been denoted as ‘receptors’ by some authors, such designation tends to steal the specific meaning of this important term. If so applied, xanthine oxidase would be the ‘receptor’ for allopurinol, L-type Ca2+ channel would be the ‘receptor’ for nifedipine, serotonin transporter (SERT) would be the ‘receptor’ for fluoxetine; a connotation not in consonence with the general understanding of the term ‘receptor’. It is therefore better to reserve the term ‘receptor’ for purely regulatory macromolecules which combine with and mediate the action of signal molecules including drugs.
+
+
+The following terms are used in describing drug-receptor interaction:
+Agonist An agent which activates a receptor to produce an effect similar to that of the physiological signal molecule.
+Inverse agonist An agent which activates a receptor to produce an effect in the opposite direction to that of the agonist.
+Antagonist An agent which prevents the action of an agonist on a receptor or the subsequent response, but does not have any effect of its own.
+Partial agonist An agent which activates a receptor to produce submaximal effect but antagonizes the action of a full agonist.
+Ligand (Latin: ligare—to bind) Any molecule which attaches selectively to particular receptors or sites. The term only indicates affinity or ability to bind without regard to functional change: agonists and competitive antagonists are both ligands of the same receptor.
+The overall scheme of drug action through receptors is depicted in Fig. 4.1D.
+Basic evidences for drug action through receptors
+(i) Many drugs exhibit structural specificity of action, i.e. specific chemical configuration is associated with a particular action, e.g. isopropyl substitution on the ethylamine side chain of sympathetic drugs produces compounds with marked cardiac and bronchial activity—most b adrenergic agonists and antagonists have this substitution. A 3 carbon internitrogen separation in the side chain of phenothiazines results in antidopaminergic-antipsychotic compounds, whereas 2 carbon separation produces anticholinergic-antihistaminic compounds. Further, chiral drugs show stereospecificity in action, e.g. levo noradrenaline is 10 times more potent than dextro noradrenaline; d-propranolol is about 100 times less potent in blocking β receptors than the l-isomer, but both are equipotent local anaesthetics.
+
+
+Thus, the cell must have some mechanism to recognize a particular chemical configuration and three dimensional structure.
+
+(ii) Competitive antagonism is seen between specific agonists and antagonists. Langley in 1878 was so impressed by the mutual antagonism among two alkaloids pilocarpine and atropine that he proposed that both reacted with the same ‘receptive substance’ on the cell. Ehrlich (1900) observed quantitative neutralization between toxins and antitoxins and designated ‘receptor’ to be the anchoring group of the protoplasmic molecule for the administered compound.
+(iii) It was calculated by Clark that adrenaline and acetylcholine produce their maximal effect on frog’s heart by occupying only 1/6000th of the cardiac cell surface—thus, special regions of reactivity to such drugs must be present on the cell.
+Receptor occupation theory
+After studying quantitative aspects of drug action, Clark (1937) propounded a theory of drug action based on occupation of receptors by specific drugs and that the pace of a cellular function can be altered by interaction of these receptors with drugs which, in fact, are small molecular ligands. He perceived the interaction between the two molecular species, viz. drug (D ) and receptor (R) to be governed by the law of mass action, and the effect (E) to be a direct function of the drug-receptor complex (DR) formed:
+
+Subsequently, it was realized that occupation of the receptor is essential but not itself sufficient to elicit a response; the agonist must also be able to activate (induce a conformational change in) the receptor. The ability to bind with the receptor designated as affinity, and the capacity to induce a functional change in the receptor designated as intrinsic activity (IA) or efficacy are independent properties.
+
+
+Affinity of a drug for a receptor determines its concetration around the receptor required to form a certain number of drug-receptor associations (DRs). Higher affinity implies that the same number of DRs will be formed at lower concentrations of the drug, compared to another drug which has lower affinity.
+Intrinsic activity of a drug is a measure of its ability to induce a functional change in the receptor which could vary from 0 to 1 (nil to maximal).
+Competitive antagonists occupy the receptor but do not activate it, while certain drugs are partial agonists which occupy and submaximally activate the receptor. An all or none action is not a must at the receptor. A theoretical quantity (S) denoting strength of stimulus imparted to the cell was interposed in the Clark’s equation:
+
+Depending on the agonist, DR could generate a stronger or weaker S, probably as a function of the degree of conformational change brought about by the agonist in the receptor. Accordingly:
+Agonists have both affinity and maximal intrinsic activity (IA = 1), e.g. adrenaline, histamine, morphine.
+Competitive antagonists have affinity but no intrinsic activity (IA = 0), e.g. propranolol, atropine, chlorpheniramine, naloxone.
+Partial agonists have affinity and submaximal intrinsic activity (IA between 0 and 1), e.g. dichloroisoproterenol (on β adrenergic receptor), buspirone on 5-HT1A receptor.
+The lower ceiling response to a partial agonist is not because of lower affinity for the receptor. In fact some partial agonists have higher affinity and are dose-to-dose more potent than the full agonist, e.g. buprenorphine is 25 times more potent than morphine (full agonist of m opioid receptor) but is a partial agonist and cannot relieve very severe pain or deeply depress respiration.
+
+
+Partial agonists also antagonize the effects of a full agonist, because they occupy a large population of the receptors (while producing small response) and leave fewer receptors to interact with the full agonist. As such, buprenorphine precipitates withdrawal symptoms in a highly morphine dependent subject, but can substitute for it at lower levels of morphine dependence.
+Inverse agonists have affinity but intrinsic activity with a minus sign (IA between 0 and –1). Inverse agonism is manifest only in case of some receptors which show certain degree of Constitutive activation, i.e. they are partially active even in the basal state (complete absence of any agonist). In other words they are tonically active. The benzodiazepine receptor (see Fig. 29.3) is one such  receptor, and DMCM is its inverse agonist. However, majority of receptors (like the NM nicotinic receptor) are totally inactive in the absence of an agonist, and there is no scope for inverse agonism.
+It has also been demonstrated that many full agonists can produce maximal response even while occupying <1% of the available receptors. A large receptor reserve exists in their case, or a number of spare receptors are present. On the other hand, for certain drugs, the total number of receptors may limit the maximal response, and there are no space receptors.
+The two-state receptor model
+An attractive alternative model for explaining the action of agonists, antagonists, partial agonists and inverse agonists has been proposed.
+The receptor is believed to exist in two interchangeable states: Ra (active) and Ri (inactive) which are in equilibrium. In the case of majority of receptors, the Ri state is favoured at equilibrium—no/very weak signal is generated in the absence of the agonist—the receptor exhibits no constitutive activation (Fig. 4.3I). The agonist (A) binds preferentially to the Ra conformation and shifts the equilibrium → Ra predominates and a response is generated (Fig. 4.3II) depending on the concentration of A. The competitive antagonist (B) binds to Ra and Ri with equal affinity → the equilibrium is not altered → no response is generated (Fig. 4.3 III), and when the agonist is applied fewer Ra are available to bind it—response to agonist is decreased. If an agonist has only slightly greater affinity for Ra than for Ri, the equilibrium is only  modestly shifted towards Ra (Fig. 4.3 IV) even at saturating concentrations → a submaximal response is produced and the drug is called a partial agonist (C). The inverse agonist (D) has high affinity for the Ri state (Fig. 4.3V), therefore it can produce an opposite response, provided the resting equilibrium was in favour of the Ra state. Certain ion channel receptors such as benzodiazepine receptor and some G-protein coupled receptors like histamine H2, angiotensin AT1, adrenergic β1 and cannabinoid receptors exhibit constitutive activation, i.e. an appreciable intensity signal is generated even in the basal state (no agonist present). In their case the inverse agonist stabilizes the receptor in the inactive conformation resulting in an opposite response. Only few inverse agonists are known at present. 
+
+
+
+
+This model provides an explanation for the phenomenon of positive cooperativity often seen with neurotransmitters, and is supported by studies of conformational mutants of the receptor with altered equilibrium. However, receptors are now known to be capable of adopting not just two, but multiple active and inactive conformations favoured by different ligands. 
+Nature of receptors
+Receptors are regulatory macromolecules, mostly proteins, though nucleic acids may also serve as receptors. Hundreds of receptor proteins have been isolated, purified, cloned and their primary amino acid (AA) sequence has been worked out. Molecular cloning has also helped in obtaining the receptor protein in larger quantity to study its structure and properties, and in subclassifying receptors. The cell surface receptors with their coupling and effector proteins are considered to be floating in a sea of membrane lipids; the folding, orientation and topography of the system being determined by interactions between the lipophilic and hydrophilic domains of the peptide chains with solvent molecules (water on one side and lipids on the other). Nonpolar portions of the AA chain tend to bury within the membrane, while polar groups tend to come out in the aqueous medium. In such a delicately balanced system, it is not difficult to visualize that a small molecular ligand binding to one site in the receptor molecule could be capable of tripping the balance (by altering distribution of charges, etc.) and bringing about conformational changes at distant sites. Each of the five major families of receptors (described later) have a well defined common structural motif, while the individual receptors differ in the details of amino acid sequencing, length of intra/extracellular loops, etc. Majority of receptor molecules are made up of several non-identical subunits (heteropolymeric), and agonist binding has been shown to bring about changes in their quaternary structure or relative alignment of the subunits, e.g. on activation the subunits of nicotinic receptor move apart opening a centrally located cation channel.
+
+
+
+
+
+Many clinically useful drugs act upon physiological receptors which mediate responses to transmitters, hormones, autacoids and other endogenous signal molecules; examples are cholinergic, adrenergic, histaminergic, steroid, leukotriene, insulin and other such receptors. In addition, now some truly drug receptors have been described for which there are no known physiological ligands, e.g. benzodiazepine receptor, sulfonylurea receptor.  Receptors for which no endogenous mediator or ligand is at present known are called ‘Orphan receptors’. They, nevertheless, may prove to be targets for novel drugs yet to be developed.
+Receptor subtypes
+The delineation of multiple types and subtypes of receptors for signal molecules has played an important role in the development of a number of targeted and more selective drugs. Even at an early stage of evolution of receptor pharmacology, it was observed that actions of acetylcholine could be grouped into ‘muscarinic’ and ‘nicotinic’ depending upon whether they were mimicked by the then known alkaloids muscarine or nicotine. Accordingly, they were said to be mediated by two types of cholinergic receptors, viz. muscarinic (M) or nicotinic (N); a concept strengthened by the finding that muscarinic actions were blocked by atropine, while nicotinic actions were blocked by curare. In a landmark study, Ahlquist (1948) divided adrenergic receptors into ‘α’ and ‘β’ on the basis of two distinct rankorder of potencies of adrenergic agonists. These receptors have now been further subdivided (M1, M2 ….M5), (NM, NN) (α1, α2) (β1, β2, β3). Multiple subtypes of receptors for practically all transmitters, autacoids, hormones, etc. are now known and have paved the way for introduction of numerous clinically superior drugs. In many cases, receptor classification has provided sound explanation for differences observed in the actions of closely related drugs.
+
+
+The following criteria have been utilized in classifying receptors:
+a.Pharmacological criteria Classification is based on relative potencies of selective agonists and antagonists. This is the classical and oldest approach with direct clinical bearing; was used in delineating M and N cholinergic, α and β adrenergic, H1 and H2 histaminergic receptors, etc.
+b.Tissue distribution The relative organ/tissue distribution is the basis for designating the subtype, e.g. the cardiac β adrenergic receptors as β1, while bronchial as β2. This division was confirmed by selective agonists and antagonists as well as by molecular cloning.
+c.Ligand binding Measurement of specific binding of high affinity radio-labelled ligand to cellular fragments (usually membranes) in vitro, and its displacement by various selective agonists/antagonists is used to delineate receptor subtypes. Multiple 5-HT receptors were distinguished by this approach. Autoradiography has helped in mapping distribution of receptor subtypes in the brain and other organs.
+d.Transducer pathway Receptor subtypes may be distinguished by the mechanism through which their activation is linked to the response, e.g. M cholinergic receptor acts through G-proteins, while N cholinergic receptor gates influx of Na+ ions; α adrenergic receptor acts via IP3-DAG pathway and by decreasing camp, while β adrenergic receptor increases cAMP; GABAA receptor is a ligand gated Cl– channel, while GABAB receptor increases K+ conductance through a G-protein.
+e.Molecular cloning The receptor protein is cloned and its detailed amino acid sequence as well as three dimentional structure is worked out. Subtypes are designated on the basis of sequence homology. This approach has in the recent years resulted in a flood of receptor subtypes and several isoforms (which do not differ in ligand selectivity) of each subtype. The functional significance of many of these subtypes/isoforms is dubious. Even receptors without known ligands (orphan receptors) have been described.
+Application of so many approaches has thrown up several detailed, confusing and often conflicting classifications of receptors in the past. However, a consensus receptor classification is now decided on a continuing basis by an expert group of the International Union of Pharmacological Sciences (IUPHAR).
+
+
+Silent receptors These are sites which bind specific drugs but no pharmacological response is elicited. They are better called inert binding sites or sites of loss, e.g. plasma proteins which have binding sites for many drugs. To avoid confusion, the term receptor should be restricted to those regulatory binding sites which are capable of generating a response.
+ACTION-EFFECT SEQUENCE
+‘Drug action’ and ‘drug effect’ are often loosely used interchangeably, but are not synonymous.
+Drug action It is the initial combination of the drug with its receptor resulting in a conformational change in the latter (in case of agonists), or prevention of conformational change through exclusion of the agonist (in case of antagonists).
+
+
+Drug effect It is the ultimate change in biological function brought about as a consequence of drug action, through a series of intermediate steps (transducer).
+Receptors subserve two essential functions, viz, recognition of the specific ligand molecule and transduction of the signal into a response. Accordingly, the receptor molecule has a ligand binding domain (spatially and energetically suitable for binding the specific ligand) and an effector domain (Fig.  4.4) which undergoes a functional conformational change. These domains have now actually been identified in some receptors. The perturbation in the receptor molecule is variously translated into the response. The sequential relationship between drug action, transducer and drug effect can be seen in Fig. 4.1D and 4.6.
+
+
+
+
+
+
+
+
+
+Transducer Mechanisms
+Considerable progress has been made in the understanding of transducer mechanisms which in most instances have been found to be highly complex multistep processes that provide for amplification of the signal, as well as integration of concurrently received extra- and intra-cellular signals at each step. Because only a handful of transducer pathways are shared by a large number of receptors, the cell is able to generate an integrated response reflecting the sum total of diverse signal inputs. The transducer mechanisms can be grouped into 5 major categories. Receptors falling in one category also possess considerable structural homology, and belong to one super-family of receptors.
+1. G-protein coupled receptors (GPCRs)  
+These are a large family of cell membrane receptors which are linked to the effector (enzyme/channel/transporter) through one or more GTP-activated proteins (G-proteins) for response effectuation. All such receptors have a common pattern of structural organization (Fig. 4.5). The molecule has 7 α-helical membrane spanning hydrophobic amino acid (AA) segments which run into 3 extracellular and 3 intracellular loops. The agonist binding site is located somewhere between the helices on the extracellular face, while another recognition site formed by cytosolic segments binds the coupling G-protein. The G-proteins float in the membrane with their exposed domain lying in the cytosol, and are heterotrimeric in composition (α, β and γ  subunits). In the inactive state GDP is bound to the α subunit  at the exposed domain; activation through the receptor leads to displacement of GDP by GTP. The activated α-subunit carrying GTP dissociates from the other two subunits and either activates or inhibits the effector. The βγ diamer has also been shown to activate receptor-operated K+ channels, to inhibit voltage gated Ca2+ channels and to promote GPCR desensitization at higher rates of activation. 
+
+
+A number of G proteins distinguished by their α subunits have been described. The important ones with their action on the effector are:
+Gs:Adenylyl cyclase activation, Ca2+ channel opening
+Gi:Adenylyl cyclase inhibition, K+ channel opening
+Go:Ca2+ channel inhibition
+Gq:Phospholipase C activation
+A limited number of G-proteins are shared between different receptors and one receptor can utilize more than one G-protein (agonist pleotropy), e.g. the following couplers have been associated with different receptors.
+
+
+
+
+Receptor
+
+
+Coupler
+
+
+
+
+Muscarinic M2
+
+
+Gi, Go
+
+
+
+
+Muscarinic M1, M3
+
+
+Gq
+
+
+
+
+Dopamine D2
+
+
+Gi, Go
+
+
+
+
+β-adrenergic
+
+
+Gs
+
+
+
+
+α1-adrenergic
+
+
+Gq
+
+
+
+
+α2-adrenergic
+
+
+Gi, Go
+
+
+
+
+GABAB
+
+
+Gi, Go
+
+
+
+
+Serotonin 5-HT1
+
+
+Gi, Go
+
+
+
+
+Serotonin 5-HT2
+
+
+Gq
+
+
+
+
+Prostanoid
+
+
+Gs, Gi, Gq
+
+
+
+
+
+
+
+In addition, Gs is the coupler for histamine H2, serotonin 5HT4-7, glucagon, thyrotropin (TSH) and many other hormones, while Gi is utilized by opioid, cannabinoid and some other receptors. Moreover, a receptor can utilize different biochemical pathways in different tissues.
+The α-subunit has GTPase activity: the bound GTP is slowly hydrolysed to GDP: the α-subunit then dissociates from the effector to rejoin its other subunits, but not before the effector has been activated/inhibited for several seconds (much longer than the life-time of the activated receptor, which is in milliseconds) and the signal has been greatly amplified. The rate of GTP hydrolysis by the α subunit and thus the period for which it remains activated is regulated by another protein called ‘regulator of G protein signaling’ (RGS). The onset time of response through GPCRs is in seconds.
+There are three major effector pathways (Table 4.1) through which GPCRs function.
+(a) Adenylyl cyclase: cAMP pathway Activation of AC results in intracellular accumulation of second messenger cAMP (Fig. 4.6) which functions mainly through cAMP-dependent protein kinase (PKA). The PKA phosphorylates and alters the function of many enzymes, ion channels, transporters, transcription factors and structural proteins to manifest as increased contractility/impulse generation (heart), relaxation (smooth muscle), glycogenolysis, lipolysis, inhibition of secretion/mediator release, modulation of junctional transmission, water conservation by kidney, steroid hormone synthesis, etc. In addition, cAMP directly opens a specific type of membrane Ca2+ channel called cyclic nucleotide gated channel (CNG) in the heart, brain and kidney. The other mediators of cellular actions of cAMP are: cAMP response element binding protein (CREB) which is a transcription factor, cAMP regulated guanine nucleotide exchange factors called EPACs and certain transporters. Responses opposite to the above are produced when AC is inhibited through inhibitory Gi-protein.
+
+
+The action of cAMP is terminated intracellularly by phosphodiesterases (PDEs) which hydrolyse it to 5-AMP. Some isoforms of PDE (PDE3, PDE4) are selective for cAMP, while PDE5 is selective for cGMP.
+Cyclic GMP (cGMP) as a second messenger
+
+
+
+
+
+
+Table 4.1: Major functional pathways of G-protein coupled receptor transduction
+
+
+
+
+Adenylyl cyclase: cAMP
+
+
+Phospholipase—IP3/DAG
+
+
+Channel regulation
+
+
+
+
+activation
+
+
+inhibition
+
+
+activation
+
+
+Ca2+ opening
+
+
+Ca2+ closing
+
+
+K+ opening
+
+
+
+
+Adrenergic-β
+
+
+Adrenergic-α2
+
+
+Adrenergic-α1
+
+
+Adrenergic-β1
+
+
+Dopamine-D2
+
+
+Adrenergic-α2
+
+
+
+
+Histamine-H2
+
+
+Muscarinic-M2
+
+
+Histamine-H1
+
+
+
+
+GABAB
+
+
+Muscarinic-M2
+
+
+
+
+Dopamine-D1
+
+
+Dopamine-D2
+
+
+Muscarinic-M1, M3
+
+
+
+
+Opioid-κ
+
+
+Dopamine-D2
+
+
+
+
+Glucagon
+
+
+5-HT1
+
+
+5-HT2
+
+
+
+
+Adenosine-A1
+
+
+5-HT1A
+
+
+
+
+FSH & LH
+
+
+GABAB
+
+
+Vasopressin-Oxytocin
+
+
+
+
+Somatostatin
+
+
+GABAB
+
+
+
+
+ACTH
+
+
+Opioid-µ, δ
+
+
+Bradykinin-B2
+
+
+
+
+
+
+Opioid-µ, δ
+
+
+
+
+TSH
+
+
+Angiotensin-AT1
+
+
+Angiotensin-AT1
+
+
+Adenosine-A1
+
+
+
+
+Prostaglandin-EP2
+
+
+Prostaglandin-EP3
+
+
+Prostaglandin-FP, EP1, EP3
+
+
+
+
+
+
+Prostacyclin-IP
+
+
+Somatostatin
+
+
+Thromboxane-TP
+
+
+
+
+Adenosine-A2
+
+
+Adenosine-A1
+
+
+Leukotriene BLT, cys LT
+
+
+
+
+
+
+
+
+Cholecystokinin-Gastrin
+
+
+
+
+PAF
+
+
+
+
+
+
+
+
+
+
+
+In contrast to cAMP, the cGMP serves as an intracellular second messenger only in a limited number of tissues, such as vascular smooth muscle, intestinal mucosal cell and kidney. In these tissues it respectively mediates relaxation, inhibition of salt and water absorption as well as anion secretion, and natriuresis (mainly due to reduced proximal tubular Na+ reabsorption). 
+
+
+There are two principal forms of guanylyl cyclases (GC) which generate cGMP, one cell membrane bound and the other cytosolic. However, none of these is regulated by a GPCR. The cell membrane bound GC is regulated by a transmembrane enzyme-linked receptor (described on p.58) for atrial natriuretic peptide (ANP). The cytosolic soluble GC in vascular smooth muscle is activated  by nitric oxide (NO). After generation by the vascular endothelium no diffuses into the adjacent smooth muscle cell and stimulates the soluble GC. Increased cGmp dephosphorylates myosin light chain kinase (MLCK) through PKG and induces relaxation (see Fig. 40.3). This pathway is utilized by glyceryl trinitrate, sod. nitroprusside, etc. 
+
+
+
+
+
+
+(b) Phospholipase C: IP3-DAG pathway Activation of phospholipase Cβ (PLcβ) by the activated GTP carrying α subunit of Gq hydrolyses the membrane phospholipid phosphatidyl inositol 4,5-bisphosphate (PIP2) to generate the second messengers inositol 1,4,5-trisphosphate (IP3) and diacylglycerol (DAG). The IP3 being water soluble diffuses to the cytosol and mobilizes Ca2+ from endoplasmic reticular depots (Fig. 4.7). The lipophilic DAG remains within the membrane, but recruits protein kinase C (PKc) and activates it with the help of Ca2+. The activated PKc phosphorylates many intracellular proteins (depending  on the type of effector cell) and mediates various physiological responses. So that it can serve signaling functions, the cytosolic concentration of Ca2+ is kept very low (~ 100 nM) by specific pumps located at the plasma membrane and at the endoplasmic reticulum. Triggered by IP3, the released Ca2+ (third messenger in this setting) acts as a highly versatile regulator acting through calmodulin (CAM), PKc and other effectors—mediates/modulates smooth muscle, contraction, glandular secretion/transmitter release, eicosanoid synthesis, neuronal excitability, intracellular movements, membrane function, metabolism, cell proliferation, etc. Signaling in this pathway is terminated by degradation of the second messengers. The IP3 is dephosphorylated to inositol which is reutilized in the synthesis of PIP2 (see Fig. 32.1), while DAG is partly converted back to phospholipids, and partly deacylated to arachidonic acid.
+
+
+
+
+Intracellular Ca2+ release has been found to occur in waves (Ca2+ mediated Ca2+ release from successive pools facilitated by inositol 1, 3, 4, 5-tetrakisphosphate—IP4) and exhibits a variety of agonist and concentration dependent oscillatory patterns. The activation of different effectors may depend on the amplitude and pattern of these oscillations. Thus, the same intracellular messenger can trigger different responses depending on the nature and strength of the extracellular signal.
+(c) Channel regulation The activated G-proteins (Gs, Gi, Go) can also open or inhibit ionic channels specific for Ca2+ and K+, without the intervention of any second messenger like cAMP or IP3, and bring about hyperpolarization/depolarization/changes in intracellular Ca2+ concentration. The Gs opens Ca2+ channels in myocardium and skeletal muscles, while Gi and Go open K+ channels in heart and smooth muscle as well as inhibit neuronal Ca2+ channels. Direct channel regulation is mostly the function of the βγ dimer of the dissociated G protein. Physiological responses like changes in inotropy, chronotropy, transmitter release, neuronal activity and smooth muscle relaxation follow. Receptors found to regulate ionic channels through G-proteins are listed in Table 4.1.
+
+
+2. Ion channel receptors 
+These cell surface receptors, also called ligand gated ion channels, enclose ion selective channels (for Na+, K+, Ca2+ or Cl¯) within their molecules. Agonist binding opens the channel (Fig. 4.4) and causes depolarization/hyperpolarization/changes in cytosolic ionic composition, depending on the ion that flows through. The nicotinic cholinergic, GABAA, glycine (inhibitory AA), excitatory AA-glutamate (kainate, NMDA and AMPA) and 5HT3 receptors fall in this category, and a large number of clinically useful drugs act through this type of receptors.
+The receptor is usually a pentameric protein; all subunits, in addition to large intra- and extracellular segments, generally have four membrane spanning helical domains. The subunits are mostly arranged round the channel like a rosette and the α subunits usually bear the agonist binding sites.
+Certain receptor-operated (or ligand-gated) ion channels also have secondary ligands which bind to an allosteric site and modulate the gating of the channel by the primary ligand, e.g. the benzodiazepine receptor modulates GABAA gated Cl¯ channel.
+Thus, in these receptors the agonist directly operates ion channels, without the intervention of any coupling protein or second messenger. The onset and offset of responses through this class of receptors is the fastest (in milliseconds).
+3. Transmembrane enzyme-linked receptors
+This class of receptors are utilized primarily by peptide hormones, and are made up of a large extracellular ligand binding domain connected through a single transmembrane helical peptide chain to an intracellular subunit having enzymatic property. The enzyme at the cytosolic side is generally a protein kinase, but can also be guanylyl cyclase in few cases. The commonest protein kinases are the ones which phosphorylate tyrosine residues on the substrate proteins and are called ‘receptor tyrosine kinases’ (RTKs), see Fig. 4.8. Examples are—insulin, epidermal growth factor (EGF), nerve growth factor (NGF) and many other growth factor receptors. Inhibitors of specific RTKs involved in growth factor signaling are a new class of targeted anticancer drugs. However, the transforming growth factor (TGF) receptor and few others are serine/threonine kinases—which phosphorylate serine/threonine residues of the target proteins. 
+
+
+
+
+
+
+In the unliganded monomeric state, the kinase remains inactive. Hormone binding induces dimerization of receptor molecules, brings about conformation changes which activate the kinase to autophosphorylate tyrosine residues on each other, increasing their affinity for binding substrate proteins which have SH2 domains. These are then phosphorylated and released to carry forward the cascade of phosphorylations leading to the response. 
+A large number of intracellular signaling proteins have SH2 domains. Thus, by controlling phosphorylation of key enzymes, ion channels, transporters, etc. the RTKs are able to regulate diverse cellular functions including metabolic reactions, cell growth and differentiation. One of the SH2 domain enzymes is phospholipase cγ (PLcγ) which is activated by certain RTKs, and which, like PLcβ, generates IP3 and DAG as second messengers for response effectuation. 
+The transmembrane enzyme-linked receptors transduce responses in a matter of few minutes to few hours. 
+Another feature of this class of receptors is that their dimerization also promotes receptor internalization, degradation in lysosomes and down regulation if activation is fast enough. Mutations interfering with such down-regulation contribute to development of certain malignancies.
+In place of protein kinase the enzyme can also be guanylyl cyclase (GC), as in the case of atrial natriuretic peptide (ANP). Agonist activation of the receptor generates cGMP in the cytosol as a second messenger, which in turn activates cGMP-dependent protein kinase (PKG) and modulates cellular activity.
+
+
+
+
+
+4. Transmembrane JAK-STAT binding receptors
+These receptors differ from RTKs in not having any intrinsic catalytic domain. Agonist-induced dimerization alters the intracellular domain conformation to increase its affinity for a cytosolic tyrosine protein kinase JAK (Janus Kinase). On binding, JAK gets activated and phosphorylates tyrosine residues of the receptor, which now bind another free moving protein STAT (signal transducer and activator of transcription). This is also phosphorylated by JAK. Pairs of phosphorylated STAT dimerize and translocate to the nucleus to regulate gene transcription resulting in a biological response. Many cytokines, growth hormone, prolactin, interferons, etc. act through this type of receptor.
+5.Receptors regulating gene expression (Transcription factors, Nuclear receptors) 
+In contrast to the above 4 classes of receptors, these are intracellular (cytoplasmic or nuclear) soluble proteins which respond to lipid soluble chemical messengers that penetrate the cell (Fig. 4.10). The receptor protein (specific for each hormone/regulator) is inherently capable of binding to specific genes, but its attached proteins HSP-90 and may be some others prevent it from adopting the configuration needed for binding to DNA. When the hormone binds near the carboxy terminus of the receptor, the restricting proteins (HSP-90, etc.) are released, the receptor dimerizes and the DNA binding regulatory segment located in the middle of the molecule folds into the functionally active configuration. The liganded receptor dimer moves to the nucleus and binds other co-activator/co-repressor proteins which have a modulatory influence on its capacity to alter gene function. The whole complex then attaches to specific DNA sequences (hormone response elements) of the target genes and facilitates or represses their expression so that specific mRNA is synthesized/repressed on the template of the gene. This mRNA moves to the ribosomes and directs synthesis of specific proteins which regulate activity of the target cells. 
+
+
+All steroidal hormones (glucocorticoids, mineralocorticoids, androgens, estrogens, progesterone), thyroxine, vit D and vit A function in this manner. Different steroidal hormones affect different target cells and produce different effects because each one binds to its own receptor and directs a unique pattern of synthesis of specific proteins. The specificity as to which hormone will be bound is provided by the hormone binding domain, while that as to which gene will be activated or repressed is a function of the DNA binding/N-terminus domain. Different ligands of the same nuclear receptor have been found to induce ligand-specific conformations of the receptor so that different combinations of co-activators and co-repressors may be bound in different target tissues, e.g. selective estrogen receptor modulators (SERMs) tamoxifen and raloxifene have differing patterns of action on various estrogenic target organs. Chimeric receptors have also been produced which respond to one hormone, but produce the effects of the other hormone. 
+This transduction mechanism is the slowest in its time course of action (takes hours) because adequate quantity of the effector protein will have to be produced before the response occurs. The effects also generally out last the signal (hormone), because majority of the generated effector proteins have slow turnover, and persist in the body even after the hormone has been eliminated. 
+Regulation of receptors
+Receptors exist in a dynamic state; their density and efficacy to elicit the response is subject to regulation by the level of on-going activity, feedback from their own signal output and other physiopathological influences, e.g. estrogens increase the density of oxytocin receptors on the myometrium. The sensitivity of uterus to contractile action of oxytocin increases progressively during the third trimester of pregnancy, especially near term. In tonically active systems, prolonged deprivation of the agonist (by denervation or continued use of an antagonist or a drug which reduces input) results in supersensitivity of the receptor as well as the effector system to the agonist. This has clinical relevance in clonidine/CNS depressant/opioid withdrawal syndromes, sudden discontinuation of propranolol in angina pectoris, etc. The mechanisms involved may be unmasking of receptors or their proliferation (up regulation) or accentuation of signal amplification by the transducer.
+
+
+
+
+
+
+Conversely, continued/intense receptor stimulation causes desensitization or refractoriness: the receptor becomes less efficient in transducing response to the agonist. This can be easily demonstrated experimentally (Fig. 4.11); clinical examples are bronchial asthma patients treated continuously with β adrenergic agonists and parkinsonian patients treated with high doses of levodopa gradually become less responsive. The changes may be brought about by:
+
+
+(i) Masking or internalization of the receptor (it becomes inaccessible to the agonist) or impaired coupling of the transducer to the receptor. In this case refractoriness develops as well as fades quickly.
+In the case of β adrenergic receptor, it has been found that high rate of agonist binding promotes phosphorylation of its serine residues near the intracellular carboxy terminus by an enzyme β adrenergic receptor kinase (βARK), allowing it to bind a protein called β-arrestin (β−arr) which hinders its interaction with Gs → receptor transduction is impaired. When the β-agonist is removed, the serine residues are dephosphorylated by cellular phosphatases, and receptor mediated activation of Gs is restored. However, in case of excessive/prolonged activation, the phosphorylated β adrenergic GPCR is internalized and largely moved to the lysosomes, where they are degraded, rather than returning back to the surface membrane. This results in receptor down regulation.
+(ii) Decreased synthesis/increased destruction of the receptor (down regulation): refractoriness develops over weeks or months and recedes slowly. Receptor down regulation is particularly exhibited by the tyrosine kinase receptors and some GPCRs. Similarly, the transducer and effector proteins are also up or down regulated. 
+Some times response to all agonists which act through different receptors but produce the same overt effect (e.g. histamine and acetylcholine both contract intestinal smooth muscle) is decreased by exposure to any one of these agonists (heterologous desensitization), showing that mechanisms of response effectuation have become less efficient. However, often desensitization is limited to agonists of the same receptor that is being repeatedly activated (homologous desensitization).
+Both homologous and heterologous desensitization has been observed in the case of GPCRs. The BARK β-arrestin mechanism described above produces homologous desensitization. The GPCRs transduce many responses by activating PKA and PKC. These kinases phosphorylate many GPCRs rather nonselectively (at a site different from that of BARK) and hinder their interaction with G-proteins, resulting in heterologous desensitization.
+Functions of receptors
+These can be summarized as:
+
+
+
+
+
+(a) To propagate regulatory signals from outside to inside the effector cell when the molecular species carrying the signal cannot itself penetrate the cell membrane.
+(b) To amplify the signal.
+(c) To integrate various extracellular and intracellular regulatory signals.
+(d) To adapt to short term and long term changes in the regulatory melieu and maintain homeostasis.
+Nonreceptor-mediated drug action
+This refers to drugs which do not act by binding to specific regulatory macromolecules. Drug action by purely physical or chemical means, interactions with small molecules or ions (antacids, chelating agents, cholestyramine, etc.), as well as direct interaction with enzymes, ionic channels and transporters has already been described. In addition, there are drugs like alkylating agents which react covalently with several critical biomolecules, especially nucleic acids, and have cytotoxic property useful in the treatment of cancer. Another important class of drugs are the antimetabolites (purine/pyrimidine analogues) which lead to production of nonfunctional or dysfunctional cellular components that exert antineoplastic, antiviral and immunosuppressant activity.
+Dose-response relationship
+When a drug is administered systemically, the dose-response relationship has two components: dose-plasma concentration relationship and plasma concentration-response relationship. The former is determined by pharmacokinetic considerations and ordinarily, descriptions of dose-response relationship refer to the latter, which can be more easily studied in vitro.
+Generally, the intensity of response increases with increase in dose (or more precisely concentration at the receptor), but at higher doses, the increase in response progressively becomes less marked and the dose-response curve is a rectangular hyperbola (Fig. 4.12). This is because drug-receptor interaction obeys law of mass action, which is described by the equation (3) and is applicable to interaction between any two molecules having a given affinity for each other.
+
+
+
+
+
+Where E is the observed effect at a dose [D] of the drug, Emax is the maximal response, KD is the dissociation constant of the drug-receptor complex, which is a measure of the affinity between the two, and is equal to the dose of the drug at which half maximal response is produced. If the dose is plotted on a logarithmic scale, the curve becomes sigmoid and a linear relationship between log of dose and the response is seen in the intermediate (30–70% response) zone, as can be predicted from equation (3). This is not peculiar to drugs. In fact all stimuli are graded biologically by the fractional change in stimulus intensity, e.g. 1 kg and 2 kg weights held in two hands can be easily differentiated, but not 10 kg and 11 kg weights. Though the absolute difference in both cases remains 1 kg, there is a 100% fractional change in the former case but only 10% change in the latter case. In other words, response is proportional to an exponential function (log) of the dose.
+Other advantages of plotting log dose-response curves (DRC) are:
+•A wide range of drug doses can be easily displayed on a graph.
+•Comparison between agonists and study of antagonists becomes easier.
+The log dose-response curve (DRC) can be characterized by its shape (slope and maxima) and position on the dose axis.
+
+
+
+
+
+Drug potency and efficacy
+The position of DRC on the dose axis is the index of drug potency which refers to the amount of drug needed to produce a certain response. A DRC positioned rightward indicates lower potency (Fig. 4.13). Relative potency is often more meaningful than absolute potency, and is generally defined by comparing the dose (concentration) of the two agonists at which they elicit half maximal response (EC50). Thus, if 10 mg of morphine = 100 mg of pethidine as analgesic, morphine is 10 times more potent than pethidine. However, a higher potency, in itself, does not confer clinical superiority unless the potency for therapeutic effect is selectively increased over potency for adverse effect. Drug potency is clearly a factor in choosing the dose of a drug.
+
+
+The upper limit of DRC is the index of drug efficacy and refers to the maximal response that can be elicited by the drug, e.g. morphine produces a degree of analgesia not obtainable with any dose of aspirin—morphine is more efficacious than aspirin. Efficacy is a more decisive factor in the choice of a drug.
+Often the terms ‘drug potency’ and ‘drug efficacy’ are used interchangeably, but these are not synonymous and refer to different characteristics of the drug. The two can vary independently:
+(a) Aspirin is less potent as well as less efficacious analgesic than morphine.
+(b) Pethidine is less potent but equally efficacious analgesic as morphine.
+(c) Furosemide is less potent but more efficacious diuretic than metolazone.
+(d) Diazepam is more potent but less efficacious CNS depressant than pentobarbitone.
+Depending on the type of drug, both higher efficacy (as in the case of furosemide confering utility for mobilizing edema fluid and in renal failure) or lower efficacy (as in the case of diazepam confering safety in over-dose) could be clinically advantageous.
+The slope of the DRC is also important. A steep slope indicates that a moderate increase in dose will markedly increase the response (dose needs individualization), while a flat one implies that little increase in response will occur over a wide dose range (standard doses can be given to most patients). Hydralazine has a steep, while hydrochlorothiazide has a flat DRC of antihypertensive effect (Fig. 4.14).
+
+
+
+
+
+
+
+
+Therapeutic efficacy 
+The ‘therapeutic efficacy’ or ‘clinical effectiveness’ is a composite attribute of a drug different from the foregoing pharmacological description of ‘potency’ and ‘efficacy’. It depends not only on the relative potency and efficacy of the drug, but on many pharmacokinetic and pathophysiological variables as well. It is often expressed in terms of (a) degree of benefit/relief afforded by the drug (in the recommended dose range) i.e. graded dose-response relationship. For example, the degree of relief in parkinsonian symptoms afforded by levodopa-carbidopa is much greater than that possible with trihexyphenidyl: the former has higher therapeutic efficacy than the latter.
+The other method of expressing therapeutic efficacy is in terms of (b) success rate in achieving a defined therapeutic end point, i.e. quantal dose-response relationship, e.g. an antibiotic which cures 95% cases of gonorrhoea is a more efficacious antigonococcal drug than one which cures only 75% patients. Similarly, a drug which makes a higher percentage of epileptic patients totally seizure free than another drug, is the more therapeutically effective antiepileptic. 
+Drug selectivity
+Drugs seldom produce just one action: the DRCs for different effects of a drug may be different. The extent of separation of DRCs of a drug for different effects is a measure of its selectivity, e.g. the DRCs for bronchodilatation and cardiac stimulation (Fig. 4.15) are quite similar in case of isoprenaline, but far apart in case of salbutamol—the latter is a more selective bronchodilator drug.
+The gap between the therapeutic effect DRC and the adverse effect DRC defines the safety margin or the therapeutic index of a drug. In experimental animals, therapeutic index is often calculated as:
+
+
+
+
+
+where: Median effective dose (ED50) is the dose which produces the specified effect in 50% individuals and median lethal dose (LD50) is the dose which kills 50% of the recipients.   
+But this is irrelevant in the clinical set up where the therapeutic range, also called the ‘therapeutic window’ is bounded by the dose which produces minimal therapeutic effect and the dose which produces maximal acceptable adverse effect (Fig. 4.16). Because of individual variability, the effective dose for some subjects may be toxic for others; defining the therapeutic range for many drugs is a challenging task. A drug may be capable of inducing a higher therapeutic response (have higher efficacy) but development of intolerable adverse effects may preclude use of higher doses, e.g. prednisolone in bronchial asthma.
+Risk-benefit ratio This term is very frequently used, and conveys a judgement on the estimated harm (adverse effects, cost, inconvenience) vs expected advantages (relief of symptoms, cure, reduction of complications/mortality, improvement in quality of life). A drug should be prescribed only when the benefits outweigh the risks. However, risk-benefit ratio can hardly ever be accurately measured for each instance of drug use, because ‘risk’ is the probability of harm; and harm has to be qualified by its nature, quantum, time-course (transient to life-long) as well as the value that the particular patient attaches to it. None of these can be precisely ascertained beforehand in an individual patient. As such, the physician has to rely on data from use of drugs in large populations (pharmacoepidemiology) and his own experience of the drug and the patient.
+
+
+
+
+
+
+Drug specificity
+Specificity of a drug refers to the range of actions produced by it. Certain drugs produce just one or a limited number of actions, while others have widespread effects on many organs of the body. Specificity is governed by: 
+(a)whether a drug acts on a single receptor/target or on many targets, and 
+(b)how widely the target is distributed in the body. 
+
+
+Omeprazole (and other proton pump inhibitors) is an example of a highly specific drug. The singular perceptible action in therapeutic doses is inhibition of gastric acid secretion, because it acts only on one target molecule H+K+ ATPase (proton pump) which is localized to the gastric parietal cells. An example of a drug acting on multiple targets is chlorpromazine which has antagonistic action on dopamine D2, α-adrenergic, muscarinic cholinergic, histamine H1 and some 5-HT receptors. It also has Na+ channel blocking action. As a result, it produces a wide range of actions. Another case is dexamethasone which is an agonist only of glucocorticoid receptor, but produces effects involving many organs and tissues, because the glucocorticoid receptor is expressed by practically every cell of the body. Drugs with all grades of specificity are available.  
+DRUG synergism and antagonism
+When two or more drugs are given simultaneously or in quick succession, they may be either indifferent to each other or exhibit synergism or antagonism. The interaction may take place at pharmacokinetic level (see Ch. 2 and 3) or at pharmacodynamic level.
+SYNERGISM (Greek: Syn—together; ergon—work)
+When the action of one drug is facilitated or increased by the other, they are said to be synergistic. In a synergistic pair, both the drugs can have action in the same direction or given alone one may be inactive but still enhance the action of the other when given together. Synergism can be:
+(a) Additive The effect of the two drugs is in the same direction and simply adds up:
+effect of drugs A + B=effect of drug A + effect of drug B
+
+
+
+
+
+
+Additive drug combinations
+
+
+
+
+Aspirin + paracetamol
+
+
+as analgesic/antipyretic
+
+
+
+
+Nitrous oxide + halothane
+
+
+as general anaesthetic
+
+
+
+
+Amlodipine + atenolol
+
+
+as antihypertensive
+
+
+
+
+Glibenclamide + metformin
+
+
+as hypoglycaemic
+
+
+
+
+Ephedrine + theophylline
+
+
+as bronchodilator
+
+
+
+
+
+
+
+
+
+
+
+Side effects of the components of an additive pair may be different—do not add up. Thus, the combination is better tolerated than higher dose of one component.
+(b) Supraadditive (potentiation) The effect of combination is greater than the individual effects of the components:
+effect of drug A + B > effect of drug A + \effect of drug B
+This is always the case when one component given alone produces no effect, but enhances the effect of the other (potentiation). Examples are given in the box. Additive synergism and potentiation are depicted diagrammatically in Fig. 4.17. 
+
+
+Supraadditive drug combinations
+
+
+
+
+Drug pair
+
+
+Basis of potentiation
+
+
+
+
+Acetylcholine + 
+
+
+Inhibition of break 
+
+
+
+
+physostigmine 
+
+
+down
+
+
+
+
+Levodopa + carbidopa/
+
+
+Inhibition of peripheral
+
+
+
+
+benserazide 
+
+
+metabolism
+
+
+
+
+Adrenaline + cocaine/
+desipramine 
+
+
+Inhibition of 
+neuronal uptake
+
+
+
+
+Sulfamethoxazole + 
+trimethoprim 
+
+
+Sequential blockade
+
+
+
+
+Antihypertensives (enalapril+ hydrochlorothiazide)
+
+
+Tackling two contributory factors
+
+
+
+
+Tyramine + MAO 
+inhibitors
+
+
+Increasing releaseable 
+CA store
+
+
+
+
+
+
+
+ANTAGONISM
+When one drug decreases or abolishes the action of another, they are said to be antagonistic:
+effect of drugs A + B < effect of drug A + effect of drug B
+
+
+Usually in an antagonistic pair one drug is inactive as such but decreases the effect of the other. Depending on the mechanism involved, antagonism may be:
+(a) Physical antagonism
+Based on the physical property of the drugs, e.g. charcoal adsorbs alkaloids and can prevent their absorption—used in alkaloidal poisonings.
+(b) Chemical antagonism
+The two drugs react chemically and form an inactive product, e.g.
+•KMnO4 oxidizes alkaloids—used for gastric lavage in poisoning.
+•Tannins + alkaloids—insoluble alkaloidal tannate is formed.
+•Chelating agents (BAL, Cal. disod. edetate) complex toxic metals (As, Pb).
+•Nitrites form methaemoglobin which reacts with cyanide radical.
+
+
+Drugs may react when mixed in the same syringe or infusion bottle:
+•Thiopentone sod. + succinylcholine chloride
+•Penicillin-G sod. + succinylcholine chloride
+•Heparin + penicillin/tetracyclines/streptomycin/hydrocortisone
+(c) Physiological/functional antagonism   
+The two drugs act on different receptors or by different mechanisms, but have opposite overt effects on the same physiological function, i.e. have pharmacological effects in opposite direction, e.g.
+•Histamine and adrenaline on bronchial muscles and on BP.
+•Hydrochlorothiazide and amiloride on  urinary K+ excretion.
+•Glucagon and insulin on blood sugar level.
+(d) Receptor antagonism 
+One drug (antagonist) blocks the receptor action of the other (agonist). This is a very important mechanism of drug action, because physiological signal molecules act through their receptors, blockade of which can produce specific and often profound pharmacological effects. Receptor antagonists are selective (relatively), i.e. an anticholinergic will oppose contraction of intestinal smooth muscle induced by cholinergic agonists, but not that induced by histamine or 5-HT (they act through a different set of receptors). Receptor antagonism can be competitive or noncompetitive.
+Competitive antagonism (equilibrium type) The antagonist is chemically similar to the agonist, competes with it (Fig. 4.18 A, D) and binds to the same site to the exclusion of the agonist molecules. Because the antagonist has affinity but no intrinsic activity (see p. 50), no response is produced and the log DRC of the agonist is shifted to the right. Since antagonist binding is reversible and depends on the relative concentration of the agonist and antagonist molecules, higher concentration of the agonist progressively overcomes the block—a parallel shift of the agonist DRC with no suppression of maximal response is obtained (Fig. 4.19a). The extent of shift is dependent on the affinity and concentration of the antagonist.
+
+
+A partial agonist (Fig. 4.18 C), having affinity for the same receptor, also competes with and antagonizes a full agonist, while producing a submaximal response of its own.
+
+
+
+
+
+
+
+
+
+Noncompetitive antagonism The antagonist is chemically unrelated to the agonist, binds to a different allosteric site altering the receptor in such a way that it is unable to combine with the agonist (Fig. 4.18E), or is unable to transduce the response, so that the downstream chain of events are uncoupled. This is also called allosteric antagonism. Because the agonist and the antagonist are combining with different sites, there is no competition between them—even high agonist concentration is unable to reverse the block completely. Increasing concentrations of the antagonist progressively flatten the agonist DRC (Fig. 4.19b). Noncompetitive antagonists have been produced experimentally, but are not in clinical use.
+
+
+Nonequilibrium  antagonism Certain antagonists bind to the receptor with strong (covalent) bonds or dissociate from it slowly (due to very high affinity) so that agonist molecules are unable to reduce receptor occupancy of the antagonist molecules—law of mass action cannot apply—an irreversible or nonequilibrium antagonism is produced. The agonist DRC is shifted to the right and the maximal response is lowered (if spare receptors are few). Since in this situation the agonist molecules are not able to compete with the antagonist molecules and flattening of agonist DRC is a feature of noncompetitive antagonism;  nonequilibrium antagonism has also been called ‘a type of noncompetitive antagonism’. Phenoxybenzamine is a nonequilibrium antagonist of adrenaline at the α adrenergic receptors.
+
+
+
+Competitive  (equilibrium type)Noncompetitive
+
+
+
+
+1. Antagonist binds with the same receptor as the agonist
+
+
+Binds to another site of receptor
+
+
+
+
+2. Antagonist resembles chemically with the agonist
+
+
+Does not resemble
+
+
+
+
+3. Parallel rightward shift of agonist DRC
+
+
+Flattening of agonist DRC
+
+
+
+
+4. The same maximal response can be attained by increasing dose of agonist (surmountable antagonism)
+
+
+Maximal response is suppressed (unsurmountable antagonism)
+
+
+
+
+5. Intensity of response depends on the concentration of both agonist and antagonist
+
+
+Maximal response depends only on the concentration of antagonist
+
+
+
+
+6. Examples: ACh—Atropine Morphine—Naloxone
+
+
+Diazepam—Bicuculline
+
+
+
+
+
+
+
+
+Features of competitive and noncompetitive antagonism are compared on previous page.

@@ -1,0 +1,986 @@
+Prelims__Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Jaypee Brothers Medical Publishers (P) Ltd
+Headquarters
+Jaypee Brothers Medical Publishers (P) Ltd
+4838/24, Ansari Road, Daryaganj
+New Delhi 110 002, India
+Phone: +91-11-43574357
+Fax: +91-11-43574314
+Email: jaypee@jaypeebrothers.com
+Overseas Offices
+
+
+
+
+J.P. Medical Ltd
+
+
+Jaypee-Highlights Medical Publishers Inc
+
+
+
+
+83 Victoria Street, London
+
+
+City of Knowledge, Bld. 235, 2nd Floor, Clayton
+
+
+
+
+SW1H 0HW (UK)
+
+
+Panama City, Panama
+
+
+
+
+Phone: +44 20 3170 8910
+
+
+Phone: +1 507-301-0496
+
+
+
+
+Fax: +44 (0)20 3008 6180
+
+
+Fax: +1 507-301-0499
+
+
+
+
+Email: info@jpmedpub.com
+
+
+Email: cservice@jphmedical.com
+
+
+
+
+Jaypee Brothers Medical Publishers (P) Ltd
+
+
+Jaypee Brothers Medical Publishers (P) Ltd
+
+
+
+
+17/1-B Babar Road, Block-B, Shyamoli
+
+
+Bhotahity, Kathmandu, Nepal
+
+
+
+
+Mohammadpur, Dhaka-1207
+
+
+Phone: +977-9741283608
+
+
+
+
+Bangladesh
+
+
+Email: kathmandu@jaypeebrothers.com
+
+
+
+
+
+Mobile: +08801912003485
+Email: jaypeedhaka@gmail.com
+Website: www.jaypeebrothers.com
+Website: www.jaypeedigital.com
+© 2019, KD Tripathi
+Managing Editor: M. Tripathi
+The views and opinions expressed in this book are solely those of the original contributor(s)/author(s) and do not necessarily represent those of editor(s) of the book.
+All rights reserved. No part of this publication may be reproduced, stored or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior permission in writing of the publishers. 
+All brand names and product names used in this book are trade names, service marks, trademarks or registered trademarks of their respective owners. The publisher is not associated with any product or vendor mentioned in this book.
+Medical knowledge and practice change constantly. This book is designed to provide accurate, authoritative information about the subject matter in question. However, readers are advised to check the most current information available on procedures included and check information from the manufacturer of each product to be administered, to verify the recommended dose, formula, method and duration of administration, adverse effects and contraindications. It is the responsibility of the practitioner to take all appropriate safety precautions. Neither the publisher nor the author(s)/editor(s) assume any liability for any injury and/or damage to persons or property arising from or related to use of material in this book.
+This book is sold on the understanding that the publisher is not engaged in providing professional medical services. If such advice or services are required, the services of a competent medical professional should be sought.
+Every effort has been made where necessary to contact holders of copyright to obtain permission to reproduce copyright material. If any have been inadvertently overlooked, the publisher will be pleased to make the necessary arrangements at the first opportunity. The CD/DVD-ROM (if any) provided in the sealed envelope with this book is complimentary and free of cost. Not meant for sale.
+Inquiries for bulk sales may be solicited at: jaypee@jaypeebrothers.com
+Essentials of Medical Pharmacology
+First Edition:1985Second Edition:1988Third Edition:1994Fourth Edition:1999, Updated Reprint: 2001Fifth Edition:2003Sixth Edition:2008Seventh Edition:2013 Reprint:2014
+Eighth Edition:2019Revised and Updated Reprint: 2021, 2023
+ISBN: 978-93-5696-432-7Printed at
+
+
+
+
+
+
+Medical pharmacology is a unique blend of basic pharmacology, clinical pharmacology and pharmacotherapeutics. The subject is highly dynamic with concepts and priority drugs changing rapidly. Innovations and developments are happening at an unprecedented pace. Several new molecular targets for drug action have been identified and novel drugs produced to attack them. On the other hand, a huge body of evidence has been generated to quantify impact of various drugs and regimens on well defined therapeutic end points, so that practice of medicine is transforming from ‘impression based’ to ‘evidence based’. The present edition focuses on evidence based medicine by referring to numerous large randomized trials and other studies which have shaped current therapeutic practices. By evaluating such evidences, professional bodies, eminent health institutes, expert committees and WHO have formulated therapeutic guidelines for treating many conditions, as well as for use of specific drugs. The latest guidelines have been summarized and included in the present edition along with other developments and the core content.
+Adopting the ‘prototype drug’ approach and a structured, systematic and user-friendly format, all chapters have been thoroughly revised and updated. In this edition, drug classifications have been presented as eye-catching charts which help create pictorial memory. A new chapter on ‘Nitric Oxide and Vasoactive Peptide Signal Molecules’ has been added along with some recently introduced drugs which act through receptors for these molecules or by altering their turnover.
+Priority has been accorded to drugs that are marketed in India, and their leading brand names are mentioned along with dosage forms. All recently released drugs are included, while those not commercially available or infrequently used have been excluded or described in small type.
+India specific information on drugs and diseases finds a place in relevant topics. Treatment of diseases like TB, leprosy, HIV-AIDS, malaria, Kala-azar which are covered under WHO and National Health Programmes are described as per the latest recommendations of these organizations. Several new figures, charts, tables and highlight boxes have been added and many older ones have been revised/improved. The recent material and data has been authenticated by quoting its source. A brief list of useful references for further reading is provided at the end of the book. The ‘Problem directed study’ at the end of most chapters provides an exercise in therapeutic decision making.
+I thank my colleagues and students for providing valuable inputs and raising thoughtful queries. As ever, the driving force behind this book has been Shri Jitendar P Vij (Group Chairman) and Mr Ankit Vij (Managing Director) of M/s Jaypee Brothers Medical Publishers (P) Ltd, New Delhi, India. The staff of Jaypee Brothers, especially Ms Sunita Katla (Executive Assistant to Group Chairman and Publishing Manager), Ms Geeta Srivastava (Proof Reader), Mr Manoj Pahuja (Graphic Designer) and Mr Kapil Dev Sharma (DTP Operator) deserve special commendation for excellent production of this text. Cooperation and participation of my wife has been pivotal.
+KD Tripathi
+New Delhi
+June 2018
+
+
+
+
+
+
+Pharmacology is both a basic and an applied science. It forms the backbone of rational therapeutics. Whereas the medical student and the prescribing physician are primarily concerned with the applied aspects, correct and skilful application of drugs is impossible without a proper understanding of their basic pharmacology. Medical pharmacology, therefore, must include both fundamental background and clinical pharmacological information. Objective and quantitative data on the use of drugs in man, i.e., relationship between plasma concentration and intensity of therapeutic/toxic actions, plasma half lives, relative efficacy of different medications and incidence of adverse effects etc., are being obtained with the aim of optimising drug therapy. The concepts regarding mechanism of action of drugs are changing. In addition, new drugs are being introduced in different countries at an explosive pace. A plethora of information thus appears to be important. However, trying to impart all this to a medical student would be counter-productive.
+One of the important aims of this book is to delineate the essential information about drugs. The opening sentence in each chapter defines the class of drugs considered. A ‘prototype’ approach has been followed by describing the representative drug of a class followed by features by which individual members differ from it. Leading trade names have been included. Clinically relevant drug interactions have been mentioned. Clear-cut guidelines on selection of drugs and their clinical status have been outlined on the basis of current information. Original, simple and self-explanatory illustrations, tables and flowcharts have been used with impunity. Selected chemical structures are depicted. Recent developments have been incorporated. However, discretion has been used in including only few of the multitude of new drugs not yet available in India. This is based on their likelihood of being marketed soon. The information and views have been arranged in an orderly sequence of distinct statements.
+I hope this manageable volume book would serve to dispel awe towards pharmacology from the minds of medical students and provide a concise and uptodate information source for prescribers who wish to remain informed of the current concepts and developments concerning drugs.
+My sincere thanks are due to my colleagues for their valuable comments and suggestions.
+KD Tripathi
+New Delhi
+1st Jan., 1985
+
+
+
+
+
+
+Section 1
+General Pharmacological Principles
+1.Introduction, Routes of Drug Administration
+2.Pharmacokinetics: Membrane Transport, Absorption and Distribution of Drugs
+3.Pharmacokinetics: Metabolism and Excretion of Drugs, Kinetics of Elimination
+4.Pharmacodynamics: Mechanism of Drug Action; Receptor Pharmacology
+5.Aspects of Pharmacotherapy, Clinical Pharmacology and Drug Development
+6.Adverse Drug Effects
+Section 2
+Drugs Acting on Autonomic Nervous System
+Autonomic Nervous System: General Considerations
+7.Cholinergic Transmission and Cholinergic Drugs
+8.Anticholinergic Drugs and Drugs Acting on Autonomic Ganglia
+9.Adrenergic Transmission and Adrenergic Drugs
+10.Antiadrenergic Drugs (Adrenergic Receptor Antagonists) and Drugs for Glaucoma
+Section 3
+Autacoids and Related Drugs
+11.Histamine and Antihistaminics
+12.5-Hydroxytryptamine, its Antagonists and Drug Therapy of Migraine
+13.Prostaglandins, Leukotrienes (Eicosanoids) and Platelet Activating Factor
+14.Nonsteroidal Antiinflammatory Drugs and Antipyretic-Analgesics
+15.Antirheumatoid and Antigout Drugs
+Section 4
+Respiratory System Drugs
+16.Drugs for Cough and Bronchial Asthma
+
+
+Section 5
+Hormones and Related Drugs
+Introduction
+17.Anterior Pituitary Hormones
+18.Thyroid Hormones and Thyroid Inhibitors
+19.Insulin, Oral Antidiabetic Drugs and Glucagon
+20.Corticosteroids
+21.Androgens and Related Drugs, Drugs for Erectile Dysfunction
+22.Estrogens, Progestins and Contraceptives
+23.Oxytocin and Other Drugs Acting on Uterus
+24.Hormones and Drugs Affecting Calcium Balance
+Section 6
+Drugs Acting on Peripheral (Somatic) Nervous System
+25.Skeletal Muscle Relaxants
+26.Local Anaesthetics
+Section 7
+Drugs Acting on Central Nervous System
+27.General Anaesthetics
+28.Ethyl and Methyl Alcohols
+29.Sedative-Hypnotics
+30.Antiepileptic Drugs
+31.Antiparkinsonian Drugs
+32.Drugs Used in Mental Illness: Antipsychotic and Antimanic Drugs
+33.Drugs Used in Mental Illness: Antidepressant and Antianxiety Drugs
+34.Opioid Analgesics and Antagonists
+35.CNS Stimulants and Cognition Enhancers
+Section 8
+Cardiovascular Drugs
+Cardiac Electrophysiological Considerations
+36.Drugs Affecting Renin-Angiotensin System
+37.Nitric Oxide and Vasoactive Peptide Signal Molecules
+
+
+38.Cardiac Glycosides and Drugs for Heart Failure
+39.Antiarrhythmic Drugs
+40.Antianginal and Other Anti-ischaemic Drugs
+41.Antihypertensive Drugs
+Section 9
+Drugs Acting on Kidney
+Relevant Physiology of Urine Formation
+42.Diuretics
+43.Antidiuretics
+Section 10
+Drugs Affecting Blood and Blood Formation
+44.Haematinics and Erythropoietin
+45.Drugs Affecting Coagulation, Bleeding and Thrombosis
+46.Hypolipidaemic Drugs
+Section 11
+Gastrointestinal Drugs
+47.Drugs for Peptic Ulcer and Gastroesophageal Reflux Disease
+48.Antiemetic, Prokinetic and Digestant Drugs
+49.Drugs for Constipation and Diarrhoea
+Section 12
+Antimicrobial Drugs
+50.Antimicrobial Drugs: General Considerations
+51.Sulfonamides, Cotrimoxazole and Quinolones
+52.Beta-Lactam Antibiotics
+53.Tetracyclines and Chloramphenicol (Broad-Spectrum Antibiotics)
+54.Aminoglycoside Antibiotics
+55.Macrolide, Lincosamide, Glycopeptide and Other Antibacterial Antibiotics; Urinary Antiseptics
+56.Antitubercular Drugs
+57.Antileprotic Drugs
+
+
+58.Antifungal Drugs
+59.Antiviral Drugs (Non-retroviral)
+60.Antiviral Drugs (Anti-retrovirus)
+61.Antimalarial Drugs
+62.Antiamoebic and Other Antiprotozoal Drugs
+63.Anthelmintic Drugs
+Section 13
+Chemotherapy of Neoplastic Diseases
+64.Anticancer Drugs
+Section 14
+Miscellaneous Drugs
+65.Immunosuppressant Drugs
+66.Drugs Acting on Skin and Mucous Membranes
+67.Antiseptics, Disinfectants and Ectoparasiticides
+68.Chelating Agents
+69.Vitamins
+70.Vaccines, Antisera and Immuneglobulins
+71.Drug Interactions
+Appendices
+Appendix 1: Solution to Problem Directed Study
+Appendix 2: Prescribing in Pregnancy
+Appendix 3: Drugs in Breastfeeding
+Appendix 4: Drugs and Fixed Dose Combinations Banned in India
+Selected References for Further Reading
+Additional Competency Topics
+
+•Prescription Writing
+•P-Drugs
+•Drugs used for Criminal Offences
+•Drug Deaddiction
+•Plasma Expanders
+•Colony Stimulating Factors
+•Antibiotic Stewardship Program
+•Pesticides
+•Insect Repellents
+•Pollutants
+•Food Adulterants
+•Management of Common Poisonings, Bites and Stings
+•National Health Programs
+•Over-the-Counter Drugs
+•Herbal Medicines
+•Pharmacoeconomics
+•Dietary Supplements and Nutraceuticals
+•Drug Regulations, Acts and other Legal Aspects
+•Good Clinical Practice (GCP)
+
+Index
+
+
+
+
+
+
+AAAmino acid
+AbAntibody
+ABCATP-binding cassette (transporter)
+ABLCAmphotericin B lipid complex
+ACAdenylyl cyclase
+ACEAngiotensin II converting enzyme
+AChAcetylcholine
+AChEAcetylcholinesterase
+ACSAcute coronary syndromes
+ACTArtemisinin-based combination therapy
+ACTHAdrenocorticotropic hormone
+ADAlzheimer’s disease
+ADCCAntibody-dependent cellular cytotoxicity
+ADEAdverse drug event
+ADHAntidiuretic hormone
+ADHDAttention deficit hyperactivity disorder
+ADPAdenosine diphosphate
+AdrAdrenaline
+ADRAdverse drug reaction
+ADSAnti diphtheritic serum
+AESAtrial extrasystole
+AFAtrial fibrillation
+AFlAtrial flutter
+AGAntigen
+AGSAntigasgangrene serum
+AHGAntihaemophilic globulin
+AIAromatase inhibitor
+AIDSAcquired immunodeficiency syndrome
+AIPAldosterone induced protein
+ALAAlanine
+ALSAmyotrophic lateral sclerosis
+AmAmikacin
+AMAAntimicrobial agent
+AMBAmphotericin B
+ampAmpoule
+AMPAdenosine mono phosphate
+AMPAα-Aminohydroxy methylisoxazole 
+propionic acid
+ANCAcid neutralizing capacity
+Ang-I/II/IIIAngiotensin I/II/III
+ANPAtrial natriuretic peptide
+ANSAutonomic nervous system
+ANUGAcute necrotizing ulcerative gingivitis
+APAction potential
+AP-1Activator protein-1
+APCAntigen presenting cell
+APDAction potential duration
+aPTTActivated partial thromboplastin time
+AQAmodiaquine
+ARAndrogen receptor
+
+
+ARBAngiotensin receptor blocker
+ARCAIDS related complex
+ARSAnti rabies serum
+ARTAntiretrovirus therapy
+ARVAntiretrovirus (drug)
+ASArtesunate
+5-ASA5-Amino salicyclic acid
+ASCVDAtherosclerotic cardiovascular disease
+AT-IIIAntithrombin III
+ATGAntithymocyte globulin
+ATPAdenosine triphosphate
+ATPaseAdenosine triphosphatase
+ATPIIIAdult treatment panel III
+ATSAntitetanic serum
+AUCArea under the plasma concentration-time 
+curve
+A-VAtrioventricular
+AVPArginine vasopressin
+AZTZidovudine
+
+BALBritish anti lewisite
+BANBritish approved name
+BBBorderline leprosy
+BBBBlood-brain barrier
+BCGBacillus Calmette Guérin
+BCNUBischloroethyl nitrosourea (Carmustine)
+BCRPBreast cancer resistance protein
+BDTwice daily 
+β-ARKβ adrenergic receptor kinase
+BHCBenzene hexachloride
+BHPBenign hypertrophy of prostate
+BIBacillary index
+BLBorderline lepromatous leprosy
+BMDBone mineral density
+BMRBasal metabolic rate
+BNPBrain nartriuretic peptide
+BOL2-Bromolysergic acid diethylamide
+BPBlood pressure
+BPNBisphosphonate
+BSABody surface area
+BTBorderline tuberculoid leprosy
+BuChEButyryl cholinesterase
+BWBody weight
+BZDBenzodiazepine
+
+C-10Decamethonium
+CACatecholamine
+CABCombined androgen blockade
+CaBPCalcium binding protein
+CADCoronary artery disease
+
+
+CAMCalmodulin
+cAMP3’, 5’ Cyclic adenosine monophosphate
+CAPCommunity acquired pneumonia
+capCapsule
+CAseCarbonic anhydrase
+CATComputerized axial tomography
+CBFCerebral blood flow
+CBGCortisol binding globulin
+CBSColloidal bismuth subcitrate
+CCBCalcium channel blocker
+CCNUChloroethyl cyclohexyl nitrosourea 
+(lomustine)
+CCR5Chemokine coreceptor 5
+CDCollecting duct/Cluster of differentiation
+CDCComplement dependent cytotoxicity
+CFTRCystic fibrosis transport regulator
+cGMP3’, 5’ Cyclic guanosine monophosphate
+CGRPCalcitonin gene related peptide
+CHCholesterol
+ChECholinesterase
+CHECholesterol ester
+CHFCongestive heart failure
+ChyChylomicron
+Chy. rem.Chylomicron remnants
+CICardiac index
+CINVChemotherapy induced nausea and vomiting
+CKDChronic kidney disease
+CLClearance
+CLcrCreatinine clearance
+CmCapreomycin
+CMICell mediated immunity
+CMVCytomegalovirus
+CNSCentral nervous system
+c.o.Cardiac output
+CoEn-ACoenzyme-A
+COMTCatechol-O-methyl transferase
+COXCyclooxygenase
+c.p.s.Cycles per second
+CPSComplex partial seizures
+CPZChlorpromazine
+CQChloroquine
+CRABPCellular retinoic acid binding protein
+CRBPCellular retinol binding protein
+CrDCrohn’s disease
+CREBCyclic AMP response element binding protein
+CRFCorticotropin releasing factor
+CSCycloserine
+CSFCerebrospinal fluid
+CTLCytotoxic T-lymphocytes
+CTZChemoreceptor trigger zone
+CVCardiovascular
+CVPCentral venous pressure
+CVSCardiovascular system
+CWDCell wall deficient
+CYP450Cytochrome P450
+
+
+
+DADopamine
+DA-B12Deoxyadenosyl cobalamin
+DADDelayed after-depolarization
+DAGDiacyl glycerol
+DAMDiacetyl monoxime
+DAMPDiphenyl acetoxy-N-methyl piperidine 
+methiodide
+DATDopamine transporter
+dDAVPDesmopressin
+DDSDiamino diphenyl sulfone (Dapsone)
+DDTDichloro diphenyl trichloroethane
+DECDiethyl carbamazine citrate
+DHADihydroartemisinin
+DHEDihydroergotamine
+DHFADihydro folic acid
+DHFRaseDihydrofolate reductase
+DHPDihydropyridine
+DHTDihydrotestosterone
+DIDiabetes insipidus
+DITDiiodotyrosine
+dlDecilitre
+DLEDisseminated lupus erythematosus
+DMADimethoxy amphetamine
+DMARDDisease modifying antirheumatic drug
+DMCMDimethoxyethyl-carbomethoxy-β-carboline 
+DMPADepot medroxyprogesterone acetate
+DMPPDimethyl phenyl piperazinium
+DMTDimethyl tryptamine/Divalent metal transporter
+DNADeoxyribose nucleic acid
+DOCDeoxycholate
+DOCADesoxy corticosterone acetate
+DOMDimethoxymethyl amphetamine
+dopaDihydroxyphenyl alanine
+DOPAC3, 4, Dihydroxyphenyl acetic acid
+DOSSDioctyl sulfosuccinate
+DOTSDirectly observed treatment short course
+DPDDihydropyrimidine dehydrogenase
+DPP-4Dipeptidyl peptidase-4
+DPTDiphtheria-pertussis-tetanus triple antigen
+DRCDose-response curve
+DRIDirect renin inhibitor
+DSTDrug sensitivity testing (for TB)
+DTDistal tubule
+DT-DADiphtheria-tetanus double antigen
+d-TCd-Tubocurarine
+DTICDacarbazine
+DTPADiethylene triamine pentaacetic acid
+DVTDeep vein thrombosis
+DYNDynorphin
+
+EEthambutol
+EACAEpsilon amino caproic acid
+EADEarly after-depolarization
+ECEEndothelin converting enzyme
+e.c.f.Extracellular fluid
+ECGElectrocardiogram
+ECTElectroconvulsive therapy
+EDErectile dysfunction
+
+
+
+
+
+EDRFEndothelium dependent relaxing factor
+EDTAEthylene diamine tetraacetic acid
+EEGElectroencephalogram
+EFEjection fraction
+EGFEpidermal growth factor
+ELAM-1Endothelial leukocyte adhesion molecule-1
+β-ENDβ-Endorphin
+eNOSEndothelial nitric oxide synthase
+ENSEnteric nervous system
+ENTExtraneuronal amine transporter
+EPACcAMP regulated guanine nucleotide 
+exchange factors
+EPECEnteropathogenic E. coli
+EPOErythropoietin
+EPPEnd plate potential
+EPSPExcitatory postsynaptic potential
+EREstrogen receptor
+ERAEndothelin receptor antagonist
+ERPEffective refractory period
+ESExtrasystole
+ESRErythrocyte sedimentation rate
+ETEndothelin
+ETECEnterotoxigenic E. coli
+EtoEthionamide
+FAFolic acid 
+FADFlavin adenine dinucleotide
+5-FC5-Flucytosine
+FDCFixed dose combination
+FDTFixed duration therapy (of leprosy)
+FEV1Forced expiratory volume in 1 second
+FFAFree fatty acid
+FKBPFK 506 (tacrolimus) binding protein
+FLAPFive-lipoxygenase activating protein
+FMNFavin mononucleotide
+FPFerroportin
+FQFluoroquinolone
+FRaseFolate reductase
+FSHFollicle stimulating hormone
+5-FU5-Fluorouracil
+GGenetic
+GABAGamma amino butyric acid
+GATGABA-transporter
+GCGuanylyl cyclase
+GCPGood clinical practice
+G-CSFGranulocyte colony stimulating factor
+GDPGuanosine diphosphate
+GERDGastroesophageal reflux disease
+g.f.Glomerular filtration
+g.f.r.Glomerular filtration rate
+GHGrowth hormone
+GHRHGrowth hormone releasing hormone
+GHRIHGrowth hormone release inhibitory hormone
+GIPGastric inhibitory peptide/Glucose-
+dependent insulinotropic polypeptide
+g.i.t.Gastrointestinal tract
+GITSGastrointestinal therapeutic system
+
+
+GLPGlucagon-like peptide
+GLUTGlucose transporter
+GM-CSFGranulocyte macrophage colony 
+stimulating factor
+GnRHGonadotropin releasing hormone
+GPCRG-protein coupled receptor
+G-6-PDGlucose-6-phosphate dehydrogenase
+GPIGlobus pallidus interna
+GSTGlutathione-S-transferase
+GTCSGeneralised tonic-clonic seizures
+GTNGlyceryl trinitrate
+GTPGuanosine triphosphate
+
+HIsoniazid (Isonicotinic acid hydrazide)
+HAPHospital acquired pneumonia
+HbHaemoglobin
+HBVHepatitis B virus 
+HCGHuman chorionic gonadotropin
+HCVHepatitis C virus
+HDCVHuman diploid cell vaccine
+HDLHigh density lipoprotein
+HETEHydroxyeicosa tetraenoic acid
+5-HIAA5-Hydroxyindole acetic acid
+HIVHuman immunodeficiency virus
+HLAHuman leucocyte antigen
+HMG-CoAHydroxymethyl glutaryl coenzyme A
+HMWHigh molecular weight
+HPA axisHypothalamo-pituitary-adrenal axis
+HPETEHydroperoxy eicosatetraenoic acid
+hrHour
+HRHeart rate
+HRIGHuman rabies immuneglobulin
+HRTHormone replacement therapy
+5-HT5-Hydroxytryptamine
+5-HTP5-Hydroxytryptophan
+HVAHomovanillic acid
+
+IIndeterminate leprosy
+IAPIslet amyloid polypeptide
+IBDInflammatory bowel disease
+IBSIrritable bowel syndrome
+ICAM-1Intracellular adhesion molecule-1
+ICSHInterstitial cell stimulating hormone
+i.d.Intradermal (injection)
+IDLIntermediate density lipoprotein
+IFNInterferon
+IGImmuneglobulin
+IGFInsulin-like growth factor
+ILInterleukin
+ILEUIsoleucine
+i.m.Intramuscular
+INHIsonicotinic acid hydrazide
+INRInternational normalized ratio
+i.o.t.Intraocular tension
+IP3Inositol trisphosphate
+IP4Inositol tetrakisphosphate
+IPSPInhibitory postsynaptic potential
+
+
+IPVInactivated poliomyelitis vaccine
+IRSInsulin response substrate
+ISAIntrinsic sympathomimetic activity
+ISHIsolated systolic hypertension
+IUInternational unit
+IUCDIntrauterine contraceptive device
+i.v.Intravenous
+JAKJanus-kinase
+KmKanamycin
+KTZKetoconazole
+LALocal anaesthetic
+LCATLecithin cholesterol acyl transferase
+LC3-KATLong chain 3-ketoacyl-CoA-thiolase
+LDLLow density lipoprotein
+LESLower esophageal sphincter
+leu-ENKLeucine enkephalin
+LHLuteinizing hormone
+liqLiquid
+LLLepromatous leprosy
+LMWLow molecular weight
+LOXLipoxygenase
+LSDLysergic acid diethylamide
+LTLeukotriene
+LVFLeft ventricular failure
+
+MAbsMonoclonal antibodies
+MACMinimal alveolar concentration
+MACMycobacterium avium complex
+MAOMonoamine oxidase
+MAPMuscle action potential
+MAPKinaseMitogen activated protein kinase
+maxMaximum
+MBCMinimum bactericidal concentration
+MBLMultibacillary leprosy
+MCIMild cognitive impairment
+MDIManic depressive illness
+MDMAMethylene dioxy methamphetamine
+MDRMultidrug resistant
+MDTMultidrug therapy (of leprosy)
+met-ENKMethionine enkephalin
+mEqmilliequivalent
+methyl B12Methyl cobalamin
+MfMicrofilariae
+MFMultifactorial
+MHCMajor histocompatibility complex
+MHTMethylene dioxy methamphetamine
+MIMyocardial infarction
+MICMinimal inhibitory concentration
+MIFMigration inhibitory factor
+minMinimum
+MITMonoiodo tyrosine
+MLCKMyosin light chain kinase
+MMFMycophenolate mofetil
+6-MP6-Mercaptopurine
+MPPTMethylprednisolone pulse therapy
+MPTP4-methyl-4-phenyltetrahydro pyridine
+MQMefloquine
+
+
+MRP2Multidrug resistance associated protein-2
+MRSAMethicillin resistant Staphylococcus aureus
+MSHMelanocyte stimulating hormone
+mTORMammalian target of rapamycin
+MtxMethotrexate
+mVmillivolt
+MWMolecular weight
+
+NANoradrenaline
+NABQIN-acetyl-p-benzoquinoneimine
+NADPNicotinamide adenine dinucleotide phosphate
+NADPHReduced nicotinamide adenine dinucleotide 
+phosphate
+NAGN-acetyl glucosamine
+NAMN-acetyl muramic acid
+NANCNonadrenergic noncholinergic
+NAPAN-acetyl procainamide
+NaSSANoradrenergic and specific serotonergic 
+antidepressant
+NATN-acetyl transferase
+NCEPNational cholesterol education programme
+NEENorethindrone enanthate
+NEPNeutral endopeptidase (Neprolysin)
+NETNorepinephrine transporter
+NFATNuclear factor of activated T-cell
+NFκBNuclear factor κB
+NICENational Institute for Health and Care excellence (UK)
+NISNa+ (sodium)-iodide symporter
+NLEPNational leprosy eradication programme
+NMDAN-methyl-D-aspartate
+nNOSNeural nitric oxide synthase
+NNRTINonnucleoside reverse transcriptase 
+inhibitor 
+NPYNeuropeptide-Y
+NRNicotinic receptor
+N-REMNon rapid eye movement (sleep)
+NRTINucleoside reverse transcriptase inhibitor
+NSAIDNonsteroidal antiinflammatory drug
+NSTEMINon ST-segment elevation myocardial 
+infarction
+NTSNucleus tractus solitarius
+NVBDCPNational vector borne diseases control 
+programme
+NYHANew York Heart Association
+
+OATOrganic anion transporter
+OATPOrganic anion transporting polypeptide
+OCOral contraceptive
+OCDObsessive-compulsive disorder
+OCTOrganic cation transporter
+ODOnce daily
+OPGOsteoprotegerin
+OPVOral poliomyelitis vaccine
+ORSOral rehydration salt (solution)
+ORTOral rehydration therapy
+
+PABAParaamino benzoic acid
+PAEPost antibiotic effect
+PAFPlatelet activating factor
+
+
+PAHPulmonary arterial hypertension
+PAI-1Plasminogen activator inhibitor-1
+2-PAMPralidoxime
+PANPrimary afferent neurone
+PASParaamino salicylic acid
+PBIProtein bound iodine
+PBLPaucibacillary leprosy
+PBPsPenicillin binding proteins
+PCAPatient controlled anaesthesia
+PCEVPurified chick embryo cell vaccine (rabies)
+PCIPercutaneous coronary intervention
+PCPAParachloro phenylalanine
+PDParkinsons’s disease
+PDEPhosphodiesterase
+PEPulmonary embolism
+PEMAPhenylethyl malonamide
+PEPPostexposure prophylaxis
+PFPurkinje fibre
+PFORPyruvate: ferredoxin oxidoreductase
+PGProstaglandin
+PGI2Prostacyclin
+PgpP-glycoprotein
+PIProtease inhibitor
+PIGPhosphatidyl inositol glycan
+PIP2Phosphatidyl inositol-4,5-bisphosphate
+PKAProtein kinase: cAMP dependent
+PKCProtein kinase C
+PLAPhospholipase A
+PLCPhospholipase C
+Pl. ph.Platelet phospholipid
+pMDIpressurized multidose inhaler
+PnGPenicillin G
+POMCPro-opio melanocortin
+PONVPostoperative nausea and vomiting
+PPPartial pressure
+PPARγParoxysome proliferator-activated 
+receptor γ
+PPHPost partum haemorrhage
+PPIProton pump inhibitor
+ppmPart per million
+PPNGPenicillinase producing N. gonorrhoeae
+PRAPlasma renin activity
+PrEPPre-exposure prophylaxis (of HIV)
+PRFProlactin releasing factor
+PRIHProlactin release inhibitory hormone
+PSVTParoxysmal supra-ventricular tachycardia
+PTProximal tubule
+PTCAPercutaneous transluminal coronary 
+angioplasty
+PTHParathyroid hormone
+PTMAPhenyl trimethyl ammonium
+PTPPost-tetanic potentiation
+PTSDPost-traumatic stress disorder
+PTZPentylenetetrazol
+PUV APsoralen-Ultraviolet A
+PVRVPurified verocell rabies vaccine
+
+
+
+QIDFour times a day
+
+RRifampin (Rifampicin)
+RANKReceptor for activation of nuclear factor κB
+RANKLRANK ligand
+RASRenin-angiotensin system
+RBCRed blood cells
+RBPRetinol binding protein
+RCRespiratory centre
+RCTRandomized clinical trial
+REReticuloendothelial
+REMRapid eye movement (sleep)
+RGSRegulator of G-protein synthesis
+RIGRabies immuneglobulin
+RIMAReversible inhibitor of MAO-A 
+rINNRecommended international 
+nonproprietary name
+RMPResting membrane potential
+RNARibonucleic acid
+RNTCPRevised National Tuberculosis Control 
+Programme
+RPRefractory period
+RTFResistance transfer factor
+RTKsReceptor tyrosine kinases
+RXRRetinoid X receptor
+RyRRyanodine receptor
+
+SStreptomycin
+SASinoauricular (node)
+SABESubacute bacterial endocarditis
+s.c.Subcutaneous
+SCCShort course chemotherapy (of tuberculosis)
+SChSuccinylcholine
+SCIDSevere combined immunodeficiency disease
+SERCASarcoplasmic-endoplasmic reticular calcium 
+ATPase
+SERDsSelective estrogen receptor down regulators
+SERMSelective estrogen receptor modulator
+SERTSerotonin transporter
+SGASecond generation antihistaminic 
+SGLTSodium-glucose transporter
+SHBGSex hormone binding globulin
+SIADHSyndrome of inappropriate ADH secretion
+s.l.Sublingual
+SLCSolute carrier
+SLESystemic lupus erythematosus
+SMONSubacute myelo-optic neuropathy
+SNPSingle nucleotide polymorphism
+SN-PCSubstantia nigra-pars compacta
+SN-PRSubstantia nigra-pars reticularis
+SNRISerotonin and noradrenaline reuptake 
+inhibitor 
+s.o.s.as required
+S/PSulfonamide + pyrimethamine
+SPSubstance P
+SPFSun protection factor
+SPRMSelective progesterone receptor modulator
+SPSSimple partial seizures
+
+
+SRSustained release
+SRS-ASlow reacting substance of anaphylaxis
+SSGSodium stibogluconate
+SSISurgical site infection
+SSRIsSelective serotonin reuptake inhibitors
+STATSignal transducer and activator of 
+transcription
+STEMIST-segment elevation myocardial infarction
+StKStreptokinase
+SUSulfonylurea
+SULTSulfotransferase
+SURSulfonyl urea receptor
+suspSuspension
+SVRSustained viral response
+SWDShift work disorder
+SWSSlow wave sleep
+syrSyrup
+
+t½Half life
+T3Triiodothyronine
+T4Thyroxine
+tabTablet
+TABTyphoid, paratyphoid A and B vaccine
+TALThick ascending limb (loop of Henle)
+TBTubercle bacilli
+TBGThyroxine binding globulin
+TCIITranscobalamin II
+TCAsTricyclic antidepressants
+TCID50Tissue culture infectious dose 50%
+TDMTherapeutic drug monitoring
+TDSThree times a day
+TfTransferrin
+TGTriglyceride
+6-TG6-Thioguanine
+TGF-βTransforming growth factor β
+THCTetrahydrocannabinol
+THFATetrahydro folic acid
+Thio TEPATriethylene thiophosphoramide
+THRThreonine
+TIAsTransient ischaemic attacks
+TNF-αTumour necrosis factor α
+TODTarget organ damage
+TOFTrain-of-four
+t-PATissue plasminogen activator
+TPMTThiopurine methyl transferase
+t.p.r.Total peripheral resistance
+TRThyroid hormone receptor
+
+
+TREThyroid hormone response element
+TRHThyrotropin releasing hormone
+TSHThyroid stimulating hormone
+TTTuberculoid leprosy
+TTSTransdermal therapeutic system
+TXThromboxane
+
+UUnit
+UAUnstable angina
+UDPUridine diphosphate
+UFHUnfractionated heparin
+UGDPUniversity group diabetic programme
+UGTUDP-glucuronosyl transferase
+USANUnited States adopted name
+UTUrea transporter
+UTIUrinary tract infection
+
+vVolt
+VVolume of distribution
+VALValine
+VAPVentilator associated pneumonia
+VDRVit D receptor
+VESVentricular extrasystole
+VFVentricular fibrillation
+VIPVasoactive intestinal peptide
+VitVitamin
+VKORVitamin K epoxide reductase
+VLVisceral leishmaniasis
+VLDLVery low density lipoprotein
+VMAVanillyl mandelic acid
+VMATVesicular monoamine transporter
+VREVancomycin resistant enterococci
+VRSAVancomycin resistant Staphylococcus aureus
+VRUTVasopressin regulated urea transporter 
+VTVentricular tachycardia
+VTEVenous thromboembolism
+vWFvon Willebrand factor
+
+WBCWhite blood cells
+WCVsWater channel containing vesicles
+WHOWorld Health Organization
+WPWWolff-Parkinson-White syndrome
+
+XDR-TBExtensively drug resistant-TB
+
+ZPyrazinamide
+
+ZE(syndrome)
+
+Zollinger-Ellison (syndrome)
