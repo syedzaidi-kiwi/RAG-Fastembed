@@ -1,2 +1,6 @@
-#EPUB files
-data/9789356964327.epub
+# Ignore the main data folder and its contents
+data/
+
+
+# Ignore data folders inside notebooks
+notebooks/data/
