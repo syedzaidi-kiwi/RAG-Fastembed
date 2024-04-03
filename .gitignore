@@ -1,6 +1,2 @@
-# Ignore the main data folder and its contents
 data/
-
-
-# Ignore data folders inside notebooks
 notebooks/data/
